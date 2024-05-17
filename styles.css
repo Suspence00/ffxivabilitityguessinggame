@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+body {
+    font-family: 'Verdana', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #2a2a2a;
+    color: #f0f0f0;
+}
+
+.game-container {
+    text-align: center;
+    background: #1c1c1c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    width: 80%;
+    max-width: 800px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5em;
+    color: #ffcc00;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#job-selection {
+    margin-bottom: 20px;
+}
+
+.job-box {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #444;
+    border-radius: 8px;
+    background-color: #333;
+}
+
+.job-box h3 {
+    margin-top: 0;
+    color: #ffcc00;
+}
+
+.job-box label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+#icon-container {
+    margin-bottom: 20px;
+}
+
+#options-container button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #444;
+    border: 1px solid #555;
+    color: #f0f0f0;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#options-container button:hover {
+    background-color: #555;
+}
+
+#game-info {
+    margin-bottom: 20px;
+}
+
+#lives-container {
+    margin-top: 20px;
+}
+
+#message-container {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #ff6666;
+}
+
+#next-button,
+#play-again {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #444;
+    border: 1px solid #555;
+    color: #f0f0f0;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#next-button:hover,
+#play-again:hover {
+    background-color: #555;
+}
+
+.job-buttons {
+    margin-bottom: 20px;
+}
+
+.job-buttons button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #444;
+    border: 1px solid #555;
+    color: #f0f0f0;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.job-buttons button:hover {
+    background-color: #555;
+}
+
+button.correct-answer {
+    background-color: #28a745 !important;
+    color: #fff !important;
+    border-color: #28a745 !important;
+}
+
+button.incorrect-answer {
+    background-color: #8B0000 !important;
+    color: #fff !important;
+    border-color: #8B0000 !important;
+}

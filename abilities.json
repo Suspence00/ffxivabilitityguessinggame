@@ -1,0 +1,3082 @@
+{
+  "Paladin": [
+    {
+      "icon": "01_PLD/atonement.png",
+      "name": "Atonement"
+    },
+    {
+      "icon": "01_PLD/blade_of_faith.png",
+      "name": "Blade Of Faith"
+    },
+    {
+      "icon": "01_PLD/blade_of_truth.png",
+      "name": "Blade Of Truth"
+    },
+    {
+      "icon": "01_PLD/blade_of_valor.png",
+      "name": "Blade Of Valor"
+    },
+    {
+      "icon": "01_PLD/circle_of_scorn.png",
+      "name": "Circle Of Scorn"
+    },
+    {
+      "icon": "01_PLD/clemency.png",
+      "name": "Clemency"
+    },
+    {
+      "icon": "01_PLD/confiteor.png",
+      "name": "Confiteor"
+    },
+    {
+      "icon": "01_PLD/cover.png",
+      "name": "Cover"
+    },
+    {
+      "icon": "01_PLD/divine_veil.png",
+      "name": "Divine Veil"
+    },
+    {
+      "icon": "01_PLD/expiacion.png",
+      "name": "Expiacion"
+    },
+    {
+      "icon": "01_PLD/fast_blade.png",
+      "name": "Fast Blade"
+    },
+    {
+      "icon": "01_PLD/fight_or_flight.png",
+      "name": "Fight Or Flight"
+    },
+    {
+      "icon": "01_PLD/goring_blade.png",
+      "name": "Goring Blade"
+    },
+    {
+      "icon": "01_PLD/hallowed_ground.png",
+      "name": "Hallowed Ground"
+    },
+    {
+      "icon": "01_PLD/holy_circle.png",
+      "name": "Holy Circle"
+    },
+    {
+      "icon": "01_PLD/holy_sheltron.png",
+      "name": "Holy Sheltron"
+    },
+    {
+      "icon": "01_PLD/holy_spirit.png",
+      "name": "Holy Spirit"
+    },
+    {
+      "icon": "01_PLD/intervene.png",
+      "name": "Intervene"
+    },
+    {
+      "icon": "01_PLD/intervention.png",
+      "name": "Intervention"
+    },
+    {
+      "icon": "01_PLD/iron_will.png",
+      "name": "Iron Will"
+    },
+    {
+      "icon": "01_PLD/passage_of_arms.png",
+      "name": "Passage Of Arms"
+    },
+    {
+      "icon": "01_PLD/prominence.png",
+      "name": "Prominence"
+    },
+    {
+      "icon": "01_PLD/rage_of_halone.png",
+      "name": "Rage Of Halone"
+    },
+    {
+      "icon": "01_PLD/requiescat.png",
+      "name": "Requiescat"
+    },
+    {
+      "icon": "01_PLD/riot_blade.png",
+      "name": "Riot Blade"
+    },
+    {
+      "icon": "01_PLD/royal_authority.png",
+      "name": "Royal Authority"
+    },
+    {
+      "icon": "01_PLD/sentinel.png",
+      "name": "Sentinel"
+    },
+    {
+      "icon": "01_PLD/sheltron.png",
+      "name": "Sheltron"
+    },
+    {
+      "icon": "01_PLD/shield_bash.png",
+      "name": "Shield Bash"
+    },
+    {
+      "icon": "01_PLD/shield_lob.png",
+      "name": "Shield Lob"
+    },
+    {
+      "icon": "01_PLD/spirits_within.png",
+      "name": "Spirits Within"
+    },
+    {
+      "icon": "01_PLD/total_eclipse.png",
+      "name": "Total Eclipse"
+    }
+  ],
+  "Warrior": [
+    {
+      "icon": "02_WAR/berserk.png",
+      "name": "Berserk"
+    },
+    {
+      "icon": "02_WAR/bloodwhetting.png",
+      "name": "Bloodwhetting"
+    },
+    {
+      "icon": "02_WAR/chaotic_cyclone.png",
+      "name": "Chaotic Cyclone"
+    },
+    {
+      "icon": "02_WAR/decimate.png",
+      "name": "Decimate"
+    },
+    {
+      "icon": "02_WAR/defiance.png",
+      "name": "Defiance"
+    },
+    {
+      "icon": "02_WAR/equilibrium.png",
+      "name": "Equilibrium"
+    },
+    {
+      "icon": "02_WAR/fell_cleave.png",
+      "name": "Fell Cleave"
+    },
+    {
+      "icon": "02_WAR/heavy_swing.png",
+      "name": "Heavy Swing"
+    },
+    {
+      "icon": "02_WAR/holmgang.png",
+      "name": "Holmgang"
+    },
+    {
+      "icon": "02_WAR/infuriate.png",
+      "name": "Infuriate"
+    },
+    {
+      "icon": "02_WAR/inner_beast.png",
+      "name": "Inner Beast"
+    },
+    {
+      "icon": "02_WAR/inner_chaos.png",
+      "name": "Inner Chaos"
+    },
+    {
+      "icon": "02_WAR/inner_release.png",
+      "name": "Inner Release"
+    },
+    {
+      "icon": "02_WAR/maim.png",
+      "name": "Maim"
+    },
+    {
+      "icon": "02_WAR/mythril_tempest.png",
+      "name": "Mythril Tempest"
+    },
+    {
+      "icon": "02_WAR/nascent_flash.png",
+      "name": "Nascent Flash"
+    },
+    {
+      "icon": "02_WAR/onslaught.png",
+      "name": "Onslaught"
+    },
+    {
+      "icon": "02_WAR/orogeny.png",
+      "name": "Orogeny"
+    },
+    {
+      "icon": "02_WAR/overpower.png",
+      "name": "Overpower"
+    },
+    {
+      "icon": "02_WAR/primal_rend.png",
+      "name": "Primal Rend"
+    },
+    {
+      "icon": "02_WAR/raw_intuition.png",
+      "name": "Raw Intuition"
+    },
+    {
+      "icon": "02_WAR/shake_it_off.png",
+      "name": "Shake It Off"
+    },
+    {
+      "icon": "02_WAR/steel_cyclone.png",
+      "name": "Steel Cyclone"
+    },
+    {
+      "icon": "02_WAR/storm's_eye.png",
+      "name": "Storm's Eye"
+    },
+    {
+      "icon": "02_WAR/storm's_path.png",
+      "name": "Storm's Path"
+    },
+    {
+      "icon": "02_WAR/thrill_of_battle.png",
+      "name": "Thrill Of Battle"
+    },
+    {
+      "icon": "02_WAR/tomahawk.png",
+      "name": "Tomahawk"
+    },
+    {
+      "icon": "02_WAR/upheaval.png",
+      "name": "Upheaval"
+    },
+    {
+      "icon": "02_WAR/vengeance.png",
+      "name": "Vengeance"
+    }
+  ],
+  "Dark Knight": [
+    {
+      "icon": "03_DRK/abyssal_drain.png",
+      "name": "Abyssal Drain"
+    },
+    {
+      "icon": "03_DRK/bloodspiller.png",
+      "name": "Bloodspiller"
+    },
+    {
+      "icon": "03_DRK/blood_weapon.png",
+      "name": "Blood Weapon"
+    },
+    {
+      "icon": "03_DRK/carve_and_spit.png",
+      "name": "Carve And Spit"
+    },
+    {
+      "icon": "03_DRK/dark_mind.png",
+      "name": "Dark Mind"
+    },
+    {
+      "icon": "03_DRK/dark_missionary.png",
+      "name": "Dark Missionary"
+    },
+    {
+      "icon": "03_DRK/delirium.png",
+      "name": "Delirium"
+    },
+    {
+      "icon": "03_DRK/edge_of_darkness.png",
+      "name": "Edge Of Darkness"
+    },
+    {
+      "icon": "03_DRK/edge_of_shadow.png",
+      "name": "Edge Of Shadow"
+    },
+    {
+      "icon": "03_DRK/flood_of_darkness.png",
+      "name": "Flood Of Darkness"
+    },
+    {
+      "icon": "03_DRK/flood_of_shadow.png",
+      "name": "Flood Of Shadow"
+    },
+    {
+      "icon": "03_DRK/grit.png",
+      "name": "Grit"
+    },
+    {
+      "icon": "03_DRK/hard_slash.png",
+      "name": "Hard Slash"
+    },
+    {
+      "icon": "03_DRK/living_dead.png",
+      "name": "Living Dead"
+    },
+    {
+      "icon": "03_DRK/living_shadow.png",
+      "name": "Living Shadow"
+    },
+    {
+      "icon": "03_DRK/oblation.png",
+      "name": "Oblation"
+    },
+    {
+      "icon": "03_DRK/plunge.png",
+      "name": "Plunge"
+    },
+    {
+      "icon": "03_DRK/quietus.png",
+      "name": "Quietus"
+    },
+    {
+      "icon": "03_DRK/salted_earth.png",
+      "name": "Salted Earth"
+    },
+    {
+      "icon": "03_DRK/salt_and_darkness.png",
+      "name": "Salt And Darkness"
+    },
+    {
+      "icon": "03_DRK/shadowbringer.png",
+      "name": "Shadowbringer"
+    },
+    {
+      "icon": "03_DRK/shadow_wall.png",
+      "name": "Shadow Wall"
+    },
+    {
+      "icon": "03_DRK/souleater.png",
+      "name": "Souleater"
+    },
+    {
+      "icon": "03_DRK/stalwart_soul.png",
+      "name": "Stalwart Soul"
+    },
+    {
+      "icon": "03_DRK/syphon_strike.png",
+      "name": "Syphon Strike"
+    },
+    {
+      "icon": "03_DRK/the_blackest_night.png",
+      "name": "The Blackest Night"
+    },
+    {
+      "icon": "03_DRK/unleash.png",
+      "name": "Unleash"
+    },
+    {
+      "icon": "03_DRK/unmend.png",
+      "name": "Unmend"
+    }
+  ],
+  "Gunbreaker": [
+    {
+      "icon": "04_GNB/abdomen_tear.png",
+      "name": "Abdomen Tear"
+    },
+    {
+      "icon": "04_GNB/aurora.png",
+      "name": "Aurora"
+    },
+    {
+      "icon": "04_GNB/blasting_zone.png",
+      "name": "Blasting Zone"
+    },
+    {
+      "icon": "04_GNB/bloodfest.png",
+      "name": "Bloodfest"
+    },
+    {
+      "icon": "04_GNB/bow_shock.png",
+      "name": "Bow Shock"
+    },
+    {
+      "icon": "04_GNB/brutal_shell.png",
+      "name": "Brutal Shell"
+    },
+    {
+      "icon": "04_GNB/burst_strike.png",
+      "name": "Burst Strike"
+    },
+    {
+      "icon": "04_GNB/camouflage.png",
+      "name": "Camouflage"
+    },
+    {
+      "icon": "04_GNB/continuation.png",
+      "name": "Continuation"
+    },
+    {
+      "icon": "04_GNB/danger_zone.png",
+      "name": "Danger Zone"
+    },
+    {
+      "icon": "04_GNB/demon_slaughter.png",
+      "name": "Demon Slaughter"
+    },
+    {
+      "icon": "04_GNB/demon_slice.png",
+      "name": "Demon Slice"
+    },
+    {
+      "icon": "04_GNB/double_down.png",
+      "name": "Double Down"
+    },
+    {
+      "icon": "04_GNB/eye_gouge.png",
+      "name": "Eye Gouge"
+    },
+    {
+      "icon": "04_GNB/fated_circle.png",
+      "name": "Fated Circle"
+    },
+    {
+      "icon": "04_GNB/gnashing_fang.png",
+      "name": "Gnashing Fang"
+    },
+    {
+      "icon": "04_GNB/heart_of_corundum.png",
+      "name": "Heart Of Corundum"
+    },
+    {
+      "icon": "04_GNB/heart_of_light.png",
+      "name": "Heart Of Light"
+    },
+    {
+      "icon": "04_GNB/heart_of_stone.png",
+      "name": "Heart Of Stone"
+    },
+    {
+      "icon": "04_GNB/hypervelocity.png",
+      "name": "Hypervelocity"
+    },
+    {
+      "icon": "04_GNB/jugular_rip.png",
+      "name": "Jugular Rip"
+    },
+    {
+      "icon": "04_GNB/keen_edge.png",
+      "name": "Keen Edge"
+    },
+    {
+      "icon": "04_GNB/lightning_shot.png",
+      "name": "Lightning Shot"
+    },
+    {
+      "icon": "04_GNB/nebula.png",
+      "name": "Nebula"
+    },
+    {
+      "icon": "04_GNB/no_mercy.png",
+      "name": "No Mercy"
+    },
+    {
+      "icon": "04_GNB/rough_divide.png",
+      "name": "Rough Divide"
+    },
+    {
+      "icon": "04_GNB/royal_guard.png",
+      "name": "Royal Guard"
+    },
+    {
+      "icon": "04_GNB/savage_claw.png",
+      "name": "Savage Claw"
+    },
+    {
+      "icon": "04_GNB/solid_barrel.png",
+      "name": "Solid Barrel"
+    },
+    {
+      "icon": "04_GNB/sonic_break.png",
+      "name": "Sonic Break"
+    },
+    {
+      "icon": "04_GNB/superbolide.png",
+      "name": "Superbolide"
+    },
+    {
+      "icon": "04_GNB/wicked_talon.png",
+      "name": "Wicked Talon"
+    }
+  ],
+  "Monk": [
+    {
+      "icon": "05_MNK/anatman.png",
+      "name": "Anatman"
+    },
+    {
+      "icon": "05_MNK/arm_of_the_destroyer.png",
+      "name": "Arm Of The Destroyer"
+    },
+    {
+      "icon": "05_MNK/bootshine.png",
+      "name": "Bootshine"
+    },
+    {
+      "icon": "05_MNK/brotherhood.png",
+      "name": "Brotherhood"
+    },
+    {
+      "icon": "05_MNK/celestial_revolution.png",
+      "name": "Celestial Revolution"
+    },
+    {
+      "icon": "05_MNK/demolish.png",
+      "name": "Demolish"
+    },
+    {
+      "icon": "05_MNK/dragon_kick.png",
+      "name": "Dragon Kick"
+    },
+    {
+      "icon": "05_MNK/elixir_field.png",
+      "name": "Elixir Field"
+    },
+    {
+      "icon": "05_MNK/enlightenment.png",
+      "name": "Enlightenment"
+    },
+    {
+      "icon": "05_MNK/flint_strike.png",
+      "name": "Flint Strike"
+    },
+    {
+      "icon": "05_MNK/form_shift.png",
+      "name": "Form Shift"
+    },
+    {
+      "icon": "05_MNK/four-point_fury.png",
+      "name": "Four-Point Fury"
+    },
+    {
+      "icon": "05_MNK/howling_fist.png",
+      "name": "Howling Fist"
+    },
+    {
+      "icon": "05_MNK/mantra.png",
+      "name": "Mantra"
+    },
+    {
+      "icon": "05_MNK/masterful_blitz.png",
+      "name": "Masterful Blitz"
+    },
+    {
+      "icon": "05_MNK/meditation.png",
+      "name": "Meditation"
+    },
+    {
+      "icon": "05_MNK/perfect_balance.png",
+      "name": "Perfect Balance"
+    },
+    {
+      "icon": "05_MNK/phantom_rush.png",
+      "name": "Phantom Rush"
+    },
+    {
+      "icon": "05_MNK/riddle_of_earth.png",
+      "name": "Riddle Of Earth"
+    },
+    {
+      "icon": "05_MNK/riddle_of_fire.png",
+      "name": "Riddle Of Fire"
+    },
+    {
+      "icon": "05_MNK/riddle_of_wind.png",
+      "name": "Riddle Of Wind"
+    },
+    {
+      "icon": "05_MNK/rising_phoenix.png",
+      "name": "Rising Phoenix"
+    },
+    {
+      "icon": "05_MNK/rockbreaker.png",
+      "name": "Rockbreaker"
+    },
+    {
+      "icon": "05_MNK/shadow_of_the_destroyer.png",
+      "name": "Shadow Of The Destroyer"
+    },
+    {
+      "icon": "05_MNK/six-sided_star.png",
+      "name": "Six-Sided Star"
+    },
+    {
+      "icon": "05_MNK/snap_punch.png",
+      "name": "Snap Punch"
+    },
+    {
+      "icon": "05_MNK/steel_peak.png",
+      "name": "Steel Peak"
+    },
+    {
+      "icon": "05_MNK/the_forbidden_chakra.png",
+      "name": "The Forbidden Chakra"
+    },
+    {
+      "icon": "05_MNK/thunderclap.png",
+      "name": "Thunderclap"
+    },
+    {
+      "icon": "05_MNK/tornado_kick.png",
+      "name": "Tornado Kick"
+    },
+    {
+      "icon": "05_MNK/true_strike.png",
+      "name": "True Strike"
+    },
+    {
+      "icon": "05_MNK/twin_snakes.png",
+      "name": "Twin Snakes"
+    }
+  ],
+  "Dragoon": [
+    {
+      "icon": "06_DRG/battle_litany.png",
+      "name": "Battle Litany"
+    },
+    {
+      "icon": "06_DRG/chaos_thrust.png",
+      "name": "Chaos Thrust"
+    },
+    {
+      "icon": "06_DRG/chaotic_spring.png",
+      "name": "Chaotic Spring"
+    },
+    {
+      "icon": "06_DRG/coerthan_torment.png",
+      "name": "Coerthan Torment"
+    },
+    {
+      "icon": "06_DRG/disembowel.png",
+      "name": "Disembowel"
+    },
+    {
+      "icon": "06_DRG/doom_spike.png",
+      "name": "Doom Spike"
+    },
+    {
+      "icon": "06_DRG/draconian_fury.png",
+      "name": "Draconian Fury"
+    },
+    {
+      "icon": "06_DRG/dragonfire_dive.png",
+      "name": "Dragonfire Dive"
+    },
+    {
+      "icon": "06_DRG/dragon_sight.png",
+      "name": "Dragon Sight"
+    },
+    {
+      "icon": "06_DRG/elusive_jump.png",
+      "name": "Elusive Jump"
+    },
+    {
+      "icon": "06_DRG/fang_and_claw.png",
+      "name": "Fang And Claw"
+    },
+    {
+      "icon": "06_DRG/full_thrust.png",
+      "name": "Full Thrust"
+    },
+    {
+      "icon": "06_DRG/geirskogul.png",
+      "name": "Geirskogul"
+    },
+    {
+      "icon": "06_DRG/heavens'_thrust.png",
+      "name": "Heavens' Thrust"
+    },
+    {
+      "icon": "06_DRG/high_jump.png",
+      "name": "High Jump"
+    },
+    {
+      "icon": "06_DRG/jump.png",
+      "name": "Jump"
+    },
+    {
+      "icon": "06_DRG/lance_charge.png",
+      "name": "Lance Charge"
+    },
+    {
+      "icon": "06_DRG/life_surge.png",
+      "name": "Life Surge"
+    },
+    {
+      "icon": "06_DRG/mirage_dive.png",
+      "name": "Mirage Dive"
+    },
+    {
+      "icon": "06_DRG/nastrond.png",
+      "name": "Nastrond"
+    },
+    {
+      "icon": "06_DRG/piercing_talon.png",
+      "name": "Piercing Talon"
+    },
+    {
+      "icon": "06_DRG/raiden_thrust.png",
+      "name": "Raiden Thrust"
+    },
+    {
+      "icon": "06_DRG/sonic_thrust.png",
+      "name": "Sonic Thrust"
+    },
+    {
+      "icon": "06_DRG/spineshatter_dive.png",
+      "name": "Spineshatter Dive"
+    },
+    {
+      "icon": "06_DRG/stardiver.png",
+      "name": "Stardiver"
+    },
+    {
+      "icon": "06_DRG/true_thrust.png",
+      "name": "True Thrust"
+    },
+    {
+      "icon": "06_DRG/vorpal_thrust.png",
+      "name": "Vorpal Thrust"
+    },
+    {
+      "icon": "06_DRG/wheeling_thrust.png",
+      "name": "Wheeling Thrust"
+    },
+    {
+      "icon": "06_DRG/wyrmwind_thrust.png",
+      "name": "Wyrmwind Thrust"
+    }
+  ],
+  "Samurai": [
+    {
+      "icon": "07_SAM/enpi.png",
+      "name": "Enpi"
+    },
+    {
+      "icon": "07_SAM/fuga.png",
+      "name": "Fuga"
+    },
+    {
+      "icon": "07_SAM/fuko.png",
+      "name": "Fuko"
+    },
+    {
+      "icon": "07_SAM/gekko.png",
+      "name": "Gekko"
+    },
+    {
+      "icon": "07_SAM/hagakure.png",
+      "name": "Hagakure"
+    },
+    {
+      "icon": "07_SAM/hakaze.png",
+      "name": "Hakaze"
+    },
+    {
+      "icon": "07_SAM/higanbana.png",
+      "name": "Higanbana"
+    },
+    {
+      "icon": "07_SAM/hissatsu_guren.png",
+      "name": "Hissatsu Guren"
+    },
+    {
+      "icon": "07_SAM/hissatsu_gyoten.png",
+      "name": "Hissatsu Gyoten"
+    },
+    {
+      "icon": "07_SAM/hissatsu_kyuten.png",
+      "name": "Hissatsu Kyuten"
+    },
+    {
+      "icon": "07_SAM/hissatsu_senei.png",
+      "name": "Hissatsu Senei"
+    },
+    {
+      "icon": "07_SAM/hissatsu_shinten.png",
+      "name": "Hissatsu Shinten"
+    },
+    {
+      "icon": "07_SAM/hissatsu_yaten.png",
+      "name": "Hissatsu Yaten"
+    },
+    {
+      "icon": "07_SAM/Iaijutsu.png",
+      "name": "Iaijutsu"
+    },
+    {
+      "icon": "07_SAM/ikishoten.png",
+      "name": "Ikishoten"
+    },
+    {
+      "icon": "07_SAM/jinpu.png",
+      "name": "Jinpu"
+    },
+    {
+      "icon": "07_SAM/kaeshi_goken.png",
+      "name": "Kaeshi Goken"
+    },
+    {
+      "icon": "07_SAM/kaeshi_higanbana.png",
+      "name": "Kaeshi Higanbana"
+    },
+    {
+      "icon": "07_SAM/kaeshi_namikiri.png",
+      "name": "Kaeshi Namikiri"
+    },
+    {
+      "icon": "07_SAM/kaeshi_setsugekka.png",
+      "name": "Kaeshi Setsugekka"
+    },
+    {
+      "icon": "07_SAM/kasha.png",
+      "name": "Kasha"
+    },
+    {
+      "icon": "07_SAM/mangetsu.png",
+      "name": "Mangetsu"
+    },
+    {
+      "icon": "07_SAM/meditate.png",
+      "name": "Meditate"
+    },
+    {
+      "icon": "07_SAM/meikyo_shisui.png",
+      "name": "Meikyo Shisui"
+    },
+    {
+      "icon": "07_SAM/midare_setsugekka.png",
+      "name": "Midare Setsugekka"
+    },
+    {
+      "icon": "07_SAM/ogi_namikiri.png",
+      "name": "Ogi Namikiri"
+    },
+    {
+      "icon": "07_SAM/oka.png",
+      "name": "Oka"
+    },
+    {
+      "icon": "07_SAM/shifu.png",
+      "name": "Shifu"
+    },
+    {
+      "icon": "07_SAM/shoha.png",
+      "name": "Shoha"
+    },
+    {
+      "icon": "07_SAM/shoha_II.png",
+      "name": "Shoha II"
+    },
+    {
+      "icon": "07_SAM/tenka_goken.png",
+      "name": "Tenka Goken"
+    },
+    {
+      "icon": "07_SAM/third_eye.png",
+      "name": "Third Eye"
+    },
+    {
+      "icon": "07_SAM/tsubame-gaeshi.png",
+      "name": "Tsubame-Gaeshi"
+    },
+    {
+      "icon": "07_SAM/yukikaze.png",
+      "name": "Yukikaze"
+    }
+  ],
+  "Reaper": [
+    {
+      "icon": "08_RPR/arcane_circle.png",
+      "name": "Arcane Circle"
+    },
+    {
+      "icon": "08_RPR/arcane_crest.png",
+      "name": "Arcane Crest"
+    },
+    {
+      "icon": "08_RPR/blood_stalk.png",
+      "name": "Blood Stalk"
+    },
+    {
+      "icon": "08_RPR/communio.png",
+      "name": "Communio"
+    },
+    {
+      "icon": "08_RPR/cross_reaping.png",
+      "name": "Cross Reaping"
+    },
+    {
+      "icon": "08_RPR/enshroud.png",
+      "name": "Enshroud"
+    },
+    {
+      "icon": "08_RPR/gallows.png",
+      "name": "Gallows"
+    },
+    {
+      "icon": "08_RPR/gibbet.png",
+      "name": "Gibbet"
+    },
+    {
+      "icon": "08_RPR/gluttony.png",
+      "name": "Gluttony"
+    },
+    {
+      "icon": "08_RPR/grim_reaping.png",
+      "name": "Grim Reaping"
+    },
+    {
+      "icon": "08_RPR/grim_swathe.png",
+      "name": "Grim Swathe"
+    },
+    {
+      "icon": "08_RPR/guillotine.png",
+      "name": "Guillotine"
+    },
+    {
+      "icon": "08_RPR/harpe.png",
+      "name": "Harpe"
+    },
+    {
+      "icon": "08_RPR/harvest_moon.png",
+      "name": "Harvest Moon"
+    },
+    {
+      "icon": "08_RPR/hell's_egress.png",
+      "name": "Hell'S Egress"
+    },
+    {
+      "icon": "08_RPR/hell's_ingress.png",
+      "name": "Hell'S Ingress"
+    },
+    {
+      "icon": "08_RPR/infernal_slice.png",
+      "name": "Infernal Slice"
+    },
+    {
+      "icon": "08_RPR/lemure's_scythe.png",
+      "name": "Lemure'S Scythe"
+    },
+    {
+      "icon": "08_RPR/lemure's_slice.png",
+      "name": "Lemure'S Slice"
+    },
+    {
+      "icon": "08_RPR/nightmare_scythe.png",
+      "name": "Nightmare Scythe"
+    },
+    {
+      "icon": "08_RPR/plentiful_harvest.png",
+      "name": "Plentiful Harvest"
+    },
+    {
+      "icon": "08_RPR/regress.png",
+      "name": "Regress"
+    },
+    {
+      "icon": "08_RPR/shadow_of_death.png",
+      "name": "Shadow Of Death"
+    },
+    {
+      "icon": "08_RPR/slice.png",
+      "name": "Slice"
+    },
+    {
+      "icon": "08_RPR/soulsow.png",
+      "name": "Soulsow"
+    },
+    {
+      "icon": "08_RPR/soul_scythe.png",
+      "name": "Soul Scythe"
+    },
+    {
+      "icon": "08_RPR/soul_slice.png",
+      "name": "Soul Slice"
+    },
+    {
+      "icon": "08_RPR/spinning_scythe.png",
+      "name": "Spinning Scythe"
+    },
+    {
+      "icon": "08_RPR/unveiled_gallows.png",
+      "name": "Unveiled Gallows"
+    },
+    {
+      "icon": "08_RPR/unveiled_gibbet.png",
+      "name": "Unveiled Gibbet"
+    },
+    {
+      "icon": "08_RPR/void_reaping.png",
+      "name": "Void Reaping"
+    },
+    {
+      "icon": "08_RPR/waxing_slice.png",
+      "name": "Waxing Slice"
+    },
+    {
+      "icon": "08_RPR/whorl_of_death.png",
+      "name": "Whorl Of Death"
+    }
+  ],
+  "Ninja": [
+    {
+      "icon": "09_NIN/aeolian_edge.png",
+      "name": "Aeolian Edge"
+    },
+    {
+      "icon": "09_NIN/armor_crush.png",
+      "name": "Armor Crush"
+    },
+    {
+      "icon": "09_NIN/assassinate.png",
+      "name": "Assassinate"
+    },
+    {
+      "icon": "09_NIN/bhavacakra.png",
+      "name": "Bhavacakra"
+    },
+    {
+      "icon": "09_NIN/bunshin.png",
+      "name": "Bunshin"
+    },
+    {
+      "icon": "09_NIN/chi.png",
+      "name": "Chi"
+    },
+    {
+      "icon": "09_NIN/death_blossom.png",
+      "name": "Death Blossom"
+    },
+    {
+      "icon": "09_NIN/doton.png",
+      "name": "Doton"
+    },
+    {
+      "icon": "09_NIN/dream_within_a_dream.png",
+      "name": "Dream Within A Dream"
+    },
+    {
+      "icon": "09_NIN/fleeting_raiju.png",
+      "name": "Fleeting Raiju"
+    },
+    {
+      "icon": "09_NIN/forked_raiju.png",
+      "name": "Forked Raiju"
+    },
+    {
+      "icon": "09_NIN/fuma_shuriken.png",
+      "name": "Fuma Shuriken"
+    },
+    {
+      "icon": "09_NIN/goka_mekkyaku.png",
+      "name": "Goka Mekkyaku"
+    },
+    {
+      "icon": "09_NIN/gust_slash.png",
+      "name": "Gust Slash"
+    },
+    {
+      "icon": "09_NIN/hakke_mujinsatsu.png",
+      "name": "Hakke Mujinsatsu"
+    },
+    {
+      "icon": "09_NIN/hellfrog_medium.png",
+      "name": "Hellfrog Medium"
+    },
+    {
+      "icon": "09_NIN/hide.png",
+      "name": "Hide"
+    },
+    {
+      "icon": "09_NIN/hollow_nozuchi.png",
+      "name": "Hollow Nozuchi"
+    },
+    {
+      "icon": "09_NIN/huraijin.png",
+      "name": "Huraijin"
+    },
+    {
+      "icon": "09_NIN/huton.png",
+      "name": "Huton"
+    },
+    {
+      "icon": "09_NIN/hyosho_ranryu.png",
+      "name": "Hyosho Ranryu"
+    },
+    {
+      "icon": "09_NIN/hyoton.png",
+      "name": "Hyoton"
+    },
+    {
+      "icon": "09_NIN/jin.png",
+      "name": "Jin"
+    },
+    {
+      "icon": "09_NIN/kassatsu.png",
+      "name": "Kassatsu"
+    },
+    {
+      "icon": "09_NIN/katon.png",
+      "name": "Katon"
+    },
+    {
+      "icon": "09_NIN/meisui.png",
+      "name": "Meisui"
+    },
+    {
+      "icon": "09_NIN/mug.png",
+      "name": "Mug"
+    },
+    {
+      "icon": "09_NIN/ninjutsu.png",
+      "name": "Ninjutsu"
+    },
+    {
+      "icon": "09_NIN/phantom_kamaitachi.png",
+      "name": "Phantom Kamaitachi"
+    },
+    {
+      "icon": "09_NIN/rabbit_medium.png",
+      "name": "Rabbit Medium"
+    },
+    {
+      "icon": "09_NIN/raiton.png",
+      "name": "Raiton"
+    },
+    {
+      "icon": "09_NIN/shade_shift.png",
+      "name": "Shade Shift"
+    },
+    {
+      "icon": "09_NIN/shukuchi.png",
+      "name": "Shukuchi"
+    },
+    {
+      "icon": "09_NIN/spinning_edge.png",
+      "name": "Spinning Edge"
+    },
+    {
+      "icon": "09_NIN/suiton.png",
+      "name": "Suiton"
+    },
+    {
+      "icon": "09_NIN/ten.png",
+      "name": "Ten"
+    },
+    {
+      "icon": "09_NIN/ten_chi_jin.png",
+      "name": "Ten Chi Jin"
+    },
+    {
+      "icon": "09_NIN/throwing_dagger.png",
+      "name": "Throwing Dagger"
+    },
+    {
+      "icon": "09_NIN/trick_attack.png",
+      "name": "Trick Attack"
+    }
+  ],
+  "Bard": [
+    {
+      "icon": "10_BRD/apex_arrow.png",
+      "name": "Apex Arrow"
+    },
+    {
+      "icon": "10_BRD/army's_paeon.png",
+      "name": "Army'S Paeon"
+    },
+    {
+      "icon": "10_BRD/barrage.png",
+      "name": "Barrage"
+    },
+    {
+      "icon": "10_BRD/battle_voice.png",
+      "name": "Battle Voice"
+    },
+    {
+      "icon": "10_BRD/blast_arrow.png",
+      "name": "Blast Arrow"
+    },
+    {
+      "icon": "10_BRD/bloodletter.png",
+      "name": "Bloodletter"
+    },
+    {
+      "icon": "10_BRD/burst_shot.png",
+      "name": "Burst Shot"
+    },
+    {
+      "icon": "10_BRD/caustic_bite.png",
+      "name": "Caustic Bite"
+    },
+    {
+      "icon": "10_BRD/empyreal_arrow.png",
+      "name": "Empyreal Arrow"
+    },
+    {
+      "icon": "10_BRD/heavy_shot.png",
+      "name": "Heavy Shot"
+    },
+    {
+      "icon": "10_BRD/iron_jaws.png",
+      "name": "Iron Jaws"
+    },
+    {
+      "icon": "10_BRD/ladonsbite.png",
+      "name": "Ladonsbite"
+    },
+    {
+      "icon": "10_BRD/mage's_ballad.png",
+      "name": "Mage'S Ballad"
+    },
+    {
+      "icon": "10_BRD/nature's_minne.png",
+      "name": "Nature'S Minne"
+    },
+    {
+      "icon": "10_BRD/pitch_perfect.png",
+      "name": "Pitch Perfect"
+    },
+    {
+      "icon": "10_BRD/quick_nock.png",
+      "name": "Quick Nock"
+    },
+    {
+      "icon": "10_BRD/radiant_finale.png",
+      "name": "Radiant Finale"
+    },
+    {
+      "icon": "10_BRD/raging_strikes.png",
+      "name": "Raging Strikes"
+    },
+    {
+      "icon": "10_BRD/rain_of_death.png",
+      "name": "Rain Of Death"
+    },
+    {
+      "icon": "10_BRD/refulgent_arrow.png",
+      "name": "Refulgent Arrow"
+    },
+    {
+      "icon": "10_BRD/repelling_shot.png",
+      "name": "Repelling Shot"
+    },
+    {
+      "icon": "10_BRD/shadowbite.png",
+      "name": "Shadowbite"
+    },
+    {
+      "icon": "10_BRD/sidewinder.png",
+      "name": "Sidewinder"
+    },
+    {
+      "icon": "10_BRD/stormbite.png",
+      "name": "Stormbite"
+    },
+    {
+      "icon": "10_BRD/straight_shot.png",
+      "name": "Straight Shot"
+    },
+    {
+      "icon": "10_BRD/the_wanderer's_minuet.png",
+      "name": "The Wanderer'S Minuet"
+    },
+    {
+      "icon": "10_BRD/the_warden's_paean.png",
+      "name": "The Warden'S Paean"
+    },
+    {
+      "icon": "10_BRD/troubadour.png",
+      "name": "Troubadour"
+    },
+    {
+      "icon": "10_BRD/venomous_bite.png",
+      "name": "Venomous Bite"
+    },
+    {
+      "icon": "10_BRD/windbite.png",
+      "name": "Windbite"
+    }
+  ],
+  "Machinist": [
+    {
+      "icon": "11_MCH/air_anchor.png",
+      "name": "Air Anchor"
+    },
+    {
+      "icon": "11_MCH/arm_punch.png",
+      "name": "Arm Punch"
+    },
+    {
+      "icon": "11_MCH/automaton_queen.png",
+      "name": "Automaton Queen"
+    },
+    {
+      "icon": "11_MCH/auto_crossbow.png",
+      "name": "Auto Crossbow"
+    },
+    {
+      "icon": "11_MCH/barrel_stabilizer.png",
+      "name": "Barrel Stabilizer"
+    },
+    {
+      "icon": "11_MCH/bioblaster.png",
+      "name": "Bioblaster"
+    },
+    {
+      "icon": "11_MCH/chain_saw.png",
+      "name": "Chain Saw"
+    },
+    {
+      "icon": "11_MCH/clean_shot.png",
+      "name": "Clean Shot"
+    },
+    {
+      "icon": "11_MCH/crowned_collider.png",
+      "name": "Crowned Collider"
+    },
+    {
+      "icon": "11_MCH/detonator.png",
+      "name": "Detonator"
+    },
+    {
+      "icon": "11_MCH/drill.png",
+      "name": "Drill"
+    },
+    {
+      "icon": "11_MCH/flamethrower.png",
+      "name": "Flamethrower"
+    },
+    {
+      "icon": "11_MCH/gauss_round.png",
+      "name": "Gauss Round"
+    },
+    {
+      "icon": "11_MCH/heated_clean_shot.png",
+      "name": "Heated Clean Shot"
+    },
+    {
+      "icon": "11_MCH/heated_slug_shot.png",
+      "name": "Heated Slug Shot"
+    },
+    {
+      "icon": "11_MCH/heated_split_shot.png",
+      "name": "Heated Split Shot"
+    },
+    {
+      "icon": "11_MCH/heat_blast.png",
+      "name": "Heat Blast"
+    },
+    {
+      "icon": "11_MCH/hot_shot.png",
+      "name": "Hot Shot"
+    },
+    {
+      "icon": "11_MCH/hypercharge.png",
+      "name": "Hypercharge"
+    },
+    {
+      "icon": "11_MCH/pile_bunker.png",
+      "name": "Pile Bunker"
+    },
+    {
+      "icon": "11_MCH/queen_overdrive.png",
+      "name": "Queen Overdrive"
+    },
+    {
+      "icon": "11_MCH/reassemble.png",
+      "name": "Reassemble"
+    },
+    {
+      "icon": "11_MCH/ricochet.png",
+      "name": "Ricochet"
+    },
+    {
+      "icon": "11_MCH/roller_dash.png",
+      "name": "Roller Dash"
+    },
+    {
+      "icon": "11_MCH/rook_autoturret.png",
+      "name": "Rook Autoturret"
+    },
+    {
+      "icon": "11_MCH/rook_overdrive.png",
+      "name": "Rook Overdrive"
+    },
+    {
+      "icon": "11_MCH/rook_overload.png",
+      "name": "Rook Overload"
+    },
+    {
+      "icon": "11_MCH/scattergun.png",
+      "name": "Scattergun"
+    },
+    {
+      "icon": "11_MCH/slug_shot.png",
+      "name": "Slug Shot"
+    },
+    {
+      "icon": "11_MCH/split_shot.png",
+      "name": "Split Shot"
+    },
+    {
+      "icon": "11_MCH/spread_shot.png",
+      "name": "Spread Shot"
+    },
+    {
+      "icon": "11_MCH/tactician.png",
+      "name": "Tactician"
+    },
+    {
+      "icon": "11_MCH/wildfire.png",
+      "name": "Wildfire"
+    }
+  ],
+  "Dancer": [
+    {
+      "icon": "12_DNC/bladeshower.png",
+      "name": "Bladeshower"
+    },
+    {
+      "icon": "12_DNC/bloodshower.png",
+      "name": "Bloodshower"
+    },
+    {
+      "icon": "12_DNC/cascade.png",
+      "name": "Cascade"
+    },
+    {
+      "icon": "12_DNC/closed_position.png",
+      "name": "Closed Position"
+    },
+    {
+      "icon": "12_DNC/curing_waltz.png",
+      "name": "Curing Waltz"
+    },
+    {
+      "icon": "12_DNC/devilment.png",
+      "name": "Devilment"
+    },
+    {
+      "icon": "12_DNC/emboite.png",
+      "name": "Emboite"
+    },
+    {
+      "icon": "12_DNC/Ending.png",
+      "name": "Ending"
+    },
+    {
+      "icon": "12_DNC/entrechat.png",
+      "name": "Entrechat"
+    },
+    {
+      "icon": "12_DNC/en_avant.png",
+      "name": "En Avant"
+    },
+    {
+      "icon": "12_DNC/fan_dance.png",
+      "name": "Fan Dance"
+    },
+    {
+      "icon": "12_DNC/fan_dance_II.png",
+      "name": "Fan Dance II"
+    },
+    {
+      "icon": "12_DNC/fan_dance_III.png",
+      "name": "Fan Dance III"
+    },
+    {
+      "icon": "12_DNC/fan_dance_IV.png",
+      "name": "Fan Dance IV"
+    },
+    {
+      "icon": "12_DNC/flourish.png",
+      "name": "Flourish"
+    },
+    {
+      "icon": "12_DNC/fountain.png",
+      "name": "Fountain"
+    },
+    {
+      "icon": "12_DNC/fountainfall.png",
+      "name": "Fountainfall"
+    },
+    {
+      "icon": "12_DNC/Improvisation.png",
+      "name": "Improvisation"
+    },
+    {
+      "icon": "12_DNC/improvised_finish.png",
+      "name": "Improvised Finish"
+    },
+    {
+      "icon": "12_DNC/jete.png",
+      "name": "Jete"
+    },
+    {
+      "icon": "12_DNC/pirouette.png",
+      "name": "Pirouette"
+    },
+    {
+      "icon": "12_DNC/reverse_cascade.png",
+      "name": "Reverse Cascade"
+    },
+    {
+      "icon": "12_DNC/rising_windmill.png",
+      "name": "Rising Windmill"
+    },
+    {
+      "icon": "12_DNC/saber_dance.png",
+      "name": "Saber Dance"
+    },
+    {
+      "icon": "12_DNC/shield_samba.png",
+      "name": "Shield Samba"
+    },
+    {
+      "icon": "12_DNC/standard_finish.png",
+      "name": "Standard Finish"
+    },
+    {
+      "icon": "12_DNC/standard_step.png",
+      "name": "Standard Step"
+    },
+    {
+      "icon": "12_DNC/starfall_dance.png",
+      "name": "Starfall Dance"
+    },
+    {
+      "icon": "12_DNC/technical_finish.png",
+      "name": "Technical Finish"
+    },
+    {
+      "icon": "12_DNC/technical_step.png",
+      "name": "Technical Step"
+    },
+    {
+      "icon": "12_DNC/tillana.png",
+      "name": "Tillana"
+    },
+    {
+      "icon": "12_DNC/windmill.png",
+      "name": "Windmill"
+    }
+  ],
+  "Black Mage": [
+    {
+      "icon": "13_BLM/aetherial_manipulation.png",
+      "name": "Aetherial Manipulation"
+    },
+    {
+      "icon": "13_BLM/amplifier.png",
+      "name": "Amplifier"
+    },
+    {
+      "icon": "13_BLM/between_the_lines.png",
+      "name": "Between The Lines"
+    },
+    {
+      "icon": "13_BLM/blizzard.png",
+      "name": "Blizzard"
+    },
+    {
+      "icon": "13_BLM/blizzard_II.png",
+      "name": "Blizzard II"
+    },
+    {
+      "icon": "13_BLM/blizzard_III.png",
+      "name": "Blizzard III"
+    },
+    {
+      "icon": "13_BLM/blizzard_IV.png",
+      "name": "Blizzard IV"
+    },
+    {
+      "icon": "13_BLM/despair.png",
+      "name": "Despair"
+    },
+    {
+      "icon": "13_BLM/fire.png",
+      "name": "Fire"
+    },
+    {
+      "icon": "13_BLM/fire_II.png",
+      "name": "Fire II"
+    },
+    {
+      "icon": "13_BLM/fire_III.png",
+      "name": "Fire III"
+    },
+    {
+      "icon": "13_BLM/fire_IV.png",
+      "name": "Fire IV"
+    },
+    {
+      "icon": "13_BLM/flare.png",
+      "name": "Flare"
+    },
+    {
+      "icon": "13_BLM/foul.png",
+      "name": "Foul"
+    },
+    {
+      "icon": "13_BLM/freeze.png",
+      "name": "Freeze"
+    },
+    {
+      "icon": "13_BLM/high_blizzard_II.png",
+      "name": "High Blizzard II"
+    },
+    {
+      "icon": "13_BLM/high_fire_II.png",
+      "name": "High Fire II"
+    },
+    {
+      "icon": "13_BLM/ley_lines.png",
+      "name": "Ley Lines"
+    },
+    {
+      "icon": "13_BLM/manafont.png",
+      "name": "Manafont"
+    },
+    {
+      "icon": "13_BLM/manaward.png",
+      "name": "Manaward"
+    },
+    {
+      "icon": "13_BLM/paradox.png",
+      "name": "Paradox"
+    },
+    {
+      "icon": "13_BLM/scathe.png",
+      "name": "Scathe"
+    },
+    {
+      "icon": "13_BLM/sharpcast.png",
+      "name": "Sharpcast"
+    },
+    {
+      "icon": "13_BLM/thunder.png",
+      "name": "Thunder"
+    },
+    {
+      "icon": "13_BLM/thunder_II.png",
+      "name": "Thunder II"
+    },
+    {
+      "icon": "13_BLM/thunder_III.png",
+      "name": "Thunder III"
+    },
+    {
+      "icon": "13_BLM/thunder_IV.png",
+      "name": "Thunder IV"
+    },
+    {
+      "icon": "13_BLM/transpose.png",
+      "name": "Transpose"
+    },
+    {
+      "icon": "13_BLM/triplecast.png",
+      "name": "Triplecast"
+    },
+    {
+      "icon": "13_BLM/umbral_soul.png",
+      "name": "Umbral Soul"
+    },
+    {
+      "icon": "13_BLM/xenoglossy.png",
+      "name": "Xenoglossy"
+    }
+  ],
+  "Summoner": [
+    {
+      "icon": "14_SMN/aethercharge.png",
+      "name": "Aethercharge"
+    },
+    {
+      "icon": "14_SMN/akh_morn.png",
+      "name": "Akh Morn"
+    },
+    {
+      "icon": "14_SMN/astral_flare.png",
+      "name": "Astral Flare"
+    },
+    {
+      "icon": "14_SMN/astral_flow.png",
+      "name": "Astral Flow"
+    },
+    {
+      "icon": "14_SMN/astral_impulse.png",
+      "name": "Astral Impulse"
+    },
+    {
+      "icon": "14_SMN/brand_of_purgatory.png",
+      "name": "Brand Of Purgatory"
+    },
+    {
+      "icon": "14_SMN/crimson_cyclone.png",
+      "name": "Crimson Cyclone"
+    },
+    {
+      "icon": "14_SMN/crimson_strike.png",
+      "name": "Crimson Strike"
+    },
+    {
+      "icon": "14_SMN/deathflare.png",
+      "name": "Deathflare"
+    },
+    {
+      "icon": "14_SMN/dreadwyrm_trance.png",
+      "name": "Dreadwyrm Trance"
+    },
+    {
+      "icon": "14_SMN/emerald_catastrophe.png",
+      "name": "Emerald Catastrophe"
+    },
+    {
+      "icon": "14_SMN/emerald_rite.png",
+      "name": "Emerald Rite"
+    },
+    {
+      "icon": "14_SMN/energy_drain.png",
+      "name": "Energy Drain"
+    },
+    {
+      "icon": "14_SMN/energy_siphon.png",
+      "name": "Energy Siphon"
+    },
+    {
+      "icon": "14_SMN/enkindle_bahamut.png",
+      "name": "Enkindle Bahamut"
+    },
+    {
+      "icon": "14_SMN/enkindle_phoenix.png",
+      "name": "Enkindle Phoenix"
+    },
+    {
+      "icon": "14_SMN/everlasting_flight.png",
+      "name": "Everlasting Flight"
+    },
+    {
+      "icon": "14_SMN/fester.png",
+      "name": "Fester"
+    },
+    {
+      "icon": "14_SMN/fountain_of_fire.png",
+      "name": "Fountain Of Fire"
+    },
+    {
+      "icon": "14_SMN/gemshine.png",
+      "name": "Gemshine"
+    },
+    {
+      "icon": "14_SMN/mountain_buster.png",
+      "name": "Mountain Buster"
+    },
+    {
+      "icon": "14_SMN/outburst.png",
+      "name": "Outburst"
+    },
+    {
+      "icon": "14_SMN/painflare.png",
+      "name": "Painflare"
+    },
+    {
+      "icon": "14_SMN/physick.png",
+      "name": "Physick"
+    },
+    {
+      "icon": "14_SMN/precious_brilliance.png",
+      "name": "Precious Brilliance"
+    },
+    {
+      "icon": "14_SMN/radiant_aegis.png",
+      "name": "Radiant Aegis"
+    },
+    {
+      "icon": "14_SMN/rekindle.png",
+      "name": "Rekindle"
+    },
+    {
+      "icon": "14_SMN/resurrection.png",
+      "name": "Resurrection"
+    },
+    {
+      "icon": "14_SMN/revelation.png",
+      "name": "Revelation"
+    },
+    {
+      "icon": "14_SMN/ruby_catastrophe.png",
+      "name": "Ruby Catastrophe"
+    },
+    {
+      "icon": "14_SMN/ruby_rite.png",
+      "name": "Ruby Rite"
+    },
+    {
+      "icon": "14_SMN/ruin.png",
+      "name": "Ruin"
+    },
+    {
+      "icon": "14_SMN/ruin_II.png",
+      "name": "Ruin II"
+    },
+    {
+      "icon": "14_SMN/ruin_III.png",
+      "name": "Ruin III"
+    },
+    {
+      "icon": "14_SMN/ruin_IV.png",
+      "name": "Ruin IV"
+    },
+    {
+      "icon": "14_SMN/scarlet_flame.png",
+      "name": "Scarlet Flame"
+    },
+    {
+      "icon": "14_SMN/searing_light.png",
+      "name": "Searing Light"
+    },
+    {
+      "icon": "14_SMN/slipstream.png",
+      "name": "Slipstream"
+    },
+    {
+      "icon": "14_SMN/summon_bahamut.png",
+      "name": "Summon Bahamut"
+    },
+    {
+      "icon": "14_SMN/summon_carbuncle.png",
+      "name": "Summon Carbuncle"
+    },
+    {
+      "icon": "14_SMN/summon_emerald.png",
+      "name": "Summon Emerald"
+    },
+    {
+      "icon": "14_SMN/summon_garuda.png",
+      "name": "Summon Garuda"
+    },
+    {
+      "icon": "14_SMN/summon_garuda_II.png",
+      "name": "Summon Garuda II"
+    },
+    {
+      "icon": "14_SMN/summon_ifrit.png",
+      "name": "Summon Ifrit"
+    },
+    {
+      "icon": "14_SMN/summon_ifrit_II.png",
+      "name": "Summon Ifrit II"
+    },
+    {
+      "icon": "14_SMN/summon_phoenix.png",
+      "name": "Summon Phoenix"
+    },
+    {
+      "icon": "14_SMN/summon_ruby.png",
+      "name": "Summon Ruby"
+    },
+    {
+      "icon": "14_SMN/summon_titan.png",
+      "name": "Summon Titan"
+    },
+    {
+      "icon": "14_SMN/summon_titan_II.png",
+      "name": "Summon Titan II"
+    },
+    {
+      "icon": "14_SMN/summon_topaz.png",
+      "name": "Summon Topaz"
+    },
+    {
+      "icon": "14_SMN/topaz_catastrophe.png",
+      "name": "Topaz Catastrophe"
+    },
+    {
+      "icon": "14_SMN/topaz_rite.png",
+      "name": "Topaz Rite"
+    },
+    {
+      "icon": "14_SMN/tri-disaster.png",
+      "name": "Tri-Disaster"
+    },
+    {
+      "icon": "14_SMN/wyrmwave.png",
+      "name": "Wyrmwave"
+    }
+  ],
+  "Red Mage": [
+    {
+      "icon": "15_RDM/acceleration.png",
+      "name": "Acceleration"
+    },
+    {
+      "icon": "15_RDM/contre_sixte.png",
+      "name": "Contre Sixte"
+    },
+    {
+      "icon": "15_RDM/corps-a-corps.png",
+      "name": "Corps-A-Corps"
+    },
+    {
+      "icon": "15_RDM/displacement.png",
+      "name": "Displacement"
+    },
+    {
+      "icon": "15_RDM/embolden.png",
+      "name": "Embolden"
+    },
+    {
+      "icon": "15_RDM/enchanted_moulinet.png",
+      "name": "Enchanted Moulinet"
+    },
+    {
+      "icon": "15_RDM/enchanted_redoublement.png",
+      "name": "Enchanted Redoublement"
+    },
+    {
+      "icon": "15_RDM/enchanted_reprise.png",
+      "name": "Enchanted Reprise"
+    },
+    {
+      "icon": "15_RDM/enchanted_riposte.png",
+      "name": "Enchanted Riposte"
+    },
+    {
+      "icon": "15_RDM/enchanted_zwerchhau.png",
+      "name": "Enchanted Zwerchhau"
+    },
+    {
+      "icon": "15_RDM/engagement.png",
+      "name": "Engagement"
+    },
+    {
+      "icon": "15_RDM/fleche.png",
+      "name": "Fleche"
+    },
+    {
+      "icon": "15_RDM/impact.png",
+      "name": "Impact"
+    },
+    {
+      "icon": "15_RDM/jolt.png",
+      "name": "Jolt"
+    },
+    {
+      "icon": "15_RDM/jolt_II.png",
+      "name": "Jolt II"
+    },
+    {
+      "icon": "15_RDM/magick_barrier.png",
+      "name": "Magick Barrier"
+    },
+    {
+      "icon": "15_RDM/manafication.png",
+      "name": "Manafication"
+    },
+    {
+      "icon": "15_RDM/moulinet.png",
+      "name": "Moulinet"
+    },
+    {
+      "icon": "15_RDM/redoublement.png",
+      "name": "Redoublement"
+    },
+    {
+      "icon": "15_RDM/reprise.png",
+      "name": "Reprise"
+    },
+    {
+      "icon": "15_RDM/resolution.png",
+      "name": "Resolution"
+    },
+    {
+      "icon": "15_RDM/riposte.png",
+      "name": "Riposte"
+    },
+    {
+      "icon": "15_RDM/scatter.png",
+      "name": "Scatter"
+    },
+    {
+      "icon": "15_RDM/scorch.png",
+      "name": "Scorch"
+    },
+    {
+      "icon": "15_RDM/veraero.png",
+      "name": "Veraero"
+    },
+    {
+      "icon": "15_RDM/veraero_II.png",
+      "name": "Veraero II"
+    },
+    {
+      "icon": "15_RDM/veraero_III.png",
+      "name": "Veraero III"
+    },
+    {
+      "icon": "15_RDM/vercure.png",
+      "name": "Vercure"
+    },
+    {
+      "icon": "15_RDM/verfire.png",
+      "name": "Verfire"
+    },
+    {
+      "icon": "15_RDM/verflare.png",
+      "name": "Verflare"
+    },
+    {
+      "icon": "15_RDM/verholy.png",
+      "name": "Verholy"
+    },
+    {
+      "icon": "15_RDM/verraise.png",
+      "name": "Verraise"
+    },
+    {
+      "icon": "15_RDM/verstone.png",
+      "name": "Verstone"
+    },
+    {
+      "icon": "15_RDM/verthunder.png",
+      "name": "Verthunder"
+    },
+    {
+      "icon": "15_RDM/verthunder_II.png",
+      "name": "Verthunder II"
+    },
+    {
+      "icon": "15_RDM/verthunder_III.png",
+      "name": "Verthunder III"
+    },
+    {
+      "icon": "15_RDM/zwerchhau.png",
+      "name": "Zwerchhau"
+    }
+  ],
+  "White Mage": [
+    {
+      "icon": "16_WHM/aero.png",
+      "name": "Aero"
+    },
+    {
+      "icon": "16_WHM/aero_II.png",
+      "name": "Aero II"
+    },
+    {
+      "icon": "16_WHM/afflatus_misery.png",
+      "name": "Afflatus Misery"
+    },
+    {
+      "icon": "16_WHM/afflatus_rapture.png",
+      "name": "Afflatus Rapture"
+    },
+    {
+      "icon": "16_WHM/afflatus_solace.png",
+      "name": "Afflatus Solace"
+    },
+    {
+      "icon": "16_WHM/aquaveil.png",
+      "name": "Aquaveil"
+    },
+    {
+      "icon": "16_WHM/assize.png",
+      "name": "Assize"
+    },
+    {
+      "icon": "16_WHM/asylum.png",
+      "name": "Asylum"
+    },
+    {
+      "icon": "16_WHM/benediction.png",
+      "name": "Benediction"
+    },
+    {
+      "icon": "16_WHM/cure.png",
+      "name": "Cure"
+    },
+    {
+      "icon": "16_WHM/cure_II.png",
+      "name": "Cure II"
+    },
+    {
+      "icon": "16_WHM/cure_III.png",
+      "name": "Cure III"
+    },
+    {
+      "icon": "16_WHM/dia.png",
+      "name": "Dia"
+    },
+    {
+      "icon": "16_WHM/divine_benison.png",
+      "name": "Divine Benison"
+    },
+    {
+      "icon": "16_WHM/glare.png",
+      "name": "Glare"
+    },
+    {
+      "icon": "16_WHM/glare_III.png",
+      "name": "Glare III"
+    },
+    {
+      "icon": "16_WHM/holy.png",
+      "name": "Holy"
+    },
+    {
+      "icon": "16_WHM/holy_III.png",
+      "name": "Holy III"
+    },
+    {
+      "icon": "16_WHM/liturgy_of_the_bell.png",
+      "name": "Liturgy Of The Bell"
+    },
+    {
+      "icon": "16_WHM/medica.png",
+      "name": "Medica"
+    },
+    {
+      "icon": "16_WHM/medica_II.png",
+      "name": "Medica II"
+    },
+    {
+      "icon": "16_WHM/plenary_indulgence.png",
+      "name": "Plenary Indulgence"
+    },
+    {
+      "icon": "16_WHM/presence_of_mind.png",
+      "name": "Presence Of Mind"
+    },
+    {
+      "icon": "16_WHM/raise.png",
+      "name": "Raise"
+    },
+    {
+      "icon": "16_WHM/regen.png",
+      "name": "Regen"
+    },
+    {
+      "icon": "16_WHM/stone.png",
+      "name": "Stone"
+    },
+    {
+      "icon": "16_WHM/stone_II.png",
+      "name": "Stone II"
+    },
+    {
+      "icon": "16_WHM/stone_III.png",
+      "name": "Stone III"
+    },
+    {
+      "icon": "16_WHM/stone_IV.png",
+      "name": "Stone IV"
+    },
+    {
+      "icon": "16_WHM/temperance.png",
+      "name": "Temperance"
+    },
+    {
+      "icon": "16_WHM/tetragrammaton.png",
+      "name": "Tetragrammaton"
+    },
+    {
+      "icon": "16_WHM/thin_air.png",
+      "name": "Thin Air"
+    }
+  ],
+  "Scholar": [
+    {
+      "icon": "17_SCH/adloquium.png",
+      "name": "Adloquium"
+    },
+    {
+      "icon": "17_SCH/aetherflow.png",
+      "name": "Aetherflow"
+    },
+    {
+      "icon": "17_SCH/aetherpact.png",
+      "name": "Aetherpact"
+    },
+    {
+      "icon": "17_SCH/art_of_war.png",
+      "name": "Art Of War"
+    },
+    {
+      "icon": "17_SCH/art_of_war_II.png",
+      "name": "Art Of War II"
+    },
+    {
+      "icon": "17_SCH/bio.png",
+      "name": "Bio"
+    },
+    {
+      "icon": "17_SCH/biolysis.png",
+      "name": "Biolysis"
+    },
+    {
+      "icon": "17_SCH/bio_II.png",
+      "name": "Bio II"
+    },
+    {
+      "icon": "17_SCH/broil.png",
+      "name": "Broil"
+    },
+    {
+      "icon": "17_SCH/broil_II.png",
+      "name": "Broil II"
+    },
+    {
+      "icon": "17_SCH/broil_III.png",
+      "name": "Broil III"
+    },
+    {
+      "icon": "17_SCH/broil_IV.png",
+      "name": "Broil IV"
+    },
+    {
+      "icon": "17_SCH/chain_stratagem.png",
+      "name": "Chain Stratagem"
+    },
+    {
+      "icon": "17_SCH/consolation.png",
+      "name": "Consolation"
+    },
+    {
+      "icon": "17_SCH/deployment_tactics.png",
+      "name": "Deployment Tactics"
+    },
+    {
+      "icon": "17_SCH/dissipation.png",
+      "name": "Dissipation"
+    },
+    {
+      "icon": "17_SCH/dissolve_union.png",
+      "name": "Dissolve Union"
+    },
+    {
+      "icon": "17_SCH/emergency_tactics.png",
+      "name": "Emergency Tactics"
+    },
+    {
+      "icon": "17_SCH/energy_drain.png",
+      "name": "Energy Drain"
+    },
+    {
+      "icon": "17_SCH/excogitation.png",
+      "name": "Excogitation"
+    },
+    {
+      "icon": "17_SCH/expedient.png",
+      "name": "Expedient"
+    },
+    {
+      "icon": "17_SCH/fey_blessing.png",
+      "name": "Fey Blessing"
+    },
+    {
+      "icon": "17_SCH/fey_illumination.png",
+      "name": "Fey Illumination"
+    },
+    {
+      "icon": "17_SCH/indomitability.png",
+      "name": "Indomitability"
+    },
+    {
+      "icon": "17_SCH/lustrate.png",
+      "name": "Lustrate"
+    },
+    {
+      "icon": "17_SCH/physick.png",
+      "name": "Physick"
+    },
+    {
+      "icon": "17_SCH/protraction.png",
+      "name": "Protraction"
+    },
+    {
+      "icon": "17_SCH/recitation.png",
+      "name": "Recitation"
+    },
+    {
+      "icon": "17_SCH/resurrection.png",
+      "name": "Resurrection"
+    },
+    {
+      "icon": "17_SCH/ruin.png",
+      "name": "Ruin"
+    },
+    {
+      "icon": "17_SCH/ruin_II.png",
+      "name": "Ruin II"
+    },
+    {
+      "icon": "17_SCH/sacred_soil.png",
+      "name": "Sacred Soil"
+    },
+    {
+      "icon": "17_SCH/succor.png",
+      "name": "Succor"
+    },
+    {
+      "icon": "17_SCH/summon_eos.png",
+      "name": "Summon Eos"
+    },
+    {
+      "icon": "17_SCH/summon_selene.png",
+      "name": "Summon Selene"
+    },
+    {
+      "icon": "17_SCH/summon_seraph.png",
+      "name": "Summon Seraph"
+    },
+    {
+      "icon": "17_SCH/whispering_dawn.png",
+      "name": "Whispering Dawn"
+    }
+  ],
+  "Astrologian": [
+    {
+      "icon": "18_AST/003110.png",
+      "name": "003110"
+    },
+    {
+      "icon": "18_AST/003111.png",
+      "name": "003111"
+    },
+    {
+      "icon": "18_AST/003112.png",
+      "name": "003112"
+    },
+    {
+      "icon": "18_AST/003113.png",
+      "name": "003113"
+    },
+    {
+      "icon": "18_AST/003114.png",
+      "name": "003114"
+    },
+    {
+      "icon": "18_AST/003115.png",
+      "name": "003115"
+    },
+    {
+      "icon": "18_AST/003146.png",
+      "name": "003146"
+    },
+    {
+      "icon": "18_AST/003147.png",
+      "name": "003147"
+    },
+    {
+      "icon": "18_AST/ascend.png",
+      "name": "Ascend"
+    },
+    {
+      "icon": "18_AST/aspected_benefic.png",
+      "name": "Aspected Benefic"
+    },
+    {
+      "icon": "18_AST/aspected_helios.png",
+      "name": "Aspected Helios"
+    },
+    {
+      "icon": "18_AST/astrodyne.png",
+      "name": "Astrodyne"
+    },
+    {
+      "icon": "18_AST/benefic.png",
+      "name": "Benefic"
+    },
+    {
+      "icon": "18_AST/benefic_II.png",
+      "name": "Benefic II"
+    },
+    {
+      "icon": "18_AST/celestial_intersection.png",
+      "name": "Celestial Intersection"
+    },
+    {
+      "icon": "18_AST/celestial_opposition.png",
+      "name": "Celestial Opposition"
+    },
+    {
+      "icon": "18_AST/collective_unconscious.png",
+      "name": "Collective Unconscious"
+    },
+    {
+      "icon": "18_AST/combust.png",
+      "name": "Combust"
+    },
+    {
+      "icon": "18_AST/combust_II.png",
+      "name": "Combust II"
+    },
+    {
+      "icon": "18_AST/combust_III.png",
+      "name": "Combust III"
+    },
+    {
+      "icon": "18_AST/crown_play.png",
+      "name": "Crown Play"
+    },
+    {
+      "icon": "18_AST/divination.png",
+      "name": "Divination"
+    },
+    {
+      "icon": "18_AST/draw.png",
+      "name": "Draw"
+    },
+    {
+      "icon": "18_AST/earthly_star.png",
+      "name": "Earthly Star"
+    },
+    {
+      "icon": "18_AST/essential_dignity.png",
+      "name": "Essential Dignity"
+    },
+    {
+      "icon": "18_AST/exaltation.png",
+      "name": "Exaltation"
+    },
+    {
+      "icon": "18_AST/fall_malefic.png",
+      "name": "Fall Malefic"
+    },
+    {
+      "icon": "18_AST/gravity.png",
+      "name": "Gravity"
+    },
+    {
+      "icon": "18_AST/gravity_II.png",
+      "name": "Gravity II"
+    },
+    {
+      "icon": "18_AST/helios.png",
+      "name": "Helios"
+    },
+    {
+      "icon": "18_AST/horoscope_1.png",
+      "name": "Horoscope 1"
+    },
+    {
+      "icon": "18_AST/horoscope_2.png",
+      "name": "Horoscope 2"
+    },
+    {
+      "icon": "18_AST/lightspeed.png",
+      "name": "Lightspeed"
+    },
+    {
+      "icon": "18_AST/macrocosmos_01.png",
+      "name": "Macrocosmos 01"
+    },
+    {
+      "icon": "18_AST/malefic.png",
+      "name": "Malefic"
+    },
+    {
+      "icon": "18_AST/malefic_II.png",
+      "name": "Malefic II"
+    },
+    {
+      "icon": "18_AST/malefic_III.png",
+      "name": "Malefic III"
+    },
+    {
+      "icon": "18_AST/malefic_IV.png",
+      "name": "Malefic IV"
+    },
+    {
+      "icon": "18_AST/microcosmos_02.png",
+      "name": "Microcosmos 02"
+    },
+    {
+      "icon": "18_AST/minor_arcana.png",
+      "name": "Minor Arcana"
+    },
+    {
+      "icon": "18_AST/neutral_sect.png",
+      "name": "Neutral Sect"
+    },
+    {
+      "icon": "18_AST/play.png",
+      "name": "Play"
+    },
+    {
+      "icon": "18_AST/redraw.png",
+      "name": "Redraw"
+    },
+    {
+      "icon": "18_AST/stellar_detonation.png",
+      "name": "Stellar Detonation"
+    },
+    {
+      "icon": "18_AST/synastry.png",
+      "name": "Synastry"
+    },
+    {
+      "icon": "18_AST/undraw.png",
+      "name": "Undraw"
+    }
+  ],
+  "Sage": [
+    {
+      "icon": "19_SGE/diagnosis.png",
+      "name": "Diagnosis"
+    },
+    {
+      "icon": "19_SGE/dosis.png",
+      "name": "Dosis"
+    },
+    {
+      "icon": "19_SGE/dosis_II.png",
+      "name": "Dosis II"
+    },
+    {
+      "icon": "19_SGE/dosis_III.png",
+      "name": "Dosis III"
+    },
+    {
+      "icon": "19_SGE/druochole.png",
+      "name": "Druochole"
+    },
+    {
+      "icon": "19_SGE/dyskrasia.png",
+      "name": "Dyskrasia"
+    },
+    {
+      "icon": "19_SGE/dyskrasia_II.png",
+      "name": "Dyskrasia II"
+    },
+    {
+      "icon": "19_SGE/egeiro.png",
+      "name": "Egeiro"
+    },
+    {
+      "icon": "19_SGE/eukrasia.png",
+      "name": "Eukrasia"
+    },
+    {
+      "icon": "19_SGE/eukrasian_diagnosis.png",
+      "name": "Eukrasian Diagnosis"
+    },
+    {
+      "icon": "19_SGE/eukrasian_dosis.png",
+      "name": "Eukrasian Dosis"
+    },
+    {
+      "icon": "19_SGE/eukrasian_dosis_II.png",
+      "name": "Eukrasian Dosis II"
+    },
+    {
+      "icon": "19_SGE/eukrasian_dosis_III.png",
+      "name": "Eukrasian Dosis III"
+    },
+    {
+      "icon": "19_SGE/eukrasian_prognosis.png",
+      "name": "Eukrasian Prognosis"
+    },
+    {
+      "icon": "19_SGE/haima.png",
+      "name": "Haima"
+    },
+    {
+      "icon": "19_SGE/holos.png",
+      "name": "Holos"
+    },
+    {
+      "icon": "19_SGE/icarus.png",
+      "name": "Icarus"
+    },
+    {
+      "icon": "19_SGE/ixochole.png",
+      "name": "Ixochole"
+    },
+    {
+      "icon": "19_SGE/kardia.png",
+      "name": "Kardia"
+    },
+    {
+      "icon": "19_SGE/kerachole.png",
+      "name": "Kerachole"
+    },
+    {
+      "icon": "19_SGE/krasis.png",
+      "name": "Krasis"
+    },
+    {
+      "icon": "19_SGE/panhaima.png",
+      "name": "Panhaima"
+    },
+    {
+      "icon": "19_SGE/pepsis.png",
+      "name": "Pepsis"
+    },
+    {
+      "icon": "19_SGE/phlegma.png",
+      "name": "Phlegma"
+    },
+    {
+      "icon": "19_SGE/phlegma_II.png",
+      "name": "Phlegma II"
+    },
+    {
+      "icon": "19_SGE/phlegma_III.png",
+      "name": "Phlegma III"
+    },
+    {
+      "icon": "19_SGE/physis.png",
+      "name": "Physis"
+    },
+    {
+      "icon": "19_SGE/physis_II.png",
+      "name": "Physis II"
+    },
+    {
+      "icon": "19_SGE/pneuma.png",
+      "name": "Pneuma"
+    },
+    {
+      "icon": "19_SGE/prognosis.png",
+      "name": "Prognosis"
+    },
+    {
+      "icon": "19_SGE/rhizomata.png",
+      "name": "Rhizomata"
+    },
+    {
+      "icon": "19_SGE/soteria.png",
+      "name": "Soteria"
+    },
+    {
+      "icon": "19_SGE/taurochole.png",
+      "name": "Taurochole"
+    },
+    {
+      "icon": "19_SGE/toxikon.png",
+      "name": "Toxikon"
+    },
+    {
+      "icon": "19_SGE/toxikon_II.png",
+      "name": "Toxikon II"
+    },
+    {
+      "icon": "19_SGE/zoe.png",
+      "name": "Zoe"
+    }
+  ],
+  "Blue Mage": [
+    {
+      "icon": "20_BLU/1000_Needles.png",
+      "name": "1000 Needles"
+    },
+    {
+      "icon": "20_BLU/4-tonze_weight.png",
+      "name": "4-Tonze Weight"
+    },
+    {
+      "icon": "20_BLU/abyssal_transfixion.png",
+      "name": "Abyssal Transfixion"
+    },
+    {
+      "icon": "20_BLU/acorn_bomb.png",
+      "name": "Acorn Bomb"
+    },
+    {
+      "icon": "20_BLU/aetherial_mimicry.png",
+      "name": "Aetherial Mimicry"
+    },
+    {
+      "icon": "20_BLU/aetherial_spark.png",
+      "name": "Aetherial Spark"
+    },
+    {
+      "icon": "20_BLU/alpine_draft.png",
+      "name": "Alpine Draft"
+    },
+    {
+      "icon": "20_BLU/angel's_snack.png",
+      "name": "Angel'S Snack"
+    },
+    {
+      "icon": "20_BLU/angel_whisper.png",
+      "name": "Angel Whisper"
+    },
+    {
+      "icon": "20_BLU/aqua_breath.png",
+      "name": "Aqua Breath"
+    },
+    {
+      "icon": "20_BLU/avail.png",
+      "name": "Avail"
+    },
+    {
+      "icon": "20_BLU/bad_breath.png",
+      "name": "Bad Breath"
+    },
+    {
+      "icon": "20_BLU/basic_instinct.png",
+      "name": "Basic Instinct"
+    },
+    {
+      "icon": "20_BLU/black_knight's_tour.png",
+      "name": "Black Knight'S Tour"
+    },
+    {
+      "icon": "20_BLU/blaze.png",
+      "name": "Blaze"
+    },
+    {
+      "icon": "20_BLU/blood_drain.png",
+      "name": "Blood Drain"
+    },
+    {
+      "icon": "20_BLU/bomb_toss.png",
+      "name": "Bomb Toss"
+    },
+    {
+      "icon": "20_BLU/both_ends.png",
+      "name": "Both Ends"
+    },
+    {
+      "icon": "20_BLU/bristle.png",
+      "name": "Bristle"
+    },
+    {
+      "icon": "20_BLU/cactguard.png",
+      "name": "Cactguard"
+    },
+    {
+      "icon": "20_BLU/chelonian_gate.png",
+      "name": "Chelonian Gate"
+    },
+    {
+      "icon": "20_BLU/chirp.png",
+      "name": "Chirp"
+    },
+    {
+      "icon": "20_BLU/choco_meteor.png",
+      "name": "Choco Meteor"
+    },
+    {
+      "icon": "20_BLU/cold_fog.png",
+      "name": "Cold Fog"
+    },
+    {
+      "icon": "20_BLU/condensed_libra.png",
+      "name": "Condensed Libra"
+    },
+    {
+      "icon": "20_BLU/devour.png",
+      "name": "Devour"
+    },
+    {
+      "icon": "20_BLU/diamondback.png",
+      "name": "Diamondback"
+    },
+    {
+      "icon": "20_BLU/doom.png",
+      "name": "Doom"
+    },
+    {
+      "icon": "20_BLU/dragon_force.png",
+      "name": "Dragon Force"
+    },
+    {
+      "icon": "20_BLU/drill_cannons.png",
+      "name": "Drill Cannons"
+    },
+    {
+      "icon": "20_BLU/eerie_soundwave.png",
+      "name": "Eerie Soundwave"
+    },
+    {
+      "icon": "20_BLU/electrogenesis.png",
+      "name": "Electrogenesis"
+    },
+    {
+      "icon": "20_BLU/eruption.png",
+      "name": "Eruption"
+    },
+    {
+      "icon": "20_BLU/exuviation.png",
+      "name": "Exuviation"
+    },
+    {
+      "icon": "20_BLU/faze.png",
+      "name": "Faze"
+    },
+    {
+      "icon": "20_BLU/feather_rain.png",
+      "name": "Feather Rain"
+    },
+    {
+      "icon": "20_BLU/feculent_flood.png",
+      "name": "Feculent Flood"
+    },
+    {
+      "icon": "20_BLU/final_sting.png",
+      "name": "Final Sting"
+    },
+    {
+      "icon": "20_BLU/fire_angon.png",
+      "name": "Fire Angon"
+    },
+    {
+      "icon": "20_BLU/flame_thrower.png",
+      "name": "Flame Thrower"
+    },
+    {
+      "icon": "20_BLU/flying_frenzy.png",
+      "name": "Flying Frenzy"
+    },
+    {
+      "icon": "20_BLU/flying_sardine.png",
+      "name": "Flying Sardine"
+    },
+    {
+      "icon": "20_BLU/frog_legs.png",
+      "name": "Frog Legs"
+    },
+    {
+      "icon": "20_BLU/glass_dance.png",
+      "name": "Glass Dance"
+    },
+    {
+      "icon": "20_BLU/glower.png",
+      "name": "Glower"
+    },
+    {
+      "icon": "20_BLU/gobskin.png",
+      "name": "Gobskin"
+    },
+    {
+      "icon": "20_BLU/high_voltage.png",
+      "name": "High Voltage"
+    },
+    {
+      "icon": "20_BLU/hydro_pull.png",
+      "name": "Hydro Pull"
+    },
+    {
+      "icon": "20_BLU/ice_spikes.png",
+      "name": "Ice Spikes"
+    },
+    {
+      "icon": "20_BLU/ink_jet.png",
+      "name": "Ink Jet"
+    },
+    {
+      "icon": "20_BLU/j_kick.png",
+      "name": "J Kick"
+    },
+    {
+      "icon": "20_BLU/kaltstrahl.png",
+      "name": "Kaltstrahl"
+    },
+    {
+      "icon": "20_BLU/launcher.png",
+      "name": "Launcher"
+    },
+    {
+      "icon": "20_BLU/level_5_death.png",
+      "name": "Level 5 Death"
+    },
+    {
+      "icon": "20_BLU/level_5_petrify.png",
+      "name": "Level 5 Petrify"
+    },
+    {
+      "icon": "20_BLU/loom.png",
+      "name": "Loom"
+    },
+    {
+      "icon": "20_BLU/magic_hammer.png",
+      "name": "Magic Hammer"
+    },
+    {
+      "icon": "20_BLU/malediction_of_water.png",
+      "name": "Malediction Of Water"
+    },
+    {
+      "icon": "20_BLU/matra_magic.png",
+      "name": "Matra Magic"
+    },
+    {
+      "icon": "20_BLU/mighty_guard.png",
+      "name": "Mighty Guard"
+    },
+    {
+      "icon": "20_BLU/mind_blast.png",
+      "name": "Mind Blast"
+    },
+    {
+      "icon": "20_BLU/missile.png",
+      "name": "Missile"
+    },
+    {
+      "icon": "20_BLU/moon_flute.png",
+      "name": "Moon Flute"
+    },
+    {
+      "icon": "20_BLU/mountain_buster.png",
+      "name": "Mountain Buster"
+    },
+    {
+      "icon": "20_BLU/mustard_bomb.png",
+      "name": "Mustard Bomb"
+    },
+    {
+      "icon": "20_BLU/nightbloom.png",
+      "name": "Nightbloom"
+    },
+    {
+      "icon": "20_BLU/northerlies.png",
+      "name": "Northerlies"
+    },
+    {
+      "icon": "20_BLU/off-guard.png",
+      "name": "Off-Guard"
+    },
+    {
+      "icon": "20_BLU/peculiar_light.png",
+      "name": "Peculiar Light"
+    },
+    {
+      "icon": "20_BLU/peripheral_synthesis.png",
+      "name": "Peripheral Synthesis"
+    },
+    {
+      "icon": "20_BLU/perpetual_ray.png",
+      "name": "Perpetual Ray"
+    },
+    {
+      "icon": "20_BLU/phantom_flurry.png",
+      "name": "Phantom Flurry"
+    },
+    {
+      "icon": "20_BLU/plaincracker.png",
+      "name": "Plaincracker"
+    },
+    {
+      "icon": "20_BLU/pom_cure.png",
+      "name": "Pom Cure"
+    },
+    {
+      "icon": "20_BLU/protean_wave.png",
+      "name": "Protean Wave"
+    },
+    {
+      "icon": "20_BLU/quasar.png",
+      "name": "Quasar"
+    },
+    {
+      "icon": "20_BLU/reflux.png",
+      "name": "Reflux"
+    },
+    {
+      "icon": "20_BLU/revenge_blast.png",
+      "name": "Revenge Blast"
+    },
+    {
+      "icon": "20_BLU/saintly_beam.png",
+      "name": "Saintly Beam"
+    },
+    {
+      "icon": "20_BLU/self-destruct.png",
+      "name": "Self-Destruct"
+    },
+    {
+      "icon": "20_BLU/sharpened_knife.png",
+      "name": "Sharpened Knife"
+    },
+    {
+      "icon": "20_BLU/shock_strike.png",
+      "name": "Shock Strike"
+    },
+    {
+      "icon": "20_BLU/snort.png",
+      "name": "Snort"
+    },
+    {
+      "icon": "20_BLU/song_of_torment.png",
+      "name": "Song Of Torment"
+    },
+    {
+      "icon": "20_BLU/sonic_boom.png",
+      "name": "Sonic Boom"
+    },
+    {
+      "icon": "20_BLU/sticky_tongue.png",
+      "name": "Sticky Tongue"
+    },
+    {
+      "icon": "20_BLU/stotram.png",
+      "name": "Stotram"
+    },
+    {
+      "icon": "20_BLU/surpanakha.png",
+      "name": "Surpanakha"
+    },
+    {
+      "icon": "20_BLU/tail_screw.png",
+      "name": "Tail Screw"
+    },
+    {
+      "icon": "20_BLU/tatami-gaeshi.png",
+      "name": "Tatami-Gaeshi"
+    },
+    {
+      "icon": "20_BLU/the_dragon's_voice.png",
+      "name": "The Dragon'S Voice"
+    },
+    {
+      "icon": "20_BLU/the_look.png",
+      "name": "The Look"
+    },
+    {
+      "icon": "20_BLU/the_ram's_voice.png",
+      "name": "The Ram'S Voice"
+    },
+    {
+      "icon": "20_BLU/the_rose_of_destruction.png",
+      "name": "The Rose Of Destruction"
+    },
+    {
+      "icon": "20_BLU/tingle.png",
+      "name": "Tingle"
+    },
+    {
+      "icon": "20_BLU/toad_oil.png",
+      "name": "Toad Oil"
+    },
+    {
+      "icon": "20_BLU/transfusion.png",
+      "name": "Transfusion"
+    },
+    {
+      "icon": "20_BLU/triple_trident.png",
+      "name": "Triple Trident"
+    },
+    {
+      "icon": "20_BLU/ultravibration.png",
+      "name": "Ultravibration"
+    },
+    {
+      "icon": "20_BLU/veil_of_the_whorl.png",
+      "name": "Veil Of The Whorl"
+    },
+    {
+      "icon": "20_BLU/water_cannon.png",
+      "name": "Water Cannon"
+    },
+    {
+      "icon": "20_BLU/whistle.png",
+      "name": "Whistle"
+    },
+    {
+      "icon": "20_BLU/white_knight's_tour.png",
+      "name": "White Knight'S Tour"
+    },
+    {
+      "icon": "20_BLU/white_wind.png",
+      "name": "White Wind"
+    }
+  ]
+}
