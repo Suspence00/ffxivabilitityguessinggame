@@ -2452,11 +2452,11 @@
     },
     {
       "icon": "18_AST/horoscope_1.png",
-      "name": "Horoscope 1"
+      "name": "Horoscope (Start)"
     },
     {
       "icon": "18_AST/horoscope_2.png",
-      "name": "Horoscope 2"
+      "name": "Horoscope (End)"
     },
     {
       "icon": "18_AST/lightspeed.png",
@@ -2464,7 +2464,7 @@
     },
     {
       "icon": "18_AST/macrocosmos_01.png",
-      "name": "Macrocosmos 01"
+      "name": "Macrocosmos"
     },
     {
       "icon": "18_AST/malefic.png",
@@ -2484,7 +2484,7 @@
     },
     {
       "icon": "18_AST/microcosmos_02.png",
-      "name": "Microcosmos 02"
+      "name": "Microcosmos"
     },
     {
       "icon": "18_AST/minor_arcana.png",

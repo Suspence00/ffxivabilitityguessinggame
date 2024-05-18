@@ -1,7 +1,8 @@
 let abilities = {};
 let enabledJobs = []; // Default to an empty array
 let lives = 3;
-let currentAbility = null;
+let currentAbilityIndex = 0;
+let shuffledAbilities = [];
 let score = 0;
 let highScore = localStorage.getItem('highScore') || 0;
 
@@ -27,15 +28,17 @@ function startGame() {
     loadAbilities();
 }
 
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 function getRandomJob() {
     const randomIndex = Math.floor(Math.random() * enabledJobs.length);
     return enabledJobs[randomIndex];
-}
-
-function getRandomAbility(job) {
-    const jobAbilities = abilities[job];
-    const randomIndex = Math.floor(Math.random() * jobAbilities.length);
-    return jobAbilities[randomIndex];
 }
 
 function getRandomOptions(correctAbility) {
@@ -60,6 +63,7 @@ function displayAbility(ability) {
     optionsContainer.innerHTML = '';
 
     const options = getRandomOptions(ability);
+    console.log("Options for ability:", ability.name, options);
 
     options.forEach(option => {
         const button = document.createElement('button');
@@ -113,6 +117,7 @@ function displayMessage(message) {
 function resetGame() {
     lives = 3;
     score = 0;
+    currentAbilityIndex = 0; // Reset the ability index
     document.getElementById('job-selection').style.display = 'block';
     document.getElementById('instructions-button').style.display = 'block';
     document.getElementById('play-again').style.display = 'none';
@@ -140,6 +145,7 @@ function loadAbilities() {
         .then(data => {
             abilities = data;
             console.log("Abilities loaded:", abilities);
+            prepareShuffledAbilities();
             nextRound();
         })
         .catch(error => {
@@ -147,11 +153,23 @@ function loadAbilities() {
         });
 }
 
+function prepareShuffledAbilities() {
+    shuffledAbilities = [];
+    enabledJobs.forEach(job => {
+        shuffledAbilities = shuffledAbilities.concat(abilities[job]);
+    });
+    shuffledAbilities = shuffleArray(shuffledAbilities);
+    console.log("Shuffled abilities:", shuffledAbilities);
+}
+
 function nextRound() {
     if (lives > 0) {
-        const job = getRandomJob();
-        const ability = getRandomAbility(job);
-        currentAbility = ability;
+        if (currentAbilityIndex >= shuffledAbilities.length) {
+            currentAbilityIndex = 0; // Reshuffle if all abilities have been shown
+            shuffledAbilities = shuffleArray(shuffledAbilities);
+        }
+        const ability = shuffledAbilities[currentAbilityIndex];
+        currentAbilityIndex++;
         displayAbility(ability);
         displayMessage('');
     }
