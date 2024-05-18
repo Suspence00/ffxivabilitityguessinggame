@@ -10,6 +10,7 @@
     <div class="game-container">
         <h1>GUESS THE ABILITY NAME</h1>
         <div id="job-selection">
+            <button id="instructions-button" class="styled-button">Instructions</button>
             <h2>Select Jobs</h2>
             <div class="job-box">
                 <h3>Tanks</h3>
@@ -44,22 +45,29 @@
                 <label><input type="checkbox" class="job-checkbox" data-job="Blue Mage"> Blue Mage</label>
             </div>
             <div class="job-buttons">
-                <button id="select-all-dps">All DPS</button>
-                <button id="select-all-tank">All Tanks</button>
-                <button id="select-all-healers">All Healers</button>
+                <button id="select-all-dps" class="styled-button">All DPS</button>
+                <button id="select-all-tank" class="styled-button">All Tanks</button>
+                <button id="select-all-healers" class="styled-button">All Healers</button>
             </div>
-            <button id="start-game">Start Game</button>
+            <button id="start-game" class="styled-button">Start Game</button>
         </div>
         <div id="game-info">
-            <div id="lives-container">Lives: <span id="lives">❤️❤️❤️</span></div>
+            <div id="lives-container">Lives: <span id="lives">💜💜💜</span></div>
             <div id="score-container">Score: <span id="score">0</span></div>
             <div id="high-score-container">High Score: <span id="high-score">0</span></div>
         </div>
         <div id="icon-container"></div>
         <div id="options-container"></div>
         <div id="message-container"></div>
-        <button id="next-button" style="display: none;">Next</button>
-        <button id="play-again" style="display: none;">Play Again</button>
+        <button id="next-button" style="display: none;" class="styled-button">Next</button>
+        <button id="play-again" style="display: none;" class="styled-button">Play Again</button>
+    </div>
+    <div id="instructions-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Game Instructions</h2>
+            <p>Select jobs and start the game. Guess the ability based on the icon shown. You have 3 lives and can gain extra lives every 5 correct answers.</p>
+        </div>
     </div>
     <script src="script.js"></script>
 </body>

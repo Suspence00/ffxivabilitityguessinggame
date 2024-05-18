@@ -16,10 +16,11 @@ function startGame() {
 
     lives = 3;
     score = 0;
-    document.getElementById('lives').textContent = '❤️❤️❤️';
+    document.getElementById('lives').textContent = '💜💜💜';
     document.getElementById('score').textContent = score;
     document.getElementById('high-score').textContent = highScore;
     document.getElementById('job-selection').style.display = 'none';
+    document.getElementById('instructions-button').style.display = 'none';
     document.getElementById('play-again').style.display = 'none';
     document.getElementById('next-button').style.display = 'none';
     document.getElementById('game-info').style.display = 'block';
@@ -80,7 +81,7 @@ function checkAnswer(selected, correct, button) {
             localStorage.setItem('highScore', highScore);
             document.getElementById('high-score').textContent = highScore;
         }
-        if (score % 5 === 0 && lives < 3) {
+        if (score % 5 === 0 && lives < 5) {
             lives++;
             updateLives();
         }
@@ -100,7 +101,7 @@ function checkAnswer(selected, correct, button) {
 }
 
 function updateLives() {
-    const hearts = '❤️'.repeat(lives) + '♡'.repeat(3 - lives);
+    const hearts = '💜'.repeat(lives) + '♡'.repeat(5 - lives);
     document.getElementById('lives').textContent = hearts;
 }
 
@@ -113,6 +114,7 @@ function resetGame() {
     lives = 3;
     score = 0;
     document.getElementById('job-selection').style.display = 'block';
+    document.getElementById('instructions-button').style.display = 'block';
     document.getElementById('play-again').style.display = 'none';
     document.getElementById('game-info').style.display = 'none';
     document.getElementById('icon-container').innerHTML = '';
@@ -123,6 +125,7 @@ function resetGame() {
 function endGame() {
     displayMessage("Game Over! Your score: " + score);
     document.getElementById('play-again').style.display = 'block';
+    document.getElementById('instructions-button').style.display = 'inline-block'; // Ensure the button is displayed correctly
 }
 
 function loadAbilities() {
@@ -164,6 +167,11 @@ function initializeJobSelection() {
                 enabledJobs = enabledJobs.filter(enabledJob => enabledJob !== job);
             }
         });
+
+        // Ensure the default checked checkboxes are added to enabledJobs
+        if (checkbox.checked) {
+            enabledJobs.push(checkbox.getAttribute('data-job'));
+        }
     });
 
     document.getElementById('select-all-dps').addEventListener('click', () => {
@@ -191,4 +199,19 @@ document.getElementById('next-button').addEventListener('click', nextRound);
 document.addEventListener('DOMContentLoaded', () => {
     console.log("DOM fully loaded and parsed");
     initializeJobSelection();
+});
+
+// Instructions modal functionality
+document.getElementById('instructions-button').addEventListener('click', function() {
+    document.getElementById('instructions-modal').style.display = 'block';
+});
+
+document.querySelector('.close-button').addEventListener('click', function() {
+    document.getElementById('instructions-modal').style.display = 'none';
+});
+
+window.addEventListener('click', function(event) {
+    if (event.target === document.getElementById('instructions-modal')) {
+        document.getElementById('instructions-modal').style.display = 'none';
+    }
 });

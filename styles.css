@@ -86,6 +86,23 @@ h1 {
     color: #ff6666;
 }
 
+.styled-button {
+    background-color: #444;
+    border: 1px solid #555;
+    color: #f0f0f0;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    margin: 5px; /* Add margin to separate buttons */
+}
+
+.styled-button:hover {
+    background-color: #555;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
 #next-button,
 #play-again {
     margin-top: 20px;
@@ -131,10 +148,77 @@ button.correct-answer {
     background-color: #28a745 !important;
     color: #fff !important;
     border-color: #28a745 !important;
+    animation: correctAnimation 0.5s ease;
 }
 
 button.incorrect-answer {
     background-color: #8B0000 !important;
     color: #fff !important;
     border-color: #8B0000 !important;
+    animation: incorrectAnimation 0.5s ease;
+}
+
+@keyframes correctAnimation {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+@keyframes incorrectAnimation {
+    0% { transform: scale(1); }
+    50% { transform: scale(0.9); }
+    100% { transform: scale(1); }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .game-container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    #options-container button {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+/* Modal styling */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color: #1c1c1c;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.close-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close-button:hover,
+.close-button:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
 }
