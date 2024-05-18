@@ -193,23 +193,52 @@ function initializeJobSelection() {
     });
 
     document.getElementById('select-all-dps').addEventListener('click', () => {
-        selectJobs(["Monk", "Dragoon", "Samurai", "Reaper", "Ninja", "Bard", "Machinist", "Dancer", "Black Mage", "Summoner", "Red Mage"]);
+        selectJobs(["Monk", "Dragoon", "Samurai", "Reaper", "Ninja", "Bard", "Machinist", "Dancer", "Black Mage", "Summoner", "Red Mage"], true);
     });
 
     document.getElementById('select-all-tank').addEventListener('click', () => {
-        selectJobs(["Paladin", "Warrior", "Dark Knight", "Gunbreaker"]);
+        selectJobs(["Paladin", "Warrior", "Dark Knight", "Gunbreaker"], true);
     });
 
     document.getElementById('select-all-healers').addEventListener('click', () => {
-        selectJobs(["White Mage", "Scholar", "Astrologian", "Sage"]);
+        selectJobs(["White Mage", "Scholar", "Astrologian", "Sage"], true);
     });
 
-    function selectJobs(jobs) {
-        enabledJobs = jobs;
+    document.getElementById('clear-selected-jobs').addEventListener('click', clearSelectedJobs);
+    document.getElementById('random-jobs').addEventListener('click', selectRandomJobs);
+
+    function selectJobs(jobs, addToCurrent = false) {
+        if (!addToCurrent) {
+            enabledJobs = jobs;
+        } else {
+            jobs.forEach(job => {
+                if (!enabledJobs.includes(job)) {
+                    enabledJobs.push(job);
+                }
+            });
+        }
         document.querySelectorAll('.job-checkbox').forEach(checkbox => {
             const job = checkbox.getAttribute('data-job');
-            checkbox.checked = jobs.includes(job);
+            checkbox.checked = enabledJobs.includes(job);
         });
+    }
+
+    function clearSelectedJobs() {
+        enabledJobs = [];
+        document.querySelectorAll('.job-checkbox').forEach(checkbox => {
+            checkbox.checked = false;
+        });
+    }
+
+    function selectRandomJobs() {
+        clearSelectedJobs();
+        const allJobs = [
+            "Paladin", "Warrior", "Dark Knight", "Gunbreaker",
+            "Monk", "Dragoon", "Samurai", "Reaper", "Ninja", "Bard", "Machinist", "Dancer", "Black Mage", "Summoner", "Red Mage",
+            "White Mage", "Scholar", "Astrologian", "Sage"
+        ];
+        const randomJobs = shuffleArray(allJobs).slice(0, Math.floor(Math.random() * allJobs.length) + 1);
+        selectJobs(randomJobs);
     }
 }
 

@@ -6,15 +6,12 @@ Welcome to the FFXIV Ability Guessing Game! Test your knowledge of Final Fantasy
 
 1. **Select Jobs**: At the beginning of the game, you can select which jobs you want to include in the quiz. You can choose individual jobs or use the buttons to select all DPS, all Tanks, or all Healers. 
 2. **Start the Game**: Once you have selected the jobs, click the "Start Game" button to begin.
-
 3. **Guess the Ability**: An ability icon will be displayed along with four possible ability names. Click on the name that you think matches the icon.
-
 4. **Lives and Score**: 
    - You start with 3 lives.
    - Each incorrect guess will cost you one life.
-   - For every 5 correct answers, you gain one life (up to a maximum of 3 lives).
+   - For every 5 correct answers, you gain one life (up to a maximum of 5 lives).
    - Your score will increase with each correct answer.
-
 5. **Game Over**: The game ends when you run out of lives. You can then choose to play again, which will take you back to the job selection screen.
 
 ## Features
@@ -22,6 +19,8 @@ Welcome to the FFXIV Ability Guessing Game! Test your knowledge of Final Fantasy
 - **Dynamic Job Selection**: Choose specific jobs or use preset buttons to quickly select all DPS, Tanks, or Healers.
 - **Lives and Healing**: Manage your lives strategically, and earn extra lives for every 5 correct answers.
 - **High Score Tracking**: Your highest score is saved locally, so you can keep challenging yourself to beat it.
+- **Clear Selection**: Easily clear all selected jobs with the "Clear Selected Jobs" button.
+- **Random Job Selection**: Use the "Random Jobs" button to select a random set of jobs, excluding Blue Mage.
 
 ## Credit
 
@@ -42,6 +41,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. We welcome any improvements or new features!
+
+## GitHub Repository
+
+Check out the source code on [GitHub](https://github.com/Suspence00/ffxivabilitityguessinggame).
 
 ---
 
