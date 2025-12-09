@@ -1,3082 +1,3332 @@
 {
+  "Carpenter": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Blacksmith": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Armorer": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Goldsmith": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Leatherworker": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Weaver": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Alchemist": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Culinarian": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001983_hr1.tex?format=png",
+      "name": "Final Appraisal"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001955_hr1.tex?format=png",
+      "name": "Great Strides"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001987_hr1.tex?format=png",
+      "name": "Innovation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001985_hr1.tex?format=png",
+      "name": "Manipulation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001995_hr1.tex?format=png",
+      "name": "Veneration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001992_hr1.tex?format=png",
+      "name": "Waste Not"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001993_hr1.tex?format=png",
+      "name": "Waste Not II"
+    }
+  ],
+  "Miner": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001021_hr1.tex?format=png",
+      "name": "Bountiful Yield"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001035_hr1.tex?format=png",
+      "name": "Bountiful Yield II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001902_hr1.tex?format=png",
+      "name": "Brazen Prospector"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001020_hr1.tex?format=png",
+      "name": "Clear Vision"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001044_hr1.tex?format=png",
+      "name": "Collect"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001048_hr1.tex?format=png",
+      "name": "Collector's Focus"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001006_hr1.tex?format=png",
+      "name": "King's Yield"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001007_hr1.tex?format=png",
+      "name": "King's Yield II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001002_hr1.tex?format=png",
+      "name": "Lay of the Land"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001003_hr1.tex?format=png",
+      "name": "Lay of the Land II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001029_hr1.tex?format=png",
+      "name": "Luck of the Mountaineer"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001903_hr1.tex?format=png",
+      "name": "Meticulous Prospector"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001045_hr1.tex?format=png",
+      "name": "Mountaineer's Gift I"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001046_hr1.tex?format=png",
+      "name": "Mountaineer's Gift II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001047_hr1.tex?format=png",
+      "name": "Nald'thal's Tidings"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001905_hr1.tex?format=png",
+      "name": "Priming Touch"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001001_hr1.tex?format=png",
+      "name": "Prospect"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001901_hr1.tex?format=png",
+      "name": "Scour"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001904_hr1.tex?format=png",
+      "name": "Scrutiny"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001015_hr1.tex?format=png",
+      "name": "Sharp Vision"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001016_hr1.tex?format=png",
+      "name": "Sharp Vision II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001017_hr1.tex?format=png",
+      "name": "Sharp Vision III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001042_hr1.tex?format=png",
+      "name": "Sneak"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001009_hr1.tex?format=png",
+      "name": "Solid Reason"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001039_hr1.tex?format=png",
+      "name": "The Giving Land"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001043_hr1.tex?format=png",
+      "name": "the Twelve's Bounty"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001019_hr1.tex?format=png",
+      "name": "Truth of Mountains"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001049_hr1.tex?format=png",
+      "name": "Wise to the World"
+    }
+  ],
+  "Botanist": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001059_hr1.tex?format=png",
+      "name": "Ageless Words"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001052_hr1.tex?format=png",
+      "name": "Arbor Call"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001053_hr1.tex?format=png",
+      "name": "Arbor Call II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001056_hr1.tex?format=png",
+      "name": "Blessed Harvest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001057_hr1.tex?format=png",
+      "name": "Blessed Harvest II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001071_hr1.tex?format=png",
+      "name": "Bountiful Harvest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001085_hr1.tex?format=png",
+      "name": "Bountiful Harvest II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001902_hr1.tex?format=png",
+      "name": "Brazen Woodsman"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001094_hr1.tex?format=png",
+      "name": "Collect"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001098_hr1.tex?format=png",
+      "name": "Collector's Focus"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001065_hr1.tex?format=png",
+      "name": "Field Mastery"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001066_hr1.tex?format=png",
+      "name": "Field Mastery II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001067_hr1.tex?format=png",
+      "name": "Field Mastery III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001070_hr1.tex?format=png",
+      "name": "Flora Mastery"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001079_hr1.tex?format=png",
+      "name": "Luck of the Pioneer"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001903_hr1.tex?format=png",
+      "name": "Meticulous Woodsman"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001097_hr1.tex?format=png",
+      "name": "Nophica's Tidings"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001095_hr1.tex?format=png",
+      "name": "Pioneer's Gift I"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001096_hr1.tex?format=png",
+      "name": "Pioneer's Gift II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001905_hr1.tex?format=png",
+      "name": "Priming Touch"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001901_hr1.tex?format=png",
+      "name": "Scour"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001904_hr1.tex?format=png",
+      "name": "Scrutiny"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001092_hr1.tex?format=png",
+      "name": "Sneak"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001089_hr1.tex?format=png",
+      "name": "The Giving Land"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001093_hr1.tex?format=png",
+      "name": "the Twelve's Bounty"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001051_hr1.tex?format=png",
+      "name": "Triangulate"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001069_hr1.tex?format=png",
+      "name": "Truth of Forests"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001099_hr1.tex?format=png",
+      "name": "Wise to the World"
+    }
+  ],
+  "Fisher": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001146_hr1.tex?format=png",
+      "name": "Ambitious Lure"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001106_hr1.tex?format=png",
+      "name": "Bait"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001141_hr1.tex?format=png",
+      "name": "Baited Breath"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001145_hr1.tex?format=png",
+      "name": "Big-game Fishing"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001101_hr1.tex?format=png",
+      "name": "Cast"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001107_hr1.tex?format=png",
+      "name": "Cast Light"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001111_hr1.tex?format=png",
+      "name": "Chum"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001110_hr1.tex?format=png",
+      "name": "Collect"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001118_hr1.tex?format=png",
+      "name": "Double Hook"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001142_hr1.tex?format=png",
+      "name": "Electric Current"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001125_hr1.tex?format=png",
+      "name": "Fathom"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001112_hr1.tex?format=png",
+      "name": "Fish Eyes"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001119_hr1.tex?format=png",
+      "name": "Gig"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001103_hr1.tex?format=png",
+      "name": "Hook"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001124_hr1.tex?format=png",
+      "name": "Identical Cast"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001136_hr1.tex?format=png",
+      "name": "Makeshift Bait"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001147_hr1.tex?format=png",
+      "name": "Modest Lure"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001104_hr1.tex?format=png",
+      "name": "Mooch"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001117_hr1.tex?format=png",
+      "name": "Mooch II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001131_hr1.tex?format=png",
+      "name": "Nature's Bounty"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001113_hr1.tex?format=png",
+      "name": "Patience"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001114_hr1.tex?format=png",
+      "name": "Patience II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001115_hr1.tex?format=png",
+      "name": "Powerful Hookset"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001116_hr1.tex?format=png",
+      "name": "Precision Hookset"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001137_hr1.tex?format=png",
+      "name": "Prize Catch"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001102_hr1.tex?format=png",
+      "name": "Quit"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001108_hr1.tex?format=png",
+      "name": "Release"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001135_hr1.tex?format=png",
+      "name": "Release List"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001143_hr1.tex?format=png",
+      "name": "Rest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001132_hr1.tex?format=png",
+      "name": "Salvage"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001126_hr1.tex?format=png",
+      "name": "Shark Eye"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001127_hr1.tex?format=png",
+      "name": "Shark Eye II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001109_hr1.tex?format=png",
+      "name": "Snagging"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001134_hr1.tex?format=png",
+      "name": "Sneak"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001144_hr1.tex?format=png",
+      "name": "Spareful Hand"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001123_hr1.tex?format=png",
+      "name": "Surface Slap"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001139_hr1.tex?format=png",
+      "name": "Thaliak's Favor"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001138_hr1.tex?format=png",
+      "name": "Triple Hook"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001133_hr1.tex?format=png",
+      "name": "Truth of Oceans"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001128_hr1.tex?format=png",
+      "name": "Veteran Trade"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/001000/001140_hr1.tex?format=png",
+      "name": "Vital Sight"
+    }
+  ],
   "Paladin": [
     {
-      "icon": "01_PLD/atonement.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002519_hr1.tex?format=png",
       "name": "Atonement"
     },
     {
-      "icon": "01_PLD/blade_of_faith.png",
-      "name": "Blade Of Faith"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000167_hr1.tex?format=png",
+      "name": "Bulwark"
     },
     {
-      "icon": "01_PLD/blade_of_truth.png",
-      "name": "Blade Of Truth"
-    },
-    {
-      "icon": "01_PLD/blade_of_valor.png",
-      "name": "Blade Of Valor"
-    },
-    {
-      "icon": "01_PLD/circle_of_scorn.png",
-      "name": "Circle Of Scorn"
-    },
-    {
-      "icon": "01_PLD/clemency.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002509_hr1.tex?format=png",
       "name": "Clemency"
     },
     {
-      "icon": "01_PLD/confiteor.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002518_hr1.tex?format=png",
       "name": "Confiteor"
     },
     {
-      "icon": "01_PLD/cover.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002501_hr1.tex?format=png",
       "name": "Cover"
     },
     {
-      "icon": "01_PLD/divine_veil.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002508_hr1.tex?format=png",
       "name": "Divine Veil"
     },
     {
-      "icon": "01_PLD/expiacion.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002951_hr1.tex?format=png",
       "name": "Expiacion"
     },
     {
-      "icon": "01_PLD/fast_blade.png",
-      "name": "Fast Blade"
-    },
-    {
-      "icon": "01_PLD/fight_or_flight.png",
-      "name": "Fight Or Flight"
-    },
-    {
-      "icon": "01_PLD/goring_blade.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002506_hr1.tex?format=png",
       "name": "Goring Blade"
     },
     {
-      "icon": "01_PLD/hallowed_ground.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002524_hr1.tex?format=png",
+      "name": "Guardian"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002502_hr1.tex?format=png",
       "name": "Hallowed Ground"
     },
     {
-      "icon": "01_PLD/holy_circle.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002517_hr1.tex?format=png",
       "name": "Holy Circle"
     },
     {
-      "icon": "01_PLD/holy_sheltron.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002950_hr1.tex?format=png",
       "name": "Holy Sheltron"
     },
     {
-      "icon": "01_PLD/holy_spirit.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002514_hr1.tex?format=png",
       "name": "Holy Spirit"
     },
     {
-      "icon": "01_PLD/intervene.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png",
+      "name": "Imperator"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002520_hr1.tex?format=png",
       "name": "Intervene"
     },
     {
-      "icon": "01_PLD/intervention.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002512_hr1.tex?format=png",
       "name": "Intervention"
     },
     {
-      "icon": "01_PLD/iron_will.png",
-      "name": "Iron Will"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002515_hr1.tex?format=png",
+      "name": "Passage of Arms"
     },
     {
-      "icon": "01_PLD/passage_of_arms.png",
-      "name": "Passage Of Arms"
-    },
-    {
-      "icon": "01_PLD/prominence.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002516_hr1.tex?format=png",
       "name": "Prominence"
     },
     {
-      "icon": "01_PLD/rage_of_halone.png",
-      "name": "Rage Of Halone"
-    },
-    {
-      "icon": "01_PLD/requiescat.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002513_hr1.tex?format=png",
       "name": "Requiescat"
     },
     {
-      "icon": "01_PLD/riot_blade.png",
-      "name": "Riot Blade"
-    },
-    {
-      "icon": "01_PLD/royal_authority.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002507_hr1.tex?format=png",
       "name": "Royal Authority"
     },
     {
-      "icon": "01_PLD/sentinel.png",
-      "name": "Sentinel"
-    },
-    {
-      "icon": "01_PLD/sheltron.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002510_hr1.tex?format=png",
       "name": "Sheltron"
     },
     {
-      "icon": "01_PLD/shield_bash.png",
-      "name": "Shield Bash"
-    },
-    {
-      "icon": "01_PLD/shield_lob.png",
-      "name": "Shield Lob"
-    },
-    {
-      "icon": "01_PLD/spirits_within.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002503_hr1.tex?format=png",
       "name": "Spirits Within"
-    },
-    {
-      "icon": "01_PLD/total_eclipse.png",
-      "name": "Total Eclipse"
-    }
-  ],
-  "Warrior": [
-    {
-      "icon": "02_WAR/berserk.png",
-      "name": "Berserk"
-    },
-    {
-      "icon": "02_WAR/bloodwhetting.png",
-      "name": "Bloodwhetting"
-    },
-    {
-      "icon": "02_WAR/chaotic_cyclone.png",
-      "name": "Chaotic Cyclone"
-    },
-    {
-      "icon": "02_WAR/decimate.png",
-      "name": "Decimate"
-    },
-    {
-      "icon": "02_WAR/defiance.png",
-      "name": "Defiance"
-    },
-    {
-      "icon": "02_WAR/equilibrium.png",
-      "name": "Equilibrium"
-    },
-    {
-      "icon": "02_WAR/fell_cleave.png",
-      "name": "Fell Cleave"
-    },
-    {
-      "icon": "02_WAR/heavy_swing.png",
-      "name": "Heavy Swing"
-    },
-    {
-      "icon": "02_WAR/holmgang.png",
-      "name": "Holmgang"
-    },
-    {
-      "icon": "02_WAR/infuriate.png",
-      "name": "Infuriate"
-    },
-    {
-      "icon": "02_WAR/inner_beast.png",
-      "name": "Inner Beast"
-    },
-    {
-      "icon": "02_WAR/inner_chaos.png",
-      "name": "Inner Chaos"
-    },
-    {
-      "icon": "02_WAR/inner_release.png",
-      "name": "Inner Release"
-    },
-    {
-      "icon": "02_WAR/maim.png",
-      "name": "Maim"
-    },
-    {
-      "icon": "02_WAR/mythril_tempest.png",
-      "name": "Mythril Tempest"
-    },
-    {
-      "icon": "02_WAR/nascent_flash.png",
-      "name": "Nascent Flash"
-    },
-    {
-      "icon": "02_WAR/onslaught.png",
-      "name": "Onslaught"
-    },
-    {
-      "icon": "02_WAR/orogeny.png",
-      "name": "Orogeny"
-    },
-    {
-      "icon": "02_WAR/overpower.png",
-      "name": "Overpower"
-    },
-    {
-      "icon": "02_WAR/primal_rend.png",
-      "name": "Primal Rend"
-    },
-    {
-      "icon": "02_WAR/raw_intuition.png",
-      "name": "Raw Intuition"
-    },
-    {
-      "icon": "02_WAR/shake_it_off.png",
-      "name": "Shake It Off"
-    },
-    {
-      "icon": "02_WAR/steel_cyclone.png",
-      "name": "Steel Cyclone"
-    },
-    {
-      "icon": "02_WAR/storm's_eye.png",
-      "name": "Storm's Eye"
-    },
-    {
-      "icon": "02_WAR/storm's_path.png",
-      "name": "Storm's Path"
-    },
-    {
-      "icon": "02_WAR/thrill_of_battle.png",
-      "name": "Thrill Of Battle"
-    },
-    {
-      "icon": "02_WAR/tomahawk.png",
-      "name": "Tomahawk"
-    },
-    {
-      "icon": "02_WAR/upheaval.png",
-      "name": "Upheaval"
-    },
-    {
-      "icon": "02_WAR/vengeance.png",
-      "name": "Vengeance"
-    }
-  ],
-  "Dark Knight": [
-    {
-      "icon": "03_DRK/abyssal_drain.png",
-      "name": "Abyssal Drain"
-    },
-    {
-      "icon": "03_DRK/bloodspiller.png",
-      "name": "Bloodspiller"
-    },
-    {
-      "icon": "03_DRK/blood_weapon.png",
-      "name": "Blood Weapon"
-    },
-    {
-      "icon": "03_DRK/carve_and_spit.png",
-      "name": "Carve And Spit"
-    },
-    {
-      "icon": "03_DRK/dark_mind.png",
-      "name": "Dark Mind"
-    },
-    {
-      "icon": "03_DRK/dark_missionary.png",
-      "name": "Dark Missionary"
-    },
-    {
-      "icon": "03_DRK/delirium.png",
-      "name": "Delirium"
-    },
-    {
-      "icon": "03_DRK/edge_of_darkness.png",
-      "name": "Edge Of Darkness"
-    },
-    {
-      "icon": "03_DRK/edge_of_shadow.png",
-      "name": "Edge Of Shadow"
-    },
-    {
-      "icon": "03_DRK/flood_of_darkness.png",
-      "name": "Flood Of Darkness"
-    },
-    {
-      "icon": "03_DRK/flood_of_shadow.png",
-      "name": "Flood Of Shadow"
-    },
-    {
-      "icon": "03_DRK/grit.png",
-      "name": "Grit"
-    },
-    {
-      "icon": "03_DRK/hard_slash.png",
-      "name": "Hard Slash"
-    },
-    {
-      "icon": "03_DRK/living_dead.png",
-      "name": "Living Dead"
-    },
-    {
-      "icon": "03_DRK/living_shadow.png",
-      "name": "Living Shadow"
-    },
-    {
-      "icon": "03_DRK/oblation.png",
-      "name": "Oblation"
-    },
-    {
-      "icon": "03_DRK/plunge.png",
-      "name": "Plunge"
-    },
-    {
-      "icon": "03_DRK/quietus.png",
-      "name": "Quietus"
-    },
-    {
-      "icon": "03_DRK/salted_earth.png",
-      "name": "Salted Earth"
-    },
-    {
-      "icon": "03_DRK/salt_and_darkness.png",
-      "name": "Salt And Darkness"
-    },
-    {
-      "icon": "03_DRK/shadowbringer.png",
-      "name": "Shadowbringer"
-    },
-    {
-      "icon": "03_DRK/shadow_wall.png",
-      "name": "Shadow Wall"
-    },
-    {
-      "icon": "03_DRK/souleater.png",
-      "name": "Souleater"
-    },
-    {
-      "icon": "03_DRK/stalwart_soul.png",
-      "name": "Stalwart Soul"
-    },
-    {
-      "icon": "03_DRK/syphon_strike.png",
-      "name": "Syphon Strike"
-    },
-    {
-      "icon": "03_DRK/the_blackest_night.png",
-      "name": "The Blackest Night"
-    },
-    {
-      "icon": "03_DRK/unleash.png",
-      "name": "Unleash"
-    },
-    {
-      "icon": "03_DRK/unmend.png",
-      "name": "Unmend"
-    }
-  ],
-  "Gunbreaker": [
-    {
-      "icon": "04_GNB/abdomen_tear.png",
-      "name": "Abdomen Tear"
-    },
-    {
-      "icon": "04_GNB/aurora.png",
-      "name": "Aurora"
-    },
-    {
-      "icon": "04_GNB/blasting_zone.png",
-      "name": "Blasting Zone"
-    },
-    {
-      "icon": "04_GNB/bloodfest.png",
-      "name": "Bloodfest"
-    },
-    {
-      "icon": "04_GNB/bow_shock.png",
-      "name": "Bow Shock"
-    },
-    {
-      "icon": "04_GNB/brutal_shell.png",
-      "name": "Brutal Shell"
-    },
-    {
-      "icon": "04_GNB/burst_strike.png",
-      "name": "Burst Strike"
-    },
-    {
-      "icon": "04_GNB/camouflage.png",
-      "name": "Camouflage"
-    },
-    {
-      "icon": "04_GNB/continuation.png",
-      "name": "Continuation"
-    },
-    {
-      "icon": "04_GNB/danger_zone.png",
-      "name": "Danger Zone"
-    },
-    {
-      "icon": "04_GNB/demon_slaughter.png",
-      "name": "Demon Slaughter"
-    },
-    {
-      "icon": "04_GNB/demon_slice.png",
-      "name": "Demon Slice"
-    },
-    {
-      "icon": "04_GNB/double_down.png",
-      "name": "Double Down"
-    },
-    {
-      "icon": "04_GNB/eye_gouge.png",
-      "name": "Eye Gouge"
-    },
-    {
-      "icon": "04_GNB/fated_circle.png",
-      "name": "Fated Circle"
-    },
-    {
-      "icon": "04_GNB/gnashing_fang.png",
-      "name": "Gnashing Fang"
-    },
-    {
-      "icon": "04_GNB/heart_of_corundum.png",
-      "name": "Heart Of Corundum"
-    },
-    {
-      "icon": "04_GNB/heart_of_light.png",
-      "name": "Heart Of Light"
-    },
-    {
-      "icon": "04_GNB/heart_of_stone.png",
-      "name": "Heart Of Stone"
-    },
-    {
-      "icon": "04_GNB/hypervelocity.png",
-      "name": "Hypervelocity"
-    },
-    {
-      "icon": "04_GNB/jugular_rip.png",
-      "name": "Jugular Rip"
-    },
-    {
-      "icon": "04_GNB/keen_edge.png",
-      "name": "Keen Edge"
-    },
-    {
-      "icon": "04_GNB/lightning_shot.png",
-      "name": "Lightning Shot"
-    },
-    {
-      "icon": "04_GNB/nebula.png",
-      "name": "Nebula"
-    },
-    {
-      "icon": "04_GNB/no_mercy.png",
-      "name": "No Mercy"
-    },
-    {
-      "icon": "04_GNB/rough_divide.png",
-      "name": "Rough Divide"
-    },
-    {
-      "icon": "04_GNB/royal_guard.png",
-      "name": "Royal Guard"
-    },
-    {
-      "icon": "04_GNB/savage_claw.png",
-      "name": "Savage Claw"
-    },
-    {
-      "icon": "04_GNB/solid_barrel.png",
-      "name": "Solid Barrel"
-    },
-    {
-      "icon": "04_GNB/sonic_break.png",
-      "name": "Sonic Break"
-    },
-    {
-      "icon": "04_GNB/superbolide.png",
-      "name": "Superbolide"
-    },
-    {
-      "icon": "04_GNB/wicked_talon.png",
-      "name": "Wicked Talon"
     }
   ],
   "Monk": [
     {
-      "icon": "05_MNK/anatman.png",
-      "name": "Anatman"
-    },
-    {
-      "icon": "05_MNK/arm_of_the_destroyer.png",
-      "name": "Arm Of The Destroyer"
-    },
-    {
-      "icon": "05_MNK/bootshine.png",
-      "name": "Bootshine"
-    },
-    {
-      "icon": "05_MNK/brotherhood.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002542_hr1.tex?format=png",
       "name": "Brotherhood"
     },
     {
-      "icon": "05_MNK/celestial_revolution.png",
-      "name": "Celestial Revolution"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002549_hr1.tex?format=png",
+      "name": "Earth's Reply"
     },
     {
-      "icon": "05_MNK/demolish.png",
-      "name": "Demolish"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000219_hr1.tex?format=png",
+      "name": "Enlightened Meditation"
     },
     {
-      "icon": "05_MNK/dragon_kick.png",
-      "name": "Dragon Kick"
-    },
-    {
-      "icon": "05_MNK/elixir_field.png",
-      "name": "Elixir Field"
-    },
-    {
-      "icon": "05_MNK/enlightenment.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002545_hr1.tex?format=png",
       "name": "Enlightenment"
     },
     {
-      "icon": "05_MNK/flint_strike.png",
-      "name": "Flint Strike"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002987_hr1.tex?format=png",
+      "name": "Fire's Reply"
     },
     {
-      "icon": "05_MNK/form_shift.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000218_hr1.tex?format=png",
+      "name": "Forbidden Meditation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002536_hr1.tex?format=png",
       "name": "Form Shift"
     },
     {
-      "icon": "05_MNK/four-point_fury.png",
-      "name": "Four-Point Fury"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002544_hr1.tex?format=png",
+      "name": "Four-point Fury"
     },
     {
-      "icon": "05_MNK/howling_fist.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000207_hr1.tex?format=png",
       "name": "Howling Fist"
     },
     {
-      "icon": "05_MNK/mantra.png",
-      "name": "Mantra"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000219_hr1.tex?format=png",
+      "name": "Inspirited Meditation"
     },
     {
-      "icon": "05_MNK/masterful_blitz.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002982_hr1.tex?format=png",
+      "name": "Leaping Opo"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002976_hr1.tex?format=png",
       "name": "Masterful Blitz"
     },
     {
-      "icon": "05_MNK/meditation.png",
-      "name": "Meditation"
-    },
-    {
-      "icon": "05_MNK/perfect_balance.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000217_hr1.tex?format=png",
       "name": "Perfect Balance"
     },
     {
-      "icon": "05_MNK/phantom_rush.png",
-      "name": "Phantom Rush"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002984_hr1.tex?format=png",
+      "name": "Pouncing Coeurl"
     },
     {
-      "icon": "05_MNK/riddle_of_earth.png",
-      "name": "Riddle Of Earth"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002537_hr1.tex?format=png",
+      "name": "Riddle of Earth"
     },
     {
-      "icon": "05_MNK/riddle_of_fire.png",
-      "name": "Riddle Of Fire"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002541_hr1.tex?format=png",
+      "name": "Riddle of Fire"
     },
     {
-      "icon": "05_MNK/riddle_of_wind.png",
-      "name": "Riddle Of Wind"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002978_hr1.tex?format=png",
+      "name": "Riddle of Wind"
     },
     {
-      "icon": "05_MNK/rising_phoenix.png",
-      "name": "Rising Phoenix"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002983_hr1.tex?format=png",
+      "name": "Rising Raptor"
     },
     {
-      "icon": "05_MNK/rockbreaker.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002529_hr1.tex?format=png",
       "name": "Rockbreaker"
     },
     {
-      "icon": "05_MNK/shadow_of_the_destroyer.png",
-      "name": "Shadow Of The Destroyer"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002979_hr1.tex?format=png",
+      "name": "Shadow of the Destroyer"
     },
     {
-      "icon": "05_MNK/six-sided_star.png",
-      "name": "Six-Sided Star"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002547_hr1.tex?format=png",
+      "name": "Six-sided Star"
     },
     {
-      "icon": "05_MNK/snap_punch.png",
-      "name": "Snap Punch"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002535_hr1.tex?format=png",
+      "name": "the Forbidden Chakra"
     },
     {
-      "icon": "05_MNK/steel_peak.png",
-      "name": "Steel Peak"
-    },
-    {
-      "icon": "05_MNK/the_forbidden_chakra.png",
-      "name": "The Forbidden Chakra"
-    },
-    {
-      "icon": "05_MNK/thunderclap.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002975_hr1.tex?format=png",
       "name": "Thunderclap"
     },
     {
-      "icon": "05_MNK/tornado_kick.png",
-      "name": "Tornado Kick"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002986_hr1.tex?format=png",
+      "name": "Wind's Reply"
+    }
+  ],
+  "Warrior": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002569_hr1.tex?format=png",
+      "name": "Bloodwhetting"
     },
     {
-      "icon": "05_MNK/true_strike.png",
-      "name": "True Strike"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002573_hr1.tex?format=png",
+      "name": "Damnation"
     },
     {
-      "icon": "05_MNK/twin_snakes.png",
-      "name": "Twin Snakes"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002558_hr1.tex?format=png",
+      "name": "Decimate"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002560_hr1.tex?format=png",
+      "name": "Equilibrium"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002557_hr1.tex?format=png",
+      "name": "Fell Cleave"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002555_hr1.tex?format=png",
+      "name": "Infuriate"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002553_hr1.tex?format=png",
+      "name": "Inner Beast"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002564_hr1.tex?format=png",
+      "name": "Inner Release"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002565_hr1.tex?format=png",
+      "name": "Mythril Tempest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002567_hr1.tex?format=png",
+      "name": "Nascent Flash"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002561_hr1.tex?format=png",
+      "name": "Onslaught"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002570_hr1.tex?format=png",
+      "name": "Orogeny"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002571_hr1.tex?format=png",
+      "name": "Primal Rend"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002559_hr1.tex?format=png",
+      "name": "Raw Intuition"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002563_hr1.tex?format=png",
+      "name": "Shake It Off"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002552_hr1.tex?format=png",
+      "name": "Steel Cyclone"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002562_hr1.tex?format=png",
+      "name": "Upheaval"
     }
   ],
   "Dragoon": [
     {
-      "icon": "06_DRG/battle_litany.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002585_hr1.tex?format=png",
       "name": "Battle Litany"
     },
     {
-      "icon": "06_DRG/chaos_thrust.png",
-      "name": "Chaos Thrust"
-    },
-    {
-      "icon": "06_DRG/chaotic_spring.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002596_hr1.tex?format=png",
       "name": "Chaotic Spring"
     },
     {
-      "icon": "06_DRG/coerthan_torment.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002590_hr1.tex?format=png",
       "name": "Coerthan Torment"
     },
     {
-      "icon": "06_DRG/disembowel.png",
-      "name": "Disembowel"
-    },
-    {
-      "icon": "06_DRG/doom_spike.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000306_hr1.tex?format=png",
       "name": "Doom Spike"
     },
     {
-      "icon": "06_DRG/draconian_fury.png",
-      "name": "Draconian Fury"
-    },
-    {
-      "icon": "06_DRG/dragonfire_dive.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002578_hr1.tex?format=png",
       "name": "Dragonfire Dive"
     },
     {
-      "icon": "06_DRG/dragon_sight.png",
-      "name": "Dragon Sight"
-    },
-    {
-      "icon": "06_DRG/elusive_jump.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002577_hr1.tex?format=png",
       "name": "Elusive Jump"
     },
     {
-      "icon": "06_DRG/fang_and_claw.png",
-      "name": "Fang And Claw"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002582_hr1.tex?format=png",
+      "name": "Fang and Claw"
     },
     {
-      "icon": "06_DRG/full_thrust.png",
-      "name": "Full Thrust"
-    },
-    {
-      "icon": "06_DRG/geirskogul.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002583_hr1.tex?format=png",
       "name": "Geirskogul"
     },
     {
-      "icon": "06_DRG/heavens'_thrust.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002595_hr1.tex?format=png",
       "name": "Heavens' Thrust"
     },
     {
-      "icon": "06_DRG/high_jump.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002591_hr1.tex?format=png",
       "name": "High Jump"
     },
     {
-      "icon": "06_DRG/jump.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002576_hr1.tex?format=png",
       "name": "Jump"
     },
     {
-      "icon": "06_DRG/lance_charge.png",
-      "name": "Lance Charge"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png",
+      "name": "Lance Barrage"
     },
     {
-      "icon": "06_DRG/life_surge.png",
-      "name": "Life Surge"
-    },
-    {
-      "icon": "06_DRG/mirage_dive.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002588_hr1.tex?format=png",
       "name": "Mirage Dive"
     },
     {
-      "icon": "06_DRG/nastrond.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002589_hr1.tex?format=png",
       "name": "Nastrond"
     },
     {
-      "icon": "06_DRG/piercing_talon.png",
-      "name": "Piercing Talon"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png",
+      "name": "Rise of the Dragon"
     },
     {
-      "icon": "06_DRG/raiden_thrust.png",
-      "name": "Raiden Thrust"
-    },
-    {
-      "icon": "06_DRG/sonic_thrust.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002586_hr1.tex?format=png",
       "name": "Sonic Thrust"
     },
     {
-      "icon": "06_DRG/spineshatter_dive.png",
-      "name": "Spineshatter Dive"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png",
+      "name": "Spiral Blow"
     },
     {
-      "icon": "06_DRG/stardiver.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png",
+      "name": "Starcross"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002593_hr1.tex?format=png",
       "name": "Stardiver"
     },
     {
-      "icon": "06_DRG/true_thrust.png",
-      "name": "True Thrust"
-    },
-    {
-      "icon": "06_DRG/vorpal_thrust.png",
-      "name": "Vorpal Thrust"
-    },
-    {
-      "icon": "06_DRG/wheeling_thrust.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002584_hr1.tex?format=png",
       "name": "Wheeling Thrust"
     },
     {
-      "icon": "06_DRG/wyrmwind_thrust.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png",
+      "name": "Winged Glide"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002597_hr1.tex?format=png",
       "name": "Wyrmwind Thrust"
-    }
-  ],
-  "Samurai": [
-    {
-      "icon": "07_SAM/enpi.png",
-      "name": "Enpi"
-    },
-    {
-      "icon": "07_SAM/fuga.png",
-      "name": "Fuga"
-    },
-    {
-      "icon": "07_SAM/fuko.png",
-      "name": "Fuko"
-    },
-    {
-      "icon": "07_SAM/gekko.png",
-      "name": "Gekko"
-    },
-    {
-      "icon": "07_SAM/hagakure.png",
-      "name": "Hagakure"
-    },
-    {
-      "icon": "07_SAM/hakaze.png",
-      "name": "Hakaze"
-    },
-    {
-      "icon": "07_SAM/higanbana.png",
-      "name": "Higanbana"
-    },
-    {
-      "icon": "07_SAM/hissatsu_guren.png",
-      "name": "Hissatsu Guren"
-    },
-    {
-      "icon": "07_SAM/hissatsu_gyoten.png",
-      "name": "Hissatsu Gyoten"
-    },
-    {
-      "icon": "07_SAM/hissatsu_kyuten.png",
-      "name": "Hissatsu Kyuten"
-    },
-    {
-      "icon": "07_SAM/hissatsu_senei.png",
-      "name": "Hissatsu Senei"
-    },
-    {
-      "icon": "07_SAM/hissatsu_shinten.png",
-      "name": "Hissatsu Shinten"
-    },
-    {
-      "icon": "07_SAM/hissatsu_yaten.png",
-      "name": "Hissatsu Yaten"
-    },
-    {
-      "icon": "07_SAM/Iaijutsu.png",
-      "name": "Iaijutsu"
-    },
-    {
-      "icon": "07_SAM/ikishoten.png",
-      "name": "Ikishoten"
-    },
-    {
-      "icon": "07_SAM/jinpu.png",
-      "name": "Jinpu"
-    },
-    {
-      "icon": "07_SAM/kaeshi_goken.png",
-      "name": "Kaeshi Goken"
-    },
-    {
-      "icon": "07_SAM/kaeshi_higanbana.png",
-      "name": "Kaeshi Higanbana"
-    },
-    {
-      "icon": "07_SAM/kaeshi_namikiri.png",
-      "name": "Kaeshi Namikiri"
-    },
-    {
-      "icon": "07_SAM/kaeshi_setsugekka.png",
-      "name": "Kaeshi Setsugekka"
-    },
-    {
-      "icon": "07_SAM/kasha.png",
-      "name": "Kasha"
-    },
-    {
-      "icon": "07_SAM/mangetsu.png",
-      "name": "Mangetsu"
-    },
-    {
-      "icon": "07_SAM/meditate.png",
-      "name": "Meditate"
-    },
-    {
-      "icon": "07_SAM/meikyo_shisui.png",
-      "name": "Meikyo Shisui"
-    },
-    {
-      "icon": "07_SAM/midare_setsugekka.png",
-      "name": "Midare Setsugekka"
-    },
-    {
-      "icon": "07_SAM/ogi_namikiri.png",
-      "name": "Ogi Namikiri"
-    },
-    {
-      "icon": "07_SAM/oka.png",
-      "name": "Oka"
-    },
-    {
-      "icon": "07_SAM/shifu.png",
-      "name": "Shifu"
-    },
-    {
-      "icon": "07_SAM/shoha.png",
-      "name": "Shoha"
-    },
-    {
-      "icon": "07_SAM/shoha_II.png",
-      "name": "Shoha II"
-    },
-    {
-      "icon": "07_SAM/tenka_goken.png",
-      "name": "Tenka Goken"
-    },
-    {
-      "icon": "07_SAM/third_eye.png",
-      "name": "Third Eye"
-    },
-    {
-      "icon": "07_SAM/tsubame-gaeshi.png",
-      "name": "Tsubame-Gaeshi"
-    },
-    {
-      "icon": "07_SAM/yukikaze.png",
-      "name": "Yukikaze"
-    }
-  ],
-  "Reaper": [
-    {
-      "icon": "08_RPR/arcane_circle.png",
-      "name": "Arcane Circle"
-    },
-    {
-      "icon": "08_RPR/arcane_crest.png",
-      "name": "Arcane Crest"
-    },
-    {
-      "icon": "08_RPR/blood_stalk.png",
-      "name": "Blood Stalk"
-    },
-    {
-      "icon": "08_RPR/communio.png",
-      "name": "Communio"
-    },
-    {
-      "icon": "08_RPR/cross_reaping.png",
-      "name": "Cross Reaping"
-    },
-    {
-      "icon": "08_RPR/enshroud.png",
-      "name": "Enshroud"
-    },
-    {
-      "icon": "08_RPR/gallows.png",
-      "name": "Gallows"
-    },
-    {
-      "icon": "08_RPR/gibbet.png",
-      "name": "Gibbet"
-    },
-    {
-      "icon": "08_RPR/gluttony.png",
-      "name": "Gluttony"
-    },
-    {
-      "icon": "08_RPR/grim_reaping.png",
-      "name": "Grim Reaping"
-    },
-    {
-      "icon": "08_RPR/grim_swathe.png",
-      "name": "Grim Swathe"
-    },
-    {
-      "icon": "08_RPR/guillotine.png",
-      "name": "Guillotine"
-    },
-    {
-      "icon": "08_RPR/harpe.png",
-      "name": "Harpe"
-    },
-    {
-      "icon": "08_RPR/harvest_moon.png",
-      "name": "Harvest Moon"
-    },
-    {
-      "icon": "08_RPR/hell's_egress.png",
-      "name": "Hell'S Egress"
-    },
-    {
-      "icon": "08_RPR/hell's_ingress.png",
-      "name": "Hell'S Ingress"
-    },
-    {
-      "icon": "08_RPR/infernal_slice.png",
-      "name": "Infernal Slice"
-    },
-    {
-      "icon": "08_RPR/lemure's_scythe.png",
-      "name": "Lemure'S Scythe"
-    },
-    {
-      "icon": "08_RPR/lemure's_slice.png",
-      "name": "Lemure'S Slice"
-    },
-    {
-      "icon": "08_RPR/nightmare_scythe.png",
-      "name": "Nightmare Scythe"
-    },
-    {
-      "icon": "08_RPR/plentiful_harvest.png",
-      "name": "Plentiful Harvest"
-    },
-    {
-      "icon": "08_RPR/regress.png",
-      "name": "Regress"
-    },
-    {
-      "icon": "08_RPR/shadow_of_death.png",
-      "name": "Shadow Of Death"
-    },
-    {
-      "icon": "08_RPR/slice.png",
-      "name": "Slice"
-    },
-    {
-      "icon": "08_RPR/soulsow.png",
-      "name": "Soulsow"
-    },
-    {
-      "icon": "08_RPR/soul_scythe.png",
-      "name": "Soul Scythe"
-    },
-    {
-      "icon": "08_RPR/soul_slice.png",
-      "name": "Soul Slice"
-    },
-    {
-      "icon": "08_RPR/spinning_scythe.png",
-      "name": "Spinning Scythe"
-    },
-    {
-      "icon": "08_RPR/unveiled_gallows.png",
-      "name": "Unveiled Gallows"
-    },
-    {
-      "icon": "08_RPR/unveiled_gibbet.png",
-      "name": "Unveiled Gibbet"
-    },
-    {
-      "icon": "08_RPR/void_reaping.png",
-      "name": "Void Reaping"
-    },
-    {
-      "icon": "08_RPR/waxing_slice.png",
-      "name": "Waxing Slice"
-    },
-    {
-      "icon": "08_RPR/whorl_of_death.png",
-      "name": "Whorl Of Death"
-    }
-  ],
-  "Ninja": [
-    {
-      "icon": "09_NIN/aeolian_edge.png",
-      "name": "Aeolian Edge"
-    },
-    {
-      "icon": "09_NIN/armor_crush.png",
-      "name": "Armor Crush"
-    },
-    {
-      "icon": "09_NIN/assassinate.png",
-      "name": "Assassinate"
-    },
-    {
-      "icon": "09_NIN/bhavacakra.png",
-      "name": "Bhavacakra"
-    },
-    {
-      "icon": "09_NIN/bunshin.png",
-      "name": "Bunshin"
-    },
-    {
-      "icon": "09_NIN/chi.png",
-      "name": "Chi"
-    },
-    {
-      "icon": "09_NIN/death_blossom.png",
-      "name": "Death Blossom"
-    },
-    {
-      "icon": "09_NIN/doton.png",
-      "name": "Doton"
-    },
-    {
-      "icon": "09_NIN/dream_within_a_dream.png",
-      "name": "Dream Within A Dream"
-    },
-    {
-      "icon": "09_NIN/fleeting_raiju.png",
-      "name": "Fleeting Raiju"
-    },
-    {
-      "icon": "09_NIN/forked_raiju.png",
-      "name": "Forked Raiju"
-    },
-    {
-      "icon": "09_NIN/fuma_shuriken.png",
-      "name": "Fuma Shuriken"
-    },
-    {
-      "icon": "09_NIN/goka_mekkyaku.png",
-      "name": "Goka Mekkyaku"
-    },
-    {
-      "icon": "09_NIN/gust_slash.png",
-      "name": "Gust Slash"
-    },
-    {
-      "icon": "09_NIN/hakke_mujinsatsu.png",
-      "name": "Hakke Mujinsatsu"
-    },
-    {
-      "icon": "09_NIN/hellfrog_medium.png",
-      "name": "Hellfrog Medium"
-    },
-    {
-      "icon": "09_NIN/hide.png",
-      "name": "Hide"
-    },
-    {
-      "icon": "09_NIN/hollow_nozuchi.png",
-      "name": "Hollow Nozuchi"
-    },
-    {
-      "icon": "09_NIN/huraijin.png",
-      "name": "Huraijin"
-    },
-    {
-      "icon": "09_NIN/huton.png",
-      "name": "Huton"
-    },
-    {
-      "icon": "09_NIN/hyosho_ranryu.png",
-      "name": "Hyosho Ranryu"
-    },
-    {
-      "icon": "09_NIN/hyoton.png",
-      "name": "Hyoton"
-    },
-    {
-      "icon": "09_NIN/jin.png",
-      "name": "Jin"
-    },
-    {
-      "icon": "09_NIN/kassatsu.png",
-      "name": "Kassatsu"
-    },
-    {
-      "icon": "09_NIN/katon.png",
-      "name": "Katon"
-    },
-    {
-      "icon": "09_NIN/meisui.png",
-      "name": "Meisui"
-    },
-    {
-      "icon": "09_NIN/mug.png",
-      "name": "Mug"
-    },
-    {
-      "icon": "09_NIN/ninjutsu.png",
-      "name": "Ninjutsu"
-    },
-    {
-      "icon": "09_NIN/phantom_kamaitachi.png",
-      "name": "Phantom Kamaitachi"
-    },
-    {
-      "icon": "09_NIN/rabbit_medium.png",
-      "name": "Rabbit Medium"
-    },
-    {
-      "icon": "09_NIN/raiton.png",
-      "name": "Raiton"
-    },
-    {
-      "icon": "09_NIN/shade_shift.png",
-      "name": "Shade Shift"
-    },
-    {
-      "icon": "09_NIN/shukuchi.png",
-      "name": "Shukuchi"
-    },
-    {
-      "icon": "09_NIN/spinning_edge.png",
-      "name": "Spinning Edge"
-    },
-    {
-      "icon": "09_NIN/suiton.png",
-      "name": "Suiton"
-    },
-    {
-      "icon": "09_NIN/ten.png",
-      "name": "Ten"
-    },
-    {
-      "icon": "09_NIN/ten_chi_jin.png",
-      "name": "Ten Chi Jin"
-    },
-    {
-      "icon": "09_NIN/throwing_dagger.png",
-      "name": "Throwing Dagger"
-    },
-    {
-      "icon": "09_NIN/trick_attack.png",
-      "name": "Trick Attack"
     }
   ],
   "Bard": [
     {
-      "icon": "10_BRD/apex_arrow.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002619_hr1.tex?format=png",
       "name": "Apex Arrow"
     },
     {
-      "icon": "10_BRD/army's_paeon.png",
-      "name": "Army'S Paeon"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002603_hr1.tex?format=png",
+      "name": "Army's Paeon"
     },
     {
-      "icon": "10_BRD/barrage.png",
-      "name": "Barrage"
-    },
-    {
-      "icon": "10_BRD/battle_voice.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002601_hr1.tex?format=png",
       "name": "Battle Voice"
     },
     {
-      "icon": "10_BRD/blast_arrow.png",
-      "name": "Blast Arrow"
-    },
-    {
-      "icon": "10_BRD/bloodletter.png",
-      "name": "Bloodletter"
-    },
-    {
-      "icon": "10_BRD/burst_shot.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002618_hr1.tex?format=png",
       "name": "Burst Shot"
     },
     {
-      "icon": "10_BRD/caustic_bite.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002613_hr1.tex?format=png",
       "name": "Caustic Bite"
     },
     {
-      "icon": "10_BRD/empyreal_arrow.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002606_hr1.tex?format=png",
       "name": "Empyreal Arrow"
     },
     {
-      "icon": "10_BRD/heavy_shot.png",
-      "name": "Heavy Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002623_hr1.tex?format=png",
+      "name": "Heartbreak Shot"
     },
     {
-      "icon": "10_BRD/iron_jaws.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002608_hr1.tex?format=png",
       "name": "Iron Jaws"
     },
     {
-      "icon": "10_BRD/ladonsbite.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002620_hr1.tex?format=png",
       "name": "Ladonsbite"
     },
     {
-      "icon": "10_BRD/mage's_ballad.png",
-      "name": "Mage'S Ballad"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002602_hr1.tex?format=png",
+      "name": "Mage's Ballad"
     },
     {
-      "icon": "10_BRD/nature's_minne.png",
-      "name": "Nature'S Minne"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002615_hr1.tex?format=png",
+      "name": "Nature's Minne"
     },
     {
-      "icon": "10_BRD/pitch_perfect.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002611_hr1.tex?format=png",
       "name": "Pitch Perfect"
     },
     {
-      "icon": "10_BRD/quick_nock.png",
-      "name": "Quick Nock"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002100_hr1.tex?format=png",
+      "name": "Radiant Encore"
     },
     {
-      "icon": "10_BRD/radiant_finale.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002622_hr1.tex?format=png",
       "name": "Radiant Finale"
     },
     {
-      "icon": "10_BRD/raging_strikes.png",
-      "name": "Raging Strikes"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002605_hr1.tex?format=png",
+      "name": "Rain of Death"
     },
     {
-      "icon": "10_BRD/rain_of_death.png",
-      "name": "Rain Of Death"
-    },
-    {
-      "icon": "10_BRD/refulgent_arrow.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002616_hr1.tex?format=png",
       "name": "Refulgent Arrow"
     },
     {
-      "icon": "10_BRD/repelling_shot.png",
-      "name": "Repelling Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002624_hr1.tex?format=png",
+      "name": "Resonant Arrow"
     },
     {
-      "icon": "10_BRD/shadowbite.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002617_hr1.tex?format=png",
       "name": "Shadowbite"
     },
     {
-      "icon": "10_BRD/sidewinder.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002610_hr1.tex?format=png",
       "name": "Sidewinder"
     },
     {
-      "icon": "10_BRD/stormbite.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002614_hr1.tex?format=png",
       "name": "Stormbite"
     },
     {
-      "icon": "10_BRD/straight_shot.png",
-      "name": "Straight Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002607_hr1.tex?format=png",
+      "name": "the Wanderer's Minuet"
     },
     {
-      "icon": "10_BRD/the_wanderer's_minuet.png",
-      "name": "The Wanderer'S Minuet"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002609_hr1.tex?format=png",
+      "name": "the Warden's Paean"
     },
     {
-      "icon": "10_BRD/the_warden's_paean.png",
-      "name": "The Warden'S Paean"
-    },
-    {
-      "icon": "10_BRD/troubadour.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002612_hr1.tex?format=png",
       "name": "Troubadour"
-    },
-    {
-      "icon": "10_BRD/venomous_bite.png",
-      "name": "Venomous Bite"
-    },
-    {
-      "icon": "10_BRD/windbite.png",
-      "name": "Windbite"
     }
   ],
-  "Machinist": [
+  "White Mage": [
     {
-      "icon": "11_MCH/air_anchor.png",
-      "name": "Air Anchor"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002125_hr1.tex?format=png",
+      "name": "Aetherial Shift"
     },
     {
-      "icon": "11_MCH/arm_punch.png",
-      "name": "Arm Punch"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002644_hr1.tex?format=png",
+      "name": "Afflatus Misery"
     },
     {
-      "icon": "11_MCH/automaton_queen.png",
-      "name": "Automaton Queen"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002643_hr1.tex?format=png",
+      "name": "Afflatus Rapture"
     },
     {
-      "icon": "11_MCH/auto_crossbow.png",
-      "name": "Auto Crossbow"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002640_hr1.tex?format=png",
+      "name": "Afflatus Solace"
     },
     {
-      "icon": "11_MCH/barrel_stabilizer.png",
-      "name": "Barrel Stabilizer"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002648_hr1.tex?format=png",
+      "name": "Aquaveil"
     },
     {
-      "icon": "11_MCH/bioblaster.png",
-      "name": "Bioblaster"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002634_hr1.tex?format=png",
+      "name": "Assize"
     },
     {
-      "icon": "11_MCH/chain_saw.png",
-      "name": "Chain Saw"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002632_hr1.tex?format=png",
+      "name": "Asylum"
     },
     {
-      "icon": "11_MCH/clean_shot.png",
-      "name": "Clean Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002627_hr1.tex?format=png",
+      "name": "Benediction"
     },
     {
-      "icon": "11_MCH/crowned_collider.png",
-      "name": "Crowned Collider"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000407_hr1.tex?format=png",
+      "name": "Cure III"
     },
     {
-      "icon": "11_MCH/detonator.png",
-      "name": "Detonator"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002641_hr1.tex?format=png",
+      "name": "Dia"
     },
     {
-      "icon": "11_MCH/drill.png",
-      "name": "Drill"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002638_hr1.tex?format=png",
+      "name": "Divine Benison"
     },
     {
-      "icon": "11_MCH/flamethrower.png",
-      "name": "Flamethrower"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002128_hr1.tex?format=png",
+      "name": "Divine Caress"
     },
     {
-      "icon": "11_MCH/gauss_round.png",
-      "name": "Gauss Round"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002642_hr1.tex?format=png",
+      "name": "Glare"
     },
     {
-      "icon": "11_MCH/heated_clean_shot.png",
-      "name": "Heated Clean Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002646_hr1.tex?format=png",
+      "name": "Glare III"
     },
     {
-      "icon": "11_MCH/heated_slug_shot.png",
-      "name": "Heated Slug Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002126_hr1.tex?format=png",
+      "name": "Glare IV"
     },
     {
-      "icon": "11_MCH/heated_split_shot.png",
-      "name": "Heated Split Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002629_hr1.tex?format=png",
+      "name": "Holy"
     },
     {
-      "icon": "11_MCH/heat_blast.png",
-      "name": "Heat Blast"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002647_hr1.tex?format=png",
+      "name": "Holy III"
     },
     {
-      "icon": "11_MCH/hot_shot.png",
-      "name": "Hot Shot"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002649_hr1.tex?format=png",
+      "name": "Liturgy of the Bell"
     },
     {
-      "icon": "11_MCH/hypercharge.png",
-      "name": "Hypercharge"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002127_hr1.tex?format=png",
+      "name": "Medica III"
     },
     {
-      "icon": "11_MCH/pile_bunker.png",
-      "name": "Pile Bunker"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002639_hr1.tex?format=png",
+      "name": "Plenary Indulgence"
     },
     {
-      "icon": "11_MCH/queen_overdrive.png",
-      "name": "Queen Overdrive"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002626_hr1.tex?format=png",
+      "name": "Presence of Mind"
     },
     {
-      "icon": "11_MCH/reassemble.png",
-      "name": "Reassemble"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002628_hr1.tex?format=png",
+      "name": "Regen"
     },
     {
-      "icon": "11_MCH/ricochet.png",
-      "name": "Ricochet"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002631_hr1.tex?format=png",
+      "name": "Stone III"
     },
     {
-      "icon": "11_MCH/roller_dash.png",
-      "name": "Roller Dash"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002637_hr1.tex?format=png",
+      "name": "Stone IV"
     },
     {
-      "icon": "11_MCH/rook_autoturret.png",
-      "name": "Rook Autoturret"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002645_hr1.tex?format=png",
+      "name": "Temperance"
     },
     {
-      "icon": "11_MCH/rook_overdrive.png",
-      "name": "Rook Overdrive"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002633_hr1.tex?format=png",
+      "name": "Tetragrammaton"
     },
     {
-      "icon": "11_MCH/rook_overload.png",
-      "name": "Rook Overload"
-    },
-    {
-      "icon": "11_MCH/scattergun.png",
-      "name": "Scattergun"
-    },
-    {
-      "icon": "11_MCH/slug_shot.png",
-      "name": "Slug Shot"
-    },
-    {
-      "icon": "11_MCH/split_shot.png",
-      "name": "Split Shot"
-    },
-    {
-      "icon": "11_MCH/spread_shot.png",
-      "name": "Spread Shot"
-    },
-    {
-      "icon": "11_MCH/tactician.png",
-      "name": "Tactician"
-    },
-    {
-      "icon": "11_MCH/wildfire.png",
-      "name": "Wildfire"
-    }
-  ],
-  "Dancer": [
-    {
-      "icon": "12_DNC/bladeshower.png",
-      "name": "Bladeshower"
-    },
-    {
-      "icon": "12_DNC/bloodshower.png",
-      "name": "Bloodshower"
-    },
-    {
-      "icon": "12_DNC/cascade.png",
-      "name": "Cascade"
-    },
-    {
-      "icon": "12_DNC/closed_position.png",
-      "name": "Closed Position"
-    },
-    {
-      "icon": "12_DNC/curing_waltz.png",
-      "name": "Curing Waltz"
-    },
-    {
-      "icon": "12_DNC/devilment.png",
-      "name": "Devilment"
-    },
-    {
-      "icon": "12_DNC/emboite.png",
-      "name": "Emboite"
-    },
-    {
-      "icon": "12_DNC/Ending.png",
-      "name": "Ending"
-    },
-    {
-      "icon": "12_DNC/entrechat.png",
-      "name": "Entrechat"
-    },
-    {
-      "icon": "12_DNC/en_avant.png",
-      "name": "En Avant"
-    },
-    {
-      "icon": "12_DNC/fan_dance.png",
-      "name": "Fan Dance"
-    },
-    {
-      "icon": "12_DNC/fan_dance_II.png",
-      "name": "Fan Dance II"
-    },
-    {
-      "icon": "12_DNC/fan_dance_III.png",
-      "name": "Fan Dance III"
-    },
-    {
-      "icon": "12_DNC/fan_dance_IV.png",
-      "name": "Fan Dance IV"
-    },
-    {
-      "icon": "12_DNC/flourish.png",
-      "name": "Flourish"
-    },
-    {
-      "icon": "12_DNC/fountain.png",
-      "name": "Fountain"
-    },
-    {
-      "icon": "12_DNC/fountainfall.png",
-      "name": "Fountainfall"
-    },
-    {
-      "icon": "12_DNC/Improvisation.png",
-      "name": "Improvisation"
-    },
-    {
-      "icon": "12_DNC/improvised_finish.png",
-      "name": "Improvised Finish"
-    },
-    {
-      "icon": "12_DNC/jete.png",
-      "name": "Jete"
-    },
-    {
-      "icon": "12_DNC/pirouette.png",
-      "name": "Pirouette"
-    },
-    {
-      "icon": "12_DNC/reverse_cascade.png",
-      "name": "Reverse Cascade"
-    },
-    {
-      "icon": "12_DNC/rising_windmill.png",
-      "name": "Rising Windmill"
-    },
-    {
-      "icon": "12_DNC/saber_dance.png",
-      "name": "Saber Dance"
-    },
-    {
-      "icon": "12_DNC/shield_samba.png",
-      "name": "Shield Samba"
-    },
-    {
-      "icon": "12_DNC/standard_finish.png",
-      "name": "Standard Finish"
-    },
-    {
-      "icon": "12_DNC/standard_step.png",
-      "name": "Standard Step"
-    },
-    {
-      "icon": "12_DNC/starfall_dance.png",
-      "name": "Starfall Dance"
-    },
-    {
-      "icon": "12_DNC/technical_finish.png",
-      "name": "Technical Finish"
-    },
-    {
-      "icon": "12_DNC/technical_step.png",
-      "name": "Technical Step"
-    },
-    {
-      "icon": "12_DNC/tillana.png",
-      "name": "Tillana"
-    },
-    {
-      "icon": "12_DNC/windmill.png",
-      "name": "Windmill"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002636_hr1.tex?format=png",
+      "name": "Thin Air"
     }
   ],
   "Black Mage": [
     {
-      "icon": "13_BLM/aetherial_manipulation.png",
-      "name": "Aetherial Manipulation"
-    },
-    {
-      "icon": "13_BLM/amplifier.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002671_hr1.tex?format=png",
       "name": "Amplifier"
     },
     {
-      "icon": "13_BLM/between_the_lines.png",
-      "name": "Between The Lines"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002661_hr1.tex?format=png",
+      "name": "Between the Lines"
     },
     {
-      "icon": "13_BLM/blizzard.png",
-      "name": "Blizzard"
-    },
-    {
-      "icon": "13_BLM/blizzard_II.png",
-      "name": "Blizzard II"
-    },
-    {
-      "icon": "13_BLM/blizzard_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000456_hr1.tex?format=png",
       "name": "Blizzard III"
     },
     {
-      "icon": "13_BLM/blizzard_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002659_hr1.tex?format=png",
       "name": "Blizzard IV"
     },
     {
-      "icon": "13_BLM/despair.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002665_hr1.tex?format=png",
       "name": "Despair"
     },
     {
-      "icon": "13_BLM/fire.png",
-      "name": "Fire"
-    },
-    {
-      "icon": "13_BLM/fire_II.png",
-      "name": "Fire II"
-    },
-    {
-      "icon": "13_BLM/fire_III.png",
-      "name": "Fire III"
-    },
-    {
-      "icon": "13_BLM/fire_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002660_hr1.tex?format=png",
       "name": "Fire IV"
     },
     {
-      "icon": "13_BLM/flare.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002652_hr1.tex?format=png",
       "name": "Flare"
     },
     {
-      "icon": "13_BLM/foul.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002151_hr1.tex?format=png",
+      "name": "Flare Star"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002664_hr1.tex?format=png",
       "name": "Foul"
     },
     {
-      "icon": "13_BLM/freeze.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002653_hr1.tex?format=png",
       "name": "Freeze"
     },
     {
-      "icon": "13_BLM/high_blizzard_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002670_hr1.tex?format=png",
       "name": "High Blizzard II"
     },
     {
-      "icon": "13_BLM/high_fire_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002669_hr1.tex?format=png",
       "name": "High Fire II"
     },
     {
-      "icon": "13_BLM/ley_lines.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002673_hr1.tex?format=png",
+      "name": "High Thunder"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002674_hr1.tex?format=png",
+      "name": "High Thunder II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002656_hr1.tex?format=png",
       "name": "Ley Lines"
     },
     {
-      "icon": "13_BLM/manafont.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002651_hr1.tex?format=png",
       "name": "Manafont"
     },
     {
-      "icon": "13_BLM/manaward.png",
-      "name": "Manaward"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002150_hr1.tex?format=png",
+      "name": "Retrace"
     },
     {
-      "icon": "13_BLM/paradox.png",
-      "name": "Paradox"
-    },
-    {
-      "icon": "13_BLM/scathe.png",
-      "name": "Scathe"
-    },
-    {
-      "icon": "13_BLM/sharpcast.png",
-      "name": "Sharpcast"
-    },
-    {
-      "icon": "13_BLM/thunder.png",
-      "name": "Thunder"
-    },
-    {
-      "icon": "13_BLM/thunder_II.png",
-      "name": "Thunder II"
-    },
-    {
-      "icon": "13_BLM/thunder_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000459_hr1.tex?format=png",
       "name": "Thunder III"
     },
     {
-      "icon": "13_BLM/thunder_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002662_hr1.tex?format=png",
       "name": "Thunder IV"
     },
     {
-      "icon": "13_BLM/transpose.png",
-      "name": "Transpose"
-    },
-    {
-      "icon": "13_BLM/triplecast.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002663_hr1.tex?format=png",
       "name": "Triplecast"
     },
     {
-      "icon": "13_BLM/umbral_soul.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002666_hr1.tex?format=png",
       "name": "Umbral Soul"
     },
     {
-      "icon": "13_BLM/xenoglossy.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002667_hr1.tex?format=png",
       "name": "Xenoglossy"
     }
   ],
   "Summoner": [
     {
-      "icon": "14_SMN/aethercharge.png",
-      "name": "Aethercharge"
-    },
-    {
-      "icon": "14_SMN/akh_morn.png",
-      "name": "Akh Morn"
-    },
-    {
-      "icon": "14_SMN/astral_flare.png",
-      "name": "Astral Flare"
-    },
-    {
-      "icon": "14_SMN/astral_flow.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002759_hr1.tex?format=png",
       "name": "Astral Flow"
     },
     {
-      "icon": "14_SMN/astral_impulse.png",
-      "name": "Astral Impulse"
-    },
-    {
-      "icon": "14_SMN/brand_of_purgatory.png",
-      "name": "Brand Of Purgatory"
-    },
-    {
-      "icon": "14_SMN/crimson_cyclone.png",
-      "name": "Crimson Cyclone"
-    },
-    {
-      "icon": "14_SMN/crimson_strike.png",
-      "name": "Crimson Strike"
-    },
-    {
-      "icon": "14_SMN/deathflare.png",
-      "name": "Deathflare"
-    },
-    {
-      "icon": "14_SMN/dreadwyrm_trance.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002684_hr1.tex?format=png",
       "name": "Dreadwyrm Trance"
     },
     {
-      "icon": "14_SMN/emerald_catastrophe.png",
-      "name": "Emerald Catastrophe"
-    },
-    {
-      "icon": "14_SMN/emerald_rite.png",
-      "name": "Emerald Rite"
-    },
-    {
-      "icon": "14_SMN/energy_drain.png",
-      "name": "Energy Drain"
-    },
-    {
-      "icon": "14_SMN/energy_siphon.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002697_hr1.tex?format=png",
       "name": "Energy Siphon"
     },
     {
-      "icon": "14_SMN/enkindle_bahamut.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002693_hr1.tex?format=png",
       "name": "Enkindle Bahamut"
     },
     {
-      "icon": "14_SMN/enkindle_phoenix.png",
-      "name": "Enkindle Phoenix"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002787_hr1.tex?format=png",
+      "name": "Lux Solaris"
     },
     {
-      "icon": "14_SMN/everlasting_flight.png",
-      "name": "Everlasting Flight"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002699_hr1.tex?format=png",
+      "name": "Necrotize"
     },
     {
-      "icon": "14_SMN/fester.png",
-      "name": "Fester"
-    },
-    {
-      "icon": "14_SMN/fountain_of_fire.png",
-      "name": "Fountain Of Fire"
-    },
-    {
-      "icon": "14_SMN/gemshine.png",
-      "name": "Gemshine"
-    },
-    {
-      "icon": "14_SMN/mountain_buster.png",
-      "name": "Mountain Buster"
-    },
-    {
-      "icon": "14_SMN/outburst.png",
-      "name": "Outburst"
-    },
-    {
-      "icon": "14_SMN/painflare.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002681_hr1.tex?format=png",
       "name": "Painflare"
     },
     {
-      "icon": "14_SMN/physick.png",
-      "name": "Physick"
-    },
-    {
-      "icon": "14_SMN/precious_brilliance.png",
-      "name": "Precious Brilliance"
-    },
-    {
-      "icon": "14_SMN/radiant_aegis.png",
-      "name": "Radiant Aegis"
-    },
-    {
-      "icon": "14_SMN/rekindle.png",
-      "name": "Rekindle"
-    },
-    {
-      "icon": "14_SMN/resurrection.png",
-      "name": "Resurrection"
-    },
-    {
-      "icon": "14_SMN/revelation.png",
-      "name": "Revelation"
-    },
-    {
-      "icon": "14_SMN/ruby_catastrophe.png",
-      "name": "Ruby Catastrophe"
-    },
-    {
-      "icon": "14_SMN/ruby_rite.png",
-      "name": "Ruby Rite"
-    },
-    {
-      "icon": "14_SMN/ruin.png",
-      "name": "Ruin"
-    },
-    {
-      "icon": "14_SMN/ruin_II.png",
-      "name": "Ruin II"
-    },
-    {
-      "icon": "14_SMN/ruin_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002682_hr1.tex?format=png",
       "name": "Ruin III"
     },
     {
-      "icon": "14_SMN/ruin_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002686_hr1.tex?format=png",
       "name": "Ruin IV"
     },
     {
-      "icon": "14_SMN/scarlet_flame.png",
-      "name": "Scarlet Flame"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002781_hr1.tex?format=png",
+      "name": "Searing Flash"
     },
     {
-      "icon": "14_SMN/searing_light.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002780_hr1.tex?format=png",
       "name": "Searing Light"
     },
     {
-      "icon": "14_SMN/slipstream.png",
-      "name": "Slipstream"
-    },
-    {
-      "icon": "14_SMN/summon_bahamut.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002691_hr1.tex?format=png",
       "name": "Summon Bahamut"
     },
     {
-      "icon": "14_SMN/summon_carbuncle.png",
-      "name": "Summon Carbuncle"
-    },
-    {
-      "icon": "14_SMN/summon_emerald.png",
-      "name": "Summon Emerald"
-    },
-    {
-      "icon": "14_SMN/summon_garuda.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002756_hr1.tex?format=png",
       "name": "Summon Garuda"
     },
     {
-      "icon": "14_SMN/summon_garuda_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002774_hr1.tex?format=png",
       "name": "Summon Garuda II"
     },
     {
-      "icon": "14_SMN/summon_ifrit.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002680_hr1.tex?format=png",
       "name": "Summon Ifrit"
     },
     {
-      "icon": "14_SMN/summon_ifrit_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002772_hr1.tex?format=png",
       "name": "Summon Ifrit II"
     },
     {
-      "icon": "14_SMN/summon_phoenix.png",
-      "name": "Summon Phoenix"
-    },
-    {
-      "icon": "14_SMN/summon_ruby.png",
-      "name": "Summon Ruby"
-    },
-    {
-      "icon": "14_SMN/summon_titan.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002755_hr1.tex?format=png",
       "name": "Summon Titan"
     },
     {
-      "icon": "14_SMN/summon_titan_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002773_hr1.tex?format=png",
       "name": "Summon Titan II"
     },
     {
-      "icon": "14_SMN/summon_topaz.png",
-      "name": "Summon Topaz"
-    },
-    {
-      "icon": "14_SMN/topaz_catastrophe.png",
-      "name": "Topaz Catastrophe"
-    },
-    {
-      "icon": "14_SMN/topaz_rite.png",
-      "name": "Topaz Rite"
-    },
-    {
-      "icon": "14_SMN/tri-disaster.png",
-      "name": "Tri-Disaster"
-    },
-    {
-      "icon": "14_SMN/wyrmwave.png",
-      "name": "Wyrmwave"
-    }
-  ],
-  "Red Mage": [
-    {
-      "icon": "15_RDM/acceleration.png",
-      "name": "Acceleration"
-    },
-    {
-      "icon": "15_RDM/contre_sixte.png",
-      "name": "Contre Sixte"
-    },
-    {
-      "icon": "15_RDM/corps-a-corps.png",
-      "name": "Corps-A-Corps"
-    },
-    {
-      "icon": "15_RDM/displacement.png",
-      "name": "Displacement"
-    },
-    {
-      "icon": "15_RDM/embolden.png",
-      "name": "Embolden"
-    },
-    {
-      "icon": "15_RDM/enchanted_moulinet.png",
-      "name": "Enchanted Moulinet"
-    },
-    {
-      "icon": "15_RDM/enchanted_redoublement.png",
-      "name": "Enchanted Redoublement"
-    },
-    {
-      "icon": "15_RDM/enchanted_reprise.png",
-      "name": "Enchanted Reprise"
-    },
-    {
-      "icon": "15_RDM/enchanted_riposte.png",
-      "name": "Enchanted Riposte"
-    },
-    {
-      "icon": "15_RDM/enchanted_zwerchhau.png",
-      "name": "Enchanted Zwerchhau"
-    },
-    {
-      "icon": "15_RDM/engagement.png",
-      "name": "Engagement"
-    },
-    {
-      "icon": "15_RDM/fleche.png",
-      "name": "Fleche"
-    },
-    {
-      "icon": "15_RDM/impact.png",
-      "name": "Impact"
-    },
-    {
-      "icon": "15_RDM/jolt.png",
-      "name": "Jolt"
-    },
-    {
-      "icon": "15_RDM/jolt_II.png",
-      "name": "Jolt II"
-    },
-    {
-      "icon": "15_RDM/magick_barrier.png",
-      "name": "Magick Barrier"
-    },
-    {
-      "icon": "15_RDM/manafication.png",
-      "name": "Manafication"
-    },
-    {
-      "icon": "15_RDM/moulinet.png",
-      "name": "Moulinet"
-    },
-    {
-      "icon": "15_RDM/redoublement.png",
-      "name": "Redoublement"
-    },
-    {
-      "icon": "15_RDM/reprise.png",
-      "name": "Reprise"
-    },
-    {
-      "icon": "15_RDM/resolution.png",
-      "name": "Resolution"
-    },
-    {
-      "icon": "15_RDM/riposte.png",
-      "name": "Riposte"
-    },
-    {
-      "icon": "15_RDM/scatter.png",
-      "name": "Scatter"
-    },
-    {
-      "icon": "15_RDM/scorch.png",
-      "name": "Scorch"
-    },
-    {
-      "icon": "15_RDM/veraero.png",
-      "name": "Veraero"
-    },
-    {
-      "icon": "15_RDM/veraero_II.png",
-      "name": "Veraero II"
-    },
-    {
-      "icon": "15_RDM/veraero_III.png",
-      "name": "Veraero III"
-    },
-    {
-      "icon": "15_RDM/vercure.png",
-      "name": "Vercure"
-    },
-    {
-      "icon": "15_RDM/verfire.png",
-      "name": "Verfire"
-    },
-    {
-      "icon": "15_RDM/verflare.png",
-      "name": "Verflare"
-    },
-    {
-      "icon": "15_RDM/verholy.png",
-      "name": "Verholy"
-    },
-    {
-      "icon": "15_RDM/verraise.png",
-      "name": "Verraise"
-    },
-    {
-      "icon": "15_RDM/verstone.png",
-      "name": "Verstone"
-    },
-    {
-      "icon": "15_RDM/verthunder.png",
-      "name": "Verthunder"
-    },
-    {
-      "icon": "15_RDM/verthunder_II.png",
-      "name": "Verthunder II"
-    },
-    {
-      "icon": "15_RDM/verthunder_III.png",
-      "name": "Verthunder III"
-    },
-    {
-      "icon": "15_RDM/zwerchhau.png",
-      "name": "Zwerchhau"
-    }
-  ],
-  "White Mage": [
-    {
-      "icon": "16_WHM/aero.png",
-      "name": "Aero"
-    },
-    {
-      "icon": "16_WHM/aero_II.png",
-      "name": "Aero II"
-    },
-    {
-      "icon": "16_WHM/afflatus_misery.png",
-      "name": "Afflatus Misery"
-    },
-    {
-      "icon": "16_WHM/afflatus_rapture.png",
-      "name": "Afflatus Rapture"
-    },
-    {
-      "icon": "16_WHM/afflatus_solace.png",
-      "name": "Afflatus Solace"
-    },
-    {
-      "icon": "16_WHM/aquaveil.png",
-      "name": "Aquaveil"
-    },
-    {
-      "icon": "16_WHM/assize.png",
-      "name": "Assize"
-    },
-    {
-      "icon": "16_WHM/asylum.png",
-      "name": "Asylum"
-    },
-    {
-      "icon": "16_WHM/benediction.png",
-      "name": "Benediction"
-    },
-    {
-      "icon": "16_WHM/cure.png",
-      "name": "Cure"
-    },
-    {
-      "icon": "16_WHM/cure_II.png",
-      "name": "Cure II"
-    },
-    {
-      "icon": "16_WHM/cure_III.png",
-      "name": "Cure III"
-    },
-    {
-      "icon": "16_WHM/dia.png",
-      "name": "Dia"
-    },
-    {
-      "icon": "16_WHM/divine_benison.png",
-      "name": "Divine Benison"
-    },
-    {
-      "icon": "16_WHM/glare.png",
-      "name": "Glare"
-    },
-    {
-      "icon": "16_WHM/glare_III.png",
-      "name": "Glare III"
-    },
-    {
-      "icon": "16_WHM/holy.png",
-      "name": "Holy"
-    },
-    {
-      "icon": "16_WHM/holy_III.png",
-      "name": "Holy III"
-    },
-    {
-      "icon": "16_WHM/liturgy_of_the_bell.png",
-      "name": "Liturgy Of The Bell"
-    },
-    {
-      "icon": "16_WHM/medica.png",
-      "name": "Medica"
-    },
-    {
-      "icon": "16_WHM/medica_II.png",
-      "name": "Medica II"
-    },
-    {
-      "icon": "16_WHM/plenary_indulgence.png",
-      "name": "Plenary Indulgence"
-    },
-    {
-      "icon": "16_WHM/presence_of_mind.png",
-      "name": "Presence Of Mind"
-    },
-    {
-      "icon": "16_WHM/raise.png",
-      "name": "Raise"
-    },
-    {
-      "icon": "16_WHM/regen.png",
-      "name": "Regen"
-    },
-    {
-      "icon": "16_WHM/stone.png",
-      "name": "Stone"
-    },
-    {
-      "icon": "16_WHM/stone_II.png",
-      "name": "Stone II"
-    },
-    {
-      "icon": "16_WHM/stone_III.png",
-      "name": "Stone III"
-    },
-    {
-      "icon": "16_WHM/stone_IV.png",
-      "name": "Stone IV"
-    },
-    {
-      "icon": "16_WHM/temperance.png",
-      "name": "Temperance"
-    },
-    {
-      "icon": "16_WHM/tetragrammaton.png",
-      "name": "Tetragrammaton"
-    },
-    {
-      "icon": "16_WHM/thin_air.png",
-      "name": "Thin Air"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002763_hr1.tex?format=png",
+      "name": "Tri-disaster"
     }
   ],
   "Scholar": [
     {
-      "icon": "17_SCH/adloquium.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002801_hr1.tex?format=png",
       "name": "Adloquium"
     },
     {
-      "icon": "17_SCH/aetherflow.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000510_hr1.tex?format=png",
       "name": "Aetherflow"
     },
     {
-      "icon": "17_SCH/aetherpact.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002816_hr1.tex?format=png",
       "name": "Aetherpact"
     },
     {
-      "icon": "17_SCH/art_of_war.png",
-      "name": "Art Of War"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002819_hr1.tex?format=png",
+      "name": "Art of War"
     },
     {
-      "icon": "17_SCH/art_of_war_II.png",
-      "name": "Art Of War II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002876_hr1.tex?format=png",
+      "name": "Art of War II"
     },
     {
-      "icon": "17_SCH/bio.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002879_hr1.tex?format=png",
+      "name": "Baneful Impaction"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000503_hr1.tex?format=png",
       "name": "Bio"
     },
     {
-      "icon": "17_SCH/biolysis.png",
-      "name": "Biolysis"
-    },
-    {
-      "icon": "17_SCH/bio_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000504_hr1.tex?format=png",
       "name": "Bio II"
     },
     {
-      "icon": "17_SCH/broil.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002820_hr1.tex?format=png",
+      "name": "Biolysis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002807_hr1.tex?format=png",
       "name": "Broil"
     },
     {
-      "icon": "17_SCH/broil_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002814_hr1.tex?format=png",
       "name": "Broil II"
     },
     {
-      "icon": "17_SCH/broil_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002821_hr1.tex?format=png",
       "name": "Broil III"
     },
     {
-      "icon": "17_SCH/broil_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002875_hr1.tex?format=png",
       "name": "Broil IV"
     },
     {
-      "icon": "17_SCH/chain_stratagem.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002815_hr1.tex?format=png",
       "name": "Chain Stratagem"
     },
     {
-      "icon": "17_SCH/consolation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002880_hr1.tex?format=png",
+      "name": "Concitation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002851_hr1.tex?format=png",
       "name": "Consolation"
     },
     {
-      "icon": "17_SCH/deployment_tactics.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002808_hr1.tex?format=png",
       "name": "Deployment Tactics"
     },
     {
-      "icon": "17_SCH/dissipation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002810_hr1.tex?format=png",
       "name": "Dissipation"
     },
     {
-      "icon": "17_SCH/dissolve_union.png",
-      "name": "Dissolve Union"
-    },
-    {
-      "icon": "17_SCH/emergency_tactics.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002809_hr1.tex?format=png",
       "name": "Emergency Tactics"
     },
     {
-      "icon": "17_SCH/energy_drain.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000514_hr1.tex?format=png",
       "name": "Energy Drain"
     },
     {
-      "icon": "17_SCH/excogitation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002813_hr1.tex?format=png",
       "name": "Excogitation"
     },
     {
-      "icon": "17_SCH/expedient.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002878_hr1.tex?format=png",
       "name": "Expedient"
     },
     {
-      "icon": "17_SCH/fey_blessing.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002854_hr1.tex?format=png",
       "name": "Fey Blessing"
     },
     {
-      "icon": "17_SCH/fey_illumination.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002853_hr1.tex?format=png",
       "name": "Fey Illumination"
     },
     {
-      "icon": "17_SCH/indomitability.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002806_hr1.tex?format=png",
       "name": "Indomitability"
     },
     {
-      "icon": "17_SCH/lustrate.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002805_hr1.tex?format=png",
       "name": "Lustrate"
     },
     {
-      "icon": "17_SCH/physick.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000518_hr1.tex?format=png",
       "name": "Physick"
     },
     {
-      "icon": "17_SCH/protraction.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002877_hr1.tex?format=png",
       "name": "Protraction"
     },
     {
-      "icon": "17_SCH/recitation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002822_hr1.tex?format=png",
       "name": "Recitation"
     },
     {
-      "icon": "17_SCH/resurrection.png",
-      "name": "Resurrection"
-    },
-    {
-      "icon": "17_SCH/ruin.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000501_hr1.tex?format=png",
       "name": "Ruin"
     },
     {
-      "icon": "17_SCH/ruin_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000502_hr1.tex?format=png",
       "name": "Ruin II"
     },
     {
-      "icon": "17_SCH/sacred_soil.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002804_hr1.tex?format=png",
       "name": "Sacred Soil"
     },
     {
-      "icon": "17_SCH/succor.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002881_hr1.tex?format=png",
+      "name": "Seraphism"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002802_hr1.tex?format=png",
       "name": "Succor"
     },
     {
-      "icon": "17_SCH/summon_eos.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002823_hr1.tex?format=png",
       "name": "Summon Eos"
     },
     {
-      "icon": "17_SCH/summon_selene.png",
-      "name": "Summon Selene"
-    },
-    {
-      "icon": "17_SCH/summon_seraph.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002850_hr1.tex?format=png",
       "name": "Summon Seraph"
     },
     {
-      "icon": "17_SCH/whispering_dawn.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002852_hr1.tex?format=png",
       "name": "Whispering Dawn"
+    }
+  ],
+  "Ninja": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002915_hr1.tex?format=png",
+      "name": "Armor Crush"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000612_hr1.tex?format=png",
+      "name": "Assassinate"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002921_hr1.tex?format=png",
+      "name": "Bhavacakra"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002927_hr1.tex?format=png",
+      "name": "Bunshin"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002902_hr1.tex?format=png",
+      "name": "Chi"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000619_hr1.tex?format=png",
+      "name": "Dokumori"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002918_hr1.tex?format=png",
+      "name": "Dream Within a Dream"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002932_hr1.tex?format=png",
+      "name": "Fleeting Raiju"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002931_hr1.tex?format=png",
+      "name": "Forked Raiju"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002923_hr1.tex?format=png",
+      "name": "Hakke Mujinsatsu"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002920_hr1.tex?format=png",
+      "name": "Hellfrog Medium"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002903_hr1.tex?format=png",
+      "name": "Jin"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002906_hr1.tex?format=png",
+      "name": "Kassatsu"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/000000/000620_hr1.tex?format=png",
+      "name": "Kunai's Bane"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002924_hr1.tex?format=png",
+      "name": "Meisui"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002904_hr1.tex?format=png",
+      "name": "Ninjutsu"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002929_hr1.tex?format=png",
+      "name": "Phantom Kamaitachi"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002905_hr1.tex?format=png",
+      "name": "Shukuchi"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002901_hr1.tex?format=png",
+      "name": "Ten"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/002000/002922_hr1.tex?format=png",
+      "name": "Ten Chi Jin"
+    }
+  ],
+  "Machinist": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003045_hr1.tex?format=png",
+      "name": "Air Anchor"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003042_hr1.tex?format=png",
+      "name": "Auto Crossbow"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003501_hr1.tex?format=png",
+      "name": "Automaton Queen"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003034_hr1.tex?format=png",
+      "name": "Barrel Stabilizer"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003044_hr1.tex?format=png",
+      "name": "Bioblaster"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png",
+      "name": "Blazing Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003048_hr1.tex?format=png",
+      "name": "Chain Saw"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003508_hr1.tex?format=png",
+      "name": "Checkmate"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003004_hr1.tex?format=png",
+      "name": "Clean Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003011_hr1.tex?format=png",
+      "name": "Dismantle"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003507_hr1.tex?format=png",
+      "name": "Double Check"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003043_hr1.tex?format=png",
+      "name": "Drill"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003038_hr1.tex?format=png",
+      "name": "Flamethrower"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003049_hr1.tex?format=png",
+      "name": "Full Metal Field"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003005_hr1.tex?format=png",
+      "name": "Gauss Round"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003030_hr1.tex?format=png",
+      "name": "Heat Blast"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003033_hr1.tex?format=png",
+      "name": "Heated Clean Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003032_hr1.tex?format=png",
+      "name": "Heated Slug Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003031_hr1.tex?format=png",
+      "name": "Heated Split Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003003_hr1.tex?format=png",
+      "name": "Hot Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003041_hr1.tex?format=png",
+      "name": "Hypercharge"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003502_hr1.tex?format=png",
+      "name": "Queen Overdrive"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003022_hr1.tex?format=png",
+      "name": "Reassemble"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003017_hr1.tex?format=png",
+      "name": "Ricochet"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003026_hr1.tex?format=png",
+      "name": "Rook Autoturret"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003035_hr1.tex?format=png",
+      "name": "Rook Overdrive"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003046_hr1.tex?format=png",
+      "name": "Scattergun"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003002_hr1.tex?format=png",
+      "name": "Slug Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003001_hr1.tex?format=png",
+      "name": "Split Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003014_hr1.tex?format=png",
+      "name": "Spread Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003040_hr1.tex?format=png",
+      "name": "Tactician"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003018_hr1.tex?format=png",
+      "name": "Wildfire"
+    }
+  ],
+  "Dark Knight": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003064_hr1.tex?format=png",
+      "name": "Abyssal Drain"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003071_hr1.tex?format=png",
+      "name": "Blood Weapon"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003080_hr1.tex?format=png",
+      "name": "Bloodspiller"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003058_hr1.tex?format=png",
+      "name": "Carve and Spit"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003076_hr1.tex?format=png",
+      "name": "Dark Mind"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003087_hr1.tex?format=png",
+      "name": "Dark Missionary"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003078_hr1.tex?format=png",
+      "name": "Delirium"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png",
+      "name": "Disesteem"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003083_hr1.tex?format=png",
+      "name": "Edge of Darkness"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003086_hr1.tex?format=png",
+      "name": "Edge of Shadow"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003082_hr1.tex?format=png",
+      "name": "Flood of Darkness"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003085_hr1.tex?format=png",
+      "name": "Flood of Shadow"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003070_hr1.tex?format=png",
+      "name": "Grit"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003051_hr1.tex?format=png",
+      "name": "Hard Slash"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003077_hr1.tex?format=png",
+      "name": "Living Dead"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003088_hr1.tex?format=png",
+      "name": "Living Shadow"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003089_hr1.tex?format=png",
+      "name": "Oblation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003079_hr1.tex?format=png",
+      "name": "Quietus"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003090_hr1.tex?format=png",
+      "name": "Salt and Darkness"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003066_hr1.tex?format=png",
+      "name": "Salted Earth"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003075_hr1.tex?format=png",
+      "name": "Shadow Wall"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003091_hr1.tex?format=png",
+      "name": "Shadowbringer"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png",
+      "name": "Shadowed Vigil"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png",
+      "name": "Shadowstride"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003055_hr1.tex?format=png",
+      "name": "Souleater"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003084_hr1.tex?format=png",
+      "name": "Stalwart Soul"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003054_hr1.tex?format=png",
+      "name": "Syphon Strike"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003081_hr1.tex?format=png",
+      "name": "The Blackest Night"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003063_hr1.tex?format=png",
+      "name": "Unleash"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003062_hr1.tex?format=png",
+      "name": "Unmend"
     }
   ],
   "Astrologian": [
     {
-      "icon": "18_AST/003110.png",
-      "name": "The Balance"
-    },
-    {
-      "icon": "18_AST/003111.png",
-      "name": "The Bole"
-    },
-    {
-      "icon": "18_AST/003112.png",
-      "name": "The Arrow"
-    },
-    {
-      "icon": "18_AST/003113.png",
-      "name": "The Spear"
-    },
-    {
-      "icon": "18_AST/003114.png",
-      "name": "The Ewer"
-    },
-    {
-      "icon": "18_AST/003115.png",
-      "name": "The Spire"
-    },
-    {
-      "icon": "18_AST/003146.png",
-      "name": "Lord of Crowns"
-    },
-    {
-      "icon": "18_AST/003147.png",
-      "name": "Lady of Crowns"
-    },
-    {
-      "icon": "18_AST/ascend.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003132_hr1.tex?format=png",
       "name": "Ascend"
     },
     {
-      "icon": "18_AST/aspected_benefic.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003127_hr1.tex?format=png",
       "name": "Aspected Benefic"
     },
     {
-      "icon": "18_AST/aspected_helios.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003130_hr1.tex?format=png",
       "name": "Aspected Helios"
     },
     {
-      "icon": "18_AST/astrodyne.png",
-      "name": "Astrodyne"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003564_hr1.tex?format=png",
+      "name": "Astral Draw"
     },
     {
-      "icon": "18_AST/benefic.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003126_hr1.tex?format=png",
       "name": "Benefic"
     },
     {
-      "icon": "18_AST/benefic_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003128_hr1.tex?format=png",
       "name": "Benefic II"
     },
     {
-      "icon": "18_AST/celestial_intersection.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003556_hr1.tex?format=png",
       "name": "Celestial Intersection"
     },
     {
-      "icon": "18_AST/celestial_opposition.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003142_hr1.tex?format=png",
       "name": "Celestial Opposition"
     },
     {
-      "icon": "18_AST/collective_unconscious.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003140_hr1.tex?format=png",
       "name": "Collective Unconscious"
     },
     {
-      "icon": "18_AST/combust.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003124_hr1.tex?format=png",
       "name": "Combust"
     },
     {
-      "icon": "18_AST/combust_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003125_hr1.tex?format=png",
       "name": "Combust II"
     },
     {
-      "icon": "18_AST/combust_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003554_hr1.tex?format=png",
       "name": "Combust III"
     },
     {
-      "icon": "18_AST/crown_play.png",
-      "name": "Crown Play"
-    },
-    {
-      "icon": "18_AST/divination.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003553_hr1.tex?format=png",
       "name": "Divination"
     },
     {
-      "icon": "18_AST/draw.png",
-      "name": "Draw"
-    },
-    {
-      "icon": "18_AST/earthly_star.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003143_hr1.tex?format=png",
       "name": "Earthly Star"
     },
     {
-      "icon": "18_AST/essential_dignity.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003141_hr1.tex?format=png",
       "name": "Essential Dignity"
     },
     {
-      "icon": "18_AST/exaltation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003561_hr1.tex?format=png",
       "name": "Exaltation"
     },
     {
-      "icon": "18_AST/fall_malefic.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003559_hr1.tex?format=png",
       "name": "Fall Malefic"
     },
     {
-      "icon": "18_AST/gravity.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003123_hr1.tex?format=png",
       "name": "Gravity"
     },
     {
-      "icon": "18_AST/gravity_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003560_hr1.tex?format=png",
       "name": "Gravity II"
     },
     {
-      "icon": "18_AST/helios.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003129_hr1.tex?format=png",
       "name": "Helios"
     },
     {
-      "icon": "18_AST/horoscope_1.png",
-      "name": "Horoscope (Start)"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003567_hr1.tex?format=png",
+      "name": "Helios Conjunction"
     },
     {
-      "icon": "18_AST/horoscope_2.png",
-      "name": "Horoscope (End)"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003550_hr1.tex?format=png",
+      "name": "Horoscope"
     },
     {
-      "icon": "18_AST/lightspeed.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003135_hr1.tex?format=png",
       "name": "Lightspeed"
     },
     {
-      "icon": "18_AST/macrocosmos_01.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003562_hr1.tex?format=png",
       "name": "Macrocosmos"
     },
     {
-      "icon": "18_AST/malefic.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003120_hr1.tex?format=png",
       "name": "Malefic"
     },
     {
-      "icon": "18_AST/malefic_II.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003122_hr1.tex?format=png",
       "name": "Malefic II"
     },
     {
-      "icon": "18_AST/malefic_III.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003145_hr1.tex?format=png",
       "name": "Malefic III"
     },
     {
-      "icon": "18_AST/malefic_IV.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003555_hr1.tex?format=png",
       "name": "Malefic IV"
     },
     {
-      "icon": "18_AST/microcosmos_02.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003563_hr1.tex?format=png",
       "name": "Microcosmos"
     },
     {
-      "icon": "18_AST/minor_arcana.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003119_hr1.tex?format=png",
       "name": "Minor Arcana"
     },
     {
-      "icon": "18_AST/neutral_sect.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003552_hr1.tex?format=png",
       "name": "Neutral Sect"
     },
     {
-      "icon": "18_AST/play.png",
-      "name": "Play"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003566_hr1.tex?format=png",
+      "name": "Oracle"
     },
     {
-      "icon": "18_AST/redraw.png",
-      "name": "Redraw"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003116_hr1.tex?format=png",
+      "name": "Play I"
     },
     {
-      "icon": "18_AST/stellar_detonation.png",
-      "name": "Stellar Detonation"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003117_hr1.tex?format=png",
+      "name": "Play II"
     },
     {
-      "icon": "18_AST/synastry.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003118_hr1.tex?format=png",
+      "name": "Play III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003109_hr1.tex?format=png",
+      "name": "Sun Sign"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003139_hr1.tex?format=png",
       "name": "Synastry"
-    },
-    {
-      "icon": "18_AST/undraw.png",
-      "name": "Undraw"
     }
   ],
-  "Sage": [
+  "Samurai": [
     {
-      "icon": "19_SGE/diagnosis.png",
-      "name": "Diagnosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003155_hr1.tex?format=png",
+      "name": "Enpi"
     },
     {
-      "icon": "19_SGE/dosis.png",
-      "name": "Dosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003157_hr1.tex?format=png",
+      "name": "Fuga"
     },
     {
-      "icon": "19_SGE/dosis_II.png",
-      "name": "Dosis II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003189_hr1.tex?format=png",
+      "name": "Fuko"
     },
     {
-      "icon": "19_SGE/dosis_III.png",
-      "name": "Dosis III"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003158_hr1.tex?format=png",
+      "name": "Gekko"
     },
     {
-      "icon": "19_SGE/druochole.png",
-      "name": "Druochole"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003191_hr1.tex?format=png",
+      "name": "Gyofu"
     },
     {
-      "icon": "19_SGE/dyskrasia.png",
-      "name": "Dyskrasia"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003176_hr1.tex?format=png",
+      "name": "Hagakure"
     },
     {
-      "icon": "19_SGE/dyskrasia_II.png",
-      "name": "Dyskrasia II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003151_hr1.tex?format=png",
+      "name": "Hakaze"
     },
     {
-      "icon": "19_SGE/egeiro.png",
-      "name": "Egeiro"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003177_hr1.tex?format=png",
+      "name": "Hissatsu: Guren"
     },
     {
-      "icon": "19_SGE/eukrasia.png",
-      "name": "Eukrasia"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003169_hr1.tex?format=png",
+      "name": "Hissatsu: Gyoten"
     },
     {
-      "icon": "19_SGE/eukrasian_diagnosis.png",
-      "name": "Eukrasian Diagnosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003174_hr1.tex?format=png",
+      "name": "Hissatsu: Kyuten"
     },
     {
-      "icon": "19_SGE/eukrasian_dosis.png",
-      "name": "Eukrasian Dosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003178_hr1.tex?format=png",
+      "name": "Hissatsu: Senei"
     },
     {
-      "icon": "19_SGE/eukrasian_dosis_II.png",
-      "name": "Eukrasian Dosis II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003173_hr1.tex?format=png",
+      "name": "Hissatsu: Shinten"
     },
     {
-      "icon": "19_SGE/eukrasian_dosis_III.png",
-      "name": "Eukrasian Dosis III"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003170_hr1.tex?format=png",
+      "name": "Hissatsu: Yaten"
     },
     {
-      "icon": "19_SGE/eukrasian_prognosis.png",
-      "name": "Eukrasian Prognosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003159_hr1.tex?format=png",
+      "name": "Iaijutsu"
     },
     {
-      "icon": "19_SGE/haima.png",
-      "name": "Haima"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003179_hr1.tex?format=png",
+      "name": "Ikishoten"
     },
     {
-      "icon": "19_SGE/holos.png",
-      "name": "Holos"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003152_hr1.tex?format=png",
+      "name": "Jinpu"
     },
     {
-      "icon": "19_SGE/icarus.png",
-      "name": "Icarus"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003164_hr1.tex?format=png",
+      "name": "Kasha"
     },
     {
-      "icon": "19_SGE/ixochole.png",
-      "name": "Ixochole"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003163_hr1.tex?format=png",
+      "name": "Mangetsu"
     },
     {
-      "icon": "19_SGE/kardia.png",
-      "name": "Kardia"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003172_hr1.tex?format=png",
+      "name": "Meditate"
     },
     {
-      "icon": "19_SGE/kerachole.png",
-      "name": "Kerachole"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003167_hr1.tex?format=png",
+      "name": "Meikyo Shisui"
     },
     {
-      "icon": "19_SGE/krasis.png",
-      "name": "Krasis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003187_hr1.tex?format=png",
+      "name": "Ogi Namikiri"
     },
     {
-      "icon": "19_SGE/panhaima.png",
-      "name": "Panhaima"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003165_hr1.tex?format=png",
+      "name": "Oka"
     },
     {
-      "icon": "19_SGE/pepsis.png",
-      "name": "Pepsis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003156_hr1.tex?format=png",
+      "name": "Shifu"
     },
     {
-      "icon": "19_SGE/phlegma.png",
-      "name": "Phlegma"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png",
+      "name": "Shoha"
     },
     {
-      "icon": "19_SGE/phlegma_II.png",
-      "name": "Phlegma II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003190_hr1.tex?format=png",
+      "name": "Tengentsu"
     },
     {
-      "icon": "19_SGE/phlegma_III.png",
-      "name": "Phlegma III"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003153_hr1.tex?format=png",
+      "name": "Third Eye"
     },
     {
-      "icon": "19_SGE/physis.png",
-      "name": "Physis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003180_hr1.tex?format=png",
+      "name": "Tsubame-gaeshi"
     },
     {
-      "icon": "19_SGE/physis_II.png",
-      "name": "Physis II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003166_hr1.tex?format=png",
+      "name": "Yukikaze"
     },
     {
-      "icon": "19_SGE/pneuma.png",
-      "name": "Pneuma"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png",
+      "name": "Zanshin"
+    }
+  ],
+  "Red Mage": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003214_hr1.tex?format=png",
+      "name": "Acceleration"
     },
     {
-      "icon": "19_SGE/prognosis.png",
-      "name": "Prognosis"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003217_hr1.tex?format=png",
+      "name": "Contre Sixte"
     },
     {
-      "icon": "19_SGE/rhizomata.png",
-      "name": "Rhizomata"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003204_hr1.tex?format=png",
+      "name": "Corps-a-corps"
     },
     {
-      "icon": "19_SGE/soteria.png",
-      "name": "Soteria"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003211_hr1.tex?format=png",
+      "name": "Displacement"
     },
     {
-      "icon": "19_SGE/taurochole.png",
-      "name": "Taurochole"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003218_hr1.tex?format=png",
+      "name": "Embolden"
     },
     {
-      "icon": "19_SGE/toxikon.png",
-      "name": "Toxikon"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003231_hr1.tex?format=png",
+      "name": "Engagement"
     },
     {
-      "icon": "19_SGE/toxikon_II.png",
-      "name": "Toxikon II"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003212_hr1.tex?format=png",
+      "name": "Fleche"
     },
     {
-      "icon": "19_SGE/zoe.png",
-      "name": "Zoe"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003222_hr1.tex?format=png",
+      "name": "Impact"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003202_hr1.tex?format=png",
+      "name": "Jolt"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003220_hr1.tex?format=png",
+      "name": "Jolt II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003241_hr1.tex?format=png",
+      "name": "Jolt III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003237_hr1.tex?format=png",
+      "name": "Magick Barrier"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003219_hr1.tex?format=png",
+      "name": "Manafication"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003215_hr1.tex?format=png",
+      "name": "Moulinet"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003213_hr1.tex?format=png",
+      "name": "Redoublement"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003233_hr1.tex?format=png",
+      "name": "Reprise"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003201_hr1.tex?format=png",
+      "name": "Riposte"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003207_hr1.tex?format=png",
+      "name": "Scatter"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003205_hr1.tex?format=png",
+      "name": "Veraero"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003230_hr1.tex?format=png",
+      "name": "Veraero II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003236_hr1.tex?format=png",
+      "name": "Veraero III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003216_hr1.tex?format=png",
+      "name": "Vercure"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003208_hr1.tex?format=png",
+      "name": "Verfire"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003221_hr1.tex?format=png",
+      "name": "Verraise"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003209_hr1.tex?format=png",
+      "name": "Verstone"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003203_hr1.tex?format=png",
+      "name": "Verthunder"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003229_hr1.tex?format=png",
+      "name": "Verthunder II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003235_hr1.tex?format=png",
+      "name": "Verthunder III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003242_hr1.tex?format=png",
+      "name": "Vice of Thorns"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003210_hr1.tex?format=png",
+      "name": "Zwerchhau"
     }
   ],
   "Blue Mage": [
     {
-      "icon": "20_BLU/1000_Needles.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003265_hr1.tex?format=png",
       "name": "1000 Needles"
     },
     {
-      "icon": "20_BLU/4-tonze_weight.png",
-      "name": "4-Tonze Weight"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003252_hr1.tex?format=png",
+      "name": "4-tonze Weight"
     },
     {
-      "icon": "20_BLU/abyssal_transfixion.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003305_hr1.tex?format=png",
       "name": "Abyssal Transfixion"
     },
     {
-      "icon": "20_BLU/acorn_bomb.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003260_hr1.tex?format=png",
       "name": "Acorn Bomb"
     },
     {
-      "icon": "20_BLU/aetherial_mimicry.png",
-      "name": "Aetherial Mimicry"
-    },
-    {
-      "icon": "20_BLU/aetherial_spark.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003348_hr1.tex?format=png",
       "name": "Aetherial Spark"
     },
     {
-      "icon": "20_BLU/alpine_draft.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003327_hr1.tex?format=png",
+      "name": "Aetheric Mimicry"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003300_hr1.tex?format=png",
       "name": "Alpine Draft"
     },
     {
-      "icon": "20_BLU/angel's_snack.png",
-      "name": "Angel'S Snack"
-    },
-    {
-      "icon": "20_BLU/angel_whisper.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003322_hr1.tex?format=png",
       "name": "Angel Whisper"
     },
     {
-      "icon": "20_BLU/aqua_breath.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003339_hr1.tex?format=png",
+      "name": "Angel's Snack"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003376_hr1.tex?format=png",
+      "name": "Apokalypsis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003258_hr1.tex?format=png",
       "name": "Aqua Breath"
     },
     {
-      "icon": "20_BLU/avail.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003311_hr1.tex?format=png",
       "name": "Avail"
     },
     {
-      "icon": "20_BLU/bad_breath.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003256_hr1.tex?format=png",
       "name": "Bad Breath"
     },
     {
-      "icon": "20_BLU/basic_instinct.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003343_hr1.tex?format=png",
       "name": "Basic Instinct"
     },
     {
-      "icon": "20_BLU/black_knight's_tour.png",
-      "name": "Black Knight'S Tour"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003377_hr1.tex?format=png",
+      "name": "Being Mortal"
     },
     {
-      "icon": "20_BLU/blaze.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003316_hr1.tex?format=png",
+      "name": "Black Knight's Tour"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003345_hr1.tex?format=png",
       "name": "Blaze"
     },
     {
-      "icon": "20_BLU/blood_drain.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003263_hr1.tex?format=png",
       "name": "Blood Drain"
     },
     {
-      "icon": "20_BLU/bomb_toss.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003264_hr1.tex?format=png",
       "name": "Bomb Toss"
     },
     {
-      "icon": "20_BLU/both_ends.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003354_hr1.tex?format=png",
       "name": "Both Ends"
     },
     {
-      "icon": "20_BLU/bristle.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003362_hr1.tex?format=png",
+      "name": "Breath of Magic"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003261_hr1.tex?format=png",
       "name": "Bristle"
     },
     {
-      "icon": "20_BLU/cactguard.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003320_hr1.tex?format=png",
       "name": "Cactguard"
     },
     {
-      "icon": "20_BLU/chelonian_gate.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003373_hr1.tex?format=png",
+      "name": "Candy Cane"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003340_hr1.tex?format=png",
       "name": "Chelonian Gate"
     },
     {
-      "icon": "20_BLU/chirp.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003306_hr1.tex?format=png",
       "name": "Chirp"
     },
     {
-      "icon": "20_BLU/choco_meteor.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003351_hr1.tex?format=png",
       "name": "Choco Meteor"
     },
     {
-      "icon": "20_BLU/cold_fog.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003334_hr1.tex?format=png",
       "name": "Cold Fog"
     },
     {
-      "icon": "20_BLU/condensed_libra.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003326_hr1.tex?format=png",
       "name": "Condensed Libra"
     },
     {
-      "icon": "20_BLU/devour.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003369_hr1.tex?format=png",
+      "name": "Conviction Marcato"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003365_hr1.tex?format=png",
+      "name": "Deep Clean"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003325_hr1.tex?format=png",
       "name": "Devour"
     },
     {
-      "icon": "20_BLU/diamondback.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003292_hr1.tex?format=png",
       "name": "Diamondback"
     },
     {
-      "icon": "20_BLU/doom.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003368_hr1.tex?format=png",
+      "name": "Dimensional Shift"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003367_hr1.tex?format=png",
+      "name": "Divination Rune"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003284_hr1.tex?format=png",
       "name": "Doom"
     },
     {
-      "icon": "20_BLU/dragon_force.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003347_hr1.tex?format=png",
       "name": "Dragon Force"
     },
     {
-      "icon": "20_BLU/drill_cannons.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003266_hr1.tex?format=png",
       "name": "Drill Cannons"
     },
     {
-      "icon": "20_BLU/eerie_soundwave.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003307_hr1.tex?format=png",
       "name": "Eerie Soundwave"
     },
     {
-      "icon": "20_BLU/electrogenesis.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003303_hr1.tex?format=png",
       "name": "Electrogenesis"
     },
     {
-      "icon": "20_BLU/eruption.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003295_hr1.tex?format=png",
       "name": "Eruption"
     },
     {
-      "icon": "20_BLU/exuviation.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003323_hr1.tex?format=png",
       "name": "Exuviation"
     },
     {
-      "icon": "20_BLU/faze.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003271_hr1.tex?format=png",
       "name": "Faze"
     },
     {
-      "icon": "20_BLU/feather_rain.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003294_hr1.tex?format=png",
       "name": "Feather Rain"
     },
     {
-      "icon": "20_BLU/feculent_flood.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003338_hr1.tex?format=png",
       "name": "Feculent Flood"
     },
     {
-      "icon": "20_BLU/final_sting.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003275_hr1.tex?format=png",
       "name": "Final Sting"
     },
     {
-      "icon": "20_BLU/fire_angon.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003293_hr1.tex?format=png",
       "name": "Fire Angon"
     },
     {
-      "icon": "20_BLU/flame_thrower.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003270_hr1.tex?format=png",
       "name": "Flame Thrower"
     },
     {
-      "icon": "20_BLU/flying_frenzy.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003257_hr1.tex?format=png",
       "name": "Flying Frenzy"
     },
     {
-      "icon": "20_BLU/flying_sardine.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003291_hr1.tex?format=png",
       "name": "Flying Sardine"
     },
     {
-      "icon": "20_BLU/frog_legs.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003370_hr1.tex?format=png",
+      "name": "Force Field"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003312_hr1.tex?format=png",
       "name": "Frog Legs"
     },
     {
-      "icon": "20_BLU/glass_dance.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003298_hr1.tex?format=png",
       "name": "Glass Dance"
     },
     {
-      "icon": "20_BLU/glower.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003272_hr1.tex?format=png",
       "name": "Glower"
     },
     {
-      "icon": "20_BLU/gobskin.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003358_hr1.tex?format=png",
+      "name": "Goblin Punch"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003309_hr1.tex?format=png",
       "name": "Gobskin"
     },
     {
-      "icon": "20_BLU/high_voltage.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003255_hr1.tex?format=png",
       "name": "High Voltage"
     },
     {
-      "icon": "20_BLU/hydro_pull.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003349_hr1.tex?format=png",
       "name": "Hydro Pull"
     },
     {
-      "icon": "20_BLU/ice_spikes.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003286_hr1.tex?format=png",
       "name": "Ice Spikes"
     },
     {
-      "icon": "20_BLU/ink_jet.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003290_hr1.tex?format=png",
       "name": "Ink Jet"
     },
     {
-      "icon": "20_BLU/j_kick.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003330_hr1.tex?format=png",
       "name": "J Kick"
     },
     {
-      "icon": "20_BLU/kaltstrahl.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003304_hr1.tex?format=png",
       "name": "Kaltstrahl"
     },
     {
-      "icon": "20_BLU/launcher.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003372_hr1.tex?format=png",
+      "name": "Laser Eye"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003318_hr1.tex?format=png",
       "name": "Launcher"
     },
     {
-      "icon": "20_BLU/level_5_death.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003317_hr1.tex?format=png",
       "name": "Level 5 Death"
     },
     {
-      "icon": "20_BLU/level_5_petrify.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003282_hr1.tex?format=png",
       "name": "Level 5 Petrify"
     },
     {
-      "icon": "20_BLU/loom.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003269_hr1.tex?format=png",
       "name": "Loom"
     },
     {
-      "icon": "20_BLU/magic_hammer.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003310_hr1.tex?format=png",
       "name": "Magic Hammer"
     },
     {
-      "icon": "20_BLU/malediction_of_water.png",
-      "name": "Malediction Of Water"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003350_hr1.tex?format=png",
+      "name": "Malediction of Water"
     },
     {
-      "icon": "20_BLU/matra_magic.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003352_hr1.tex?format=png",
       "name": "Matra Magic"
     },
     {
-      "icon": "20_BLU/mighty_guard.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003285_hr1.tex?format=png",
       "name": "Mighty Guard"
     },
     {
-      "icon": "20_BLU/mind_blast.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003262_hr1.tex?format=png",
       "name": "Mind Blast"
     },
     {
-      "icon": "20_BLU/missile.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003273_hr1.tex?format=png",
       "name": "Missile"
     },
     {
-      "icon": "20_BLU/moon_flute.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003283_hr1.tex?format=png",
       "name": "Moon Flute"
     },
     {
-      "icon": "20_BLU/mountain_buster.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003374_hr1.tex?format=png",
+      "name": "Mortal Flame"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003296_hr1.tex?format=png",
       "name": "Mountain Buster"
     },
     {
-      "icon": "20_BLU/mustard_bomb.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003346_hr1.tex?format=png",
       "name": "Mustard Bomb"
     },
     {
-      "icon": "20_BLU/nightbloom.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003357_hr1.tex?format=png",
       "name": "Nightbloom"
     },
     {
-      "icon": "20_BLU/northerlies.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003302_hr1.tex?format=png",
       "name": "Northerlies"
     },
     {
-      "icon": "20_BLU/off-guard.png",
-      "name": "Off-Guard"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003279_hr1.tex?format=png",
+      "name": "Off-guard"
     },
     {
-      "icon": "20_BLU/peculiar_light.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003364_hr1.tex?format=png",
+      "name": "Peat Pelt"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003289_hr1.tex?format=png",
       "name": "Peculiar Light"
     },
     {
-      "icon": "20_BLU/peripheral_synthesis.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003353_hr1.tex?format=png",
       "name": "Peripheral Synthesis"
     },
     {
-      "icon": "20_BLU/perpetual_ray.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003319_hr1.tex?format=png",
       "name": "Perpetual Ray"
     },
     {
-      "icon": "20_BLU/phantom_flurry.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003355_hr1.tex?format=png",
       "name": "Phantom Flurry"
     },
     {
-      "icon": "20_BLU/plaincracker.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003259_hr1.tex?format=png",
       "name": "Plaincracker"
     },
     {
-      "icon": "20_BLU/pom_cure.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003308_hr1.tex?format=png",
       "name": "Pom Cure"
     },
     {
-      "icon": "20_BLU/protean_wave.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003301_hr1.tex?format=png",
       "name": "Protean Wave"
     },
     {
-      "icon": "20_BLU/quasar.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003329_hr1.tex?format=png",
       "name": "Quasar"
     },
     {
-      "icon": "20_BLU/reflux.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003324_hr1.tex?format=png",
       "name": "Reflux"
     },
     {
-      "icon": "20_BLU/revenge_blast.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003361_hr1.tex?format=png",
+      "name": "Rehydration"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003321_hr1.tex?format=png",
       "name": "Revenge Blast"
     },
     {
-      "icon": "20_BLU/saintly_beam.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003359_hr1.tex?format=png",
+      "name": "Right Round"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003366_hr1.tex?format=png",
+      "name": "Ruby Dynamics"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003337_hr1.tex?format=png",
       "name": "Saintly Beam"
     },
     {
-      "icon": "20_BLU/self-destruct.png",
-      "name": "Self-Destruct"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003360_hr1.tex?format=png",
+      "name": "Schiltron"
     },
     {
-      "icon": "20_BLU/sharpened_knife.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003375_hr1.tex?format=png",
+      "name": "Sea Shanty"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003276_hr1.tex?format=png",
+      "name": "Self-destruct"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003268_hr1.tex?format=png",
       "name": "Sharpened Knife"
     },
     {
-      "icon": "20_BLU/shock_strike.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003297_hr1.tex?format=png",
       "name": "Shock Strike"
     },
     {
-      "icon": "20_BLU/snort.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003251_hr1.tex?format=png",
       "name": "Snort"
     },
     {
-      "icon": "20_BLU/song_of_torment.png",
-      "name": "Song Of Torment"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003254_hr1.tex?format=png",
+      "name": "Song of Torment"
     },
     {
-      "icon": "20_BLU/sonic_boom.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003313_hr1.tex?format=png",
       "name": "Sonic Boom"
     },
     {
-      "icon": "20_BLU/sticky_tongue.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003280_hr1.tex?format=png",
       "name": "Sticky Tongue"
     },
     {
-      "icon": "20_BLU/stotram.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003336_hr1.tex?format=png",
       "name": "Stotram"
     },
     {
-      "icon": "20_BLU/surpanakha.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003336_hr1.tex?format=png",
+      "name": "Stotram"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003328_hr1.tex?format=png",
       "name": "Surpanakha"
     },
     {
-      "icon": "20_BLU/tail_screw.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003281_hr1.tex?format=png",
       "name": "Tail Screw"
     },
     {
-      "icon": "20_BLU/tatami-gaeshi.png",
-      "name": "Tatami-Gaeshi"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003333_hr1.tex?format=png",
+      "name": "Tatami-gaeshi"
     },
     {
-      "icon": "20_BLU/the_dragon's_voice.png",
-      "name": "The Dragon'S Voice"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003288_hr1.tex?format=png",
+      "name": "the Dragon's Voice"
     },
     {
-      "icon": "20_BLU/the_look.png",
-      "name": "The Look"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003267_hr1.tex?format=png",
+      "name": "the Look"
     },
     {
-      "icon": "20_BLU/the_ram's_voice.png",
-      "name": "The Ram'S Voice"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003287_hr1.tex?format=png",
+      "name": "the Ram's Voice"
     },
     {
-      "icon": "20_BLU/the_rose_of_destruction.png",
-      "name": "The Rose Of Destruction"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003342_hr1.tex?format=png",
+      "name": "The Rose of Destruction"
     },
     {
-      "icon": "20_BLU/tingle.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003332_hr1.tex?format=png",
       "name": "Tingle"
     },
     {
-      "icon": "20_BLU/toad_oil.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003278_hr1.tex?format=png",
       "name": "Toad Oil"
     },
     {
-      "icon": "20_BLU/transfusion.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003277_hr1.tex?format=png",
       "name": "Transfusion"
     },
     {
-      "icon": "20_BLU/triple_trident.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003331_hr1.tex?format=png",
       "name": "Triple Trident"
     },
     {
-      "icon": "20_BLU/ultravibration.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003344_hr1.tex?format=png",
       "name": "Ultravibration"
     },
     {
-      "icon": "20_BLU/veil_of_the_whorl.png",
-      "name": "Veil Of The Whorl"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003299_hr1.tex?format=png",
+      "name": "Veil of the Whorl"
     },
     {
-      "icon": "20_BLU/water_cannon.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003253_hr1.tex?format=png",
       "name": "Water Cannon"
     },
     {
-      "icon": "20_BLU/whistle.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003314_hr1.tex?format=png",
       "name": "Whistle"
     },
     {
-      "icon": "20_BLU/white_knight's_tour.png",
-      "name": "White Knight'S Tour"
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003315_hr1.tex?format=png",
+      "name": "White Knight's Tour"
     },
     {
-      "icon": "20_BLU/white_wind.png",
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003274_hr1.tex?format=png",
       "name": "White Wind"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003363_hr1.tex?format=png",
+      "name": "Wild Rage"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003371_hr1.tex?format=png",
+      "name": "Winged Reprobation"
+    }
+  ],
+  "Gunbreaker": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003415_hr1.tex?format=png",
+      "name": "Aurora"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003429_hr1.tex?format=png",
+      "name": "Blasting Zone"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003428_hr1.tex?format=png",
+      "name": "Bloodfest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003423_hr1.tex?format=png",
+      "name": "Bow Shock"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003403_hr1.tex?format=png",
+      "name": "Brutal Shell"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003426_hr1.tex?format=png",
+      "name": "Burst Strike"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003404_hr1.tex?format=png",
+      "name": "Camouflage"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003419_hr1.tex?format=png",
+      "name": "Continuation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003408_hr1.tex?format=png",
+      "name": "Danger Zone"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003413_hr1.tex?format=png",
+      "name": "Demon Slaughter"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003405_hr1.tex?format=png",
+      "name": "Demon Slice"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003432_hr1.tex?format=png",
+      "name": "Double Down"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003427_hr1.tex?format=png",
+      "name": "Fated Circle"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003410_hr1.tex?format=png",
+      "name": "Gnashing Fang"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003435_hr1.tex?format=png",
+      "name": "Great Nebula"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003430_hr1.tex?format=png",
+      "name": "Heart of Corundum"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003424_hr1.tex?format=png",
+      "name": "Heart of Light"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003425_hr1.tex?format=png",
+      "name": "Heart of Stone"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003401_hr1.tex?format=png",
+      "name": "Keen Edge"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003407_hr1.tex?format=png",
+      "name": "Lightning Shot"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003412_hr1.tex?format=png",
+      "name": "Nebula"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003402_hr1.tex?format=png",
+      "name": "No Mercy"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003437_hr1.tex?format=png",
+      "name": "Reign of Beasts"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003406_hr1.tex?format=png",
+      "name": "Royal Guard"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003409_hr1.tex?format=png",
+      "name": "Solid Barrel"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003417_hr1.tex?format=png",
+      "name": "Sonic Break"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003416_hr1.tex?format=png",
+      "name": "Superbolide"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003434_hr1.tex?format=png",
+      "name": "Trajectory"
+    }
+  ],
+  "Dancer": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003461_hr1.tex?format=png",
+      "name": "Bladeshower"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003465_hr1.tex?format=png",
+      "name": "Bloodshower"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003451_hr1.tex?format=png",
+      "name": "Cascade"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003470_hr1.tex?format=png",
+      "name": "Closed Position"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003468_hr1.tex?format=png",
+      "name": "Curing Waltz"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003471_hr1.tex?format=png",
+      "name": "Devilment"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003467_hr1.tex?format=png",
+      "name": "En Avant"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003462_hr1.tex?format=png",
+      "name": "Fan Dance"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003466_hr1.tex?format=png",
+      "name": "Fan Dance II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003472_hr1.tex?format=png",
+      "name": "Fan Dance III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003481_hr1.tex?format=png",
+      "name": "Fan Dance IV"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003475_hr1.tex?format=png",
+      "name": "Flourish"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003452_hr1.tex?format=png",
+      "name": "Fountain"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003464_hr1.tex?format=png",
+      "name": "Fountainfall"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003477_hr1.tex?format=png",
+      "name": "Improvisation"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png",
+      "name": "Last Dance"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003460_hr1.tex?format=png",
+      "name": "Reverse Cascade"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003463_hr1.tex?format=png",
+      "name": "Rising Windmill"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003476_hr1.tex?format=png",
+      "name": "Saber Dance"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003469_hr1.tex?format=png",
+      "name": "Shield Samba"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003454_hr1.tex?format=png",
+      "name": "Standard Step"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003482_hr1.tex?format=png",
+      "name": "Starfall Dance"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003473_hr1.tex?format=png",
+      "name": "Technical Step"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003453_hr1.tex?format=png",
+      "name": "Windmill"
+    }
+  ],
+  "Reaper": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003633_hr1.tex?format=png",
+      "name": "Arcane Circle"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003632_hr1.tex?format=png",
+      "name": "Arcane Crest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003617_hr1.tex?format=png",
+      "name": "Blood Stalk"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003626_hr1.tex?format=png",
+      "name": "Communio"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003622_hr1.tex?format=png",
+      "name": "Enshroud"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003611_hr1.tex?format=png",
+      "name": "Gallows"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003610_hr1.tex?format=png",
+      "name": "Gibbet"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003621_hr1.tex?format=png",
+      "name": "Gluttony"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003620_hr1.tex?format=png",
+      "name": "Grim Swathe"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003612_hr1.tex?format=png",
+      "name": "Guillotine"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003614_hr1.tex?format=png",
+      "name": "Harpe"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003630_hr1.tex?format=png",
+      "name": "Hell's Egress"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003629_hr1.tex?format=png",
+      "name": "Hell's Ingress"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003603_hr1.tex?format=png",
+      "name": "Infernal Slice"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003605_hr1.tex?format=png",
+      "name": "Nightmare Scythe"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003613_hr1.tex?format=png",
+      "name": "Plentiful Harvest"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003606_hr1.tex?format=png",
+      "name": "Shadow of Death"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003601_hr1.tex?format=png",
+      "name": "Slice"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003609_hr1.tex?format=png",
+      "name": "Soul Scythe"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003608_hr1.tex?format=png",
+      "name": "Soul Slice"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003615_hr1.tex?format=png",
+      "name": "Soulsow"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003604_hr1.tex?format=png",
+      "name": "Spinning Scythe"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003602_hr1.tex?format=png",
+      "name": "Waxing Slice"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003607_hr1.tex?format=png",
+      "name": "Whorl of Death"
+    }
+  ],
+  "Sage": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003652_hr1.tex?format=png",
+      "name": "Diagnosis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003651_hr1.tex?format=png",
+      "name": "Dosis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003674_hr1.tex?format=png",
+      "name": "Dosis II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003680_hr1.tex?format=png",
+      "name": "Dosis III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003664_hr1.tex?format=png",
+      "name": "Druochole"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003665_hr1.tex?format=png",
+      "name": "Dyskrasia"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003683_hr1.tex?format=png",
+      "name": "Dyskrasia II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003655_hr1.tex?format=png",
+      "name": "Egeiro"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003658_hr1.tex?format=png",
+      "name": "Eukrasia"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003673_hr1.tex?format=png",
+      "name": "Haima"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003678_hr1.tex?format=png",
+      "name": "Holos"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003663_hr1.tex?format=png",
+      "name": "Icarus"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003667_hr1.tex?format=png",
+      "name": "Ixochole"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003653_hr1.tex?format=png",
+      "name": "Kardia"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003666_hr1.tex?format=png",
+      "name": "Kerachole"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003685_hr1.tex?format=png",
+      "name": "Krasis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003679_hr1.tex?format=png",
+      "name": "Panhaima"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003669_hr1.tex?format=png",
+      "name": "Pepsis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003690_hr1.tex?format=png",
+      "name": "Philosophia"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003657_hr1.tex?format=png",
+      "name": "Phlegma"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003675_hr1.tex?format=png",
+      "name": "Phlegma II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003681_hr1.tex?format=png",
+      "name": "Phlegma III"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003656_hr1.tex?format=png",
+      "name": "Physis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003670_hr1.tex?format=png",
+      "name": "Physis II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003686_hr1.tex?format=png",
+      "name": "Pneuma"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003654_hr1.tex?format=png",
+      "name": "Prognosis"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003688_hr1.tex?format=png",
+      "name": "Psyche"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003677_hr1.tex?format=png",
+      "name": "Rhizomata"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003662_hr1.tex?format=png",
+      "name": "Soteria"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003671_hr1.tex?format=png",
+      "name": "Taurochole"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003672_hr1.tex?format=png",
+      "name": "Toxikon"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003684_hr1.tex?format=png",
+      "name": "Toxikon II"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003668_hr1.tex?format=png",
+      "name": "Zoe"
+    }
+  ],
+  "Viper": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003716_hr1.tex?format=png",
+      "name": "Hunter's Coil"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003719_hr1.tex?format=png",
+      "name": "Hunter's Den"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003702_hr1.tex?format=png",
+      "name": "Reaving Fangs"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003710_hr1.tex?format=png",
+      "name": "Reaving Maw"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003721_hr1.tex?format=png",
+      "name": "Reawaken"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003742_hr1.tex?format=png",
+      "name": "Serpent's Ire"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003743_hr1.tex?format=png",
+      "name": "Serpent's Tail"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003741_hr1.tex?format=png",
+      "name": "Slither"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003701_hr1.tex?format=png",
+      "name": "Steel Fangs"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003709_hr1.tex?format=png",
+      "name": "Steel Maw"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003717_hr1.tex?format=png",
+      "name": "Swiftskin's Coil"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003720_hr1.tex?format=png",
+      "name": "Swiftskin's Den"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003745_hr1.tex?format=png",
+      "name": "Twinblood"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003744_hr1.tex?format=png",
+      "name": "Twinfang"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003728_hr1.tex?format=png",
+      "name": "Uncoiled Fury"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003718_hr1.tex?format=png",
+      "name": "Vicepit"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003715_hr1.tex?format=png",
+      "name": "Vicewinder"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003727_hr1.tex?format=png",
+      "name": "Writhing Snap"
+    }
+  ],
+  "Pictomancer": [
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003810_hr1.tex?format=png",
+      "name": "Blizzard II in Cyan"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003804_hr1.tex?format=png",
+      "name": "Blizzard in Cyan"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003814_hr1.tex?format=png",
+      "name": "Comet in Black"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003839_hr1.tex?format=png",
+      "name": "Creature Motif"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003807_hr1.tex?format=png",
+      "name": "Fire II in Red"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003801_hr1.tex?format=png",
+      "name": "Fire in Red"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003829_hr1.tex?format=png",
+      "name": "Hammer Stamp"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003813_hr1.tex?format=png",
+      "name": "Holy in White"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003841_hr1.tex?format=png",
+      "name": "Landscape Motif"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003842_hr1.tex?format=png",
+      "name": "Living Muse"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003827_hr1.tex?format=png",
+      "name": "Mog of the Ages"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003838_hr1.tex?format=png",
+      "name": "Rainbow Drip"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003844_hr1.tex?format=png",
+      "name": "Scenic Muse"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003834_hr1.tex?format=png",
+      "name": "Smudge"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003832_hr1.tex?format=png",
+      "name": "Star Prism"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003843_hr1.tex?format=png",
+      "name": "Steel Muse"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003833_hr1.tex?format=png",
+      "name": "Subtractive Palette"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003835_hr1.tex?format=png",
+      "name": "Tempera Coat"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003836_hr1.tex?format=png",
+      "name": "Tempera Grassa"
+    },
+    {
+      "icon": "https://beta.xivapi.com/api/1/asset/ui/icon/003000/003840_hr1.tex?format=png",
+      "name": "Weapon Motif"
     }
   ]
 }

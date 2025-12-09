@@ -1,77 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GUESS THE ABILITY NAME</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="game-container">
-        <h1>GUESS THE ABILITY NAME</h1>
+        <h1 id="game-title">GUESS THE ABILITY NAME</h1>
         <div id="job-selection">
             <button id="instructions-button" class="styled-button">Instructions</button>
             <h2>Select Jobs</h2>
-            <div class="job-box">
-                <h3>Tanks</h3>
-                <label><input type="checkbox" class="job-checkbox" data-job="Paladin"> Paladin</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Warrior" checked> Warrior</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Dark Knight"> Dark Knight</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Gunbreaker"> Gunbreaker</label>
-            </div>
-            <div class="job-box">
-                <h3>DPS</h3>
-                <label><input type="checkbox" class="job-checkbox" data-job="Monk"> Monk</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Dragoon"> Dragoon</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Samurai"> Samurai</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Reaper"> Reaper</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Ninja"> Ninja</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Bard"> Bard</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Machinist"> Machinist</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Dancer"> Dancer</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Black Mage"> Black Mage</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Summoner"> Summoner</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Red Mage"> Red Mage</label>
-            </div>
-            <div class="job-box">
-                <h3>Healers</h3>
-                <label><input type="checkbox" class="job-checkbox" data-job="White Mage"> White Mage</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Scholar"> Scholar</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Astrologian"> Astrologian</label>
-                <label><input type="checkbox" class="job-checkbox" data-job="Sage"> Sage</label>
-            </div>
-            <div class="job-box">
-                <h3>Hard Mode</h3>
-                <label><input type="checkbox" class="job-checkbox" data-job="Blue Mage"> Blue Mage</label>
+            <div id="job-groups">
+                <div class="job-box">
+                    <h3>Tanks</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Paladin"> Paladin</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Warrior" checked> Warrior</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Dark Knight"> Dark Knight</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Gunbreaker"> Gunbreaker</label>
+                </div>
+                <div class="job-box">
+                    <h3>Melee DPS</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Monk"> Monk</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Dragoon"> Dragoon</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Ninja"> Ninja</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Samurai"> Samurai</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Reaper"> Reaper</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Viper"> Viper</label>
+                </div>
+                <div class="job-box">
+                    <h3>Physical Ranged DPS</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Bard"> Bard</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Machinist"> Machinist</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Dancer"> Dancer</label>
+                </div>
+                <div class="job-box">
+                    <h3>Magical Ranged DPS</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Black Mage"> Black Mage</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Summoner"> Summoner</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Red Mage"> Red Mage</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Pictomancer"> Pictomancer</label>
+                </div>
+                <div class="job-box">
+                    <h3>Healers</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="White Mage"> White Mage</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Scholar"> Scholar</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Astrologian"> Astrologian</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Sage"> Sage</label>
+                </div>
+                <div class="job-box">
+                    <h3>Crafters</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Carpenter"> Carpenter</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Blacksmith"> Blacksmith</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Armorer"> Armorer</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Goldsmith"> Goldsmith</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Leatherworker"> Leatherworker</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Weaver"> Weaver</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Alchemist"> Alchemist</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Culinarian"> Culinarian</label>
+                </div>
+                <div class="job-box">
+                    <h3>Gatherers</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Miner"> Miner</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Botanist"> Botanist</label>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Fisher"> Fisher</label>
+                </div>
+                <div class="job-box">
+                    <h3>Limited Jobs</h3>
+                    <label><input type="checkbox" class="job-checkbox" data-job="Blue Mage"> Blue Mage</label>
+                </div>
             </div>
             <div class="job-buttons">
                 <button id="select-all-dps" class="styled-button">All DPS</button>
                 <button id="select-all-tank" class="styled-button">All Tanks</button>
                 <button id="select-all-healers" class="styled-button">All Healers</button>
+                <button id="select-all-crafters" class="styled-button">All Crafters</button>
+                <button id="select-all-gatherers" class="styled-button">All Gatherers</button>
                 <button id="clear-selected-jobs" class="styled-button">Clear Selected Jobs</button>
                 <button id="random-jobs" class="styled-button">Random Jobs</button>
+            </div>
+            <div class="toggles-row">
+                <label class="toggle">
+                    <input type="checkbox" id="sound-toggle" checked>
+                    <span>Sound effects</span>
+                </label>
             </div>
             <button id="start-game" class="styled-button">Start Game</button>
         </div>
         <div id="game-info">
-            <div id="lives-container">Lives: <span id="lives">💜💜💜</span></div>
-            <div id="score-container">Score: <span id="score">0</span></div>
-            <div id="high-score-container">High Score: <span id="high-score">0</span></div>
+            <div class="stat-pill">Lives: <span id="lives">💜💜💜</span></div>
+            <div class="stat-pill">Score: <span id="score">0</span></div>
+            <div class="stat-pill">Streak: <span id="streak">0</span></div>
+            <div class="stat-pill">High Score: <span id="high-score">0</span></div>
+            <button id="achievements-toggle" class="styled-button icon-button" title="Show Achievements">🏆</button>
         </div>
-        <div id="icon-container"></div>
-        <div id="options-container"></div>
+        <div id="icon-wrapper">
+            <div class="icon-halo"></div>
+            <div id="icon-container"></div>
+        </div>
+        <div id="job-hint"></div>
         <div id="message-container"></div>
+        <div id="options-container"></div>
         <button id="next-button" style="display: none;" class="styled-button">Next</button>
+        <button id="replay-button" style="display: none;" class="styled-button">Replay</button>
         <button id="play-again" style="display: none;" class="styled-button">Play Again</button>
-        <footer> The icons used in this game are sourced from the official Final Fantasy XIV game. All rights to these icons are owned by Square Enix.</footer>
+        <footer> The icons used in this game are sourced from XIVAPI and belong to Square Enix. Final Fantasy XIV ©
+            SQUARE ENIX CO., LTD.</footer>
     </div>
     <div id="instructions-modal" class="modal">
         <div class="modal-content">
             <span class="close-button">&times;</span>
             <h2>Game Instructions</h2>
-            <p>Select jobs and start the game. Guess the ability based on the icon shown. You have 3 lives and can gain extra lives every 5 correct answers.</p>
+            <p>Select jobs and start the game. Guess the ability based on the icon shown. You have 3 lives and can gain
+                extra lives every 5 correct answers.</p>
+            <p>This game now includes all Dawntrail jobs including Viper and Pictomancer, plus crafting and gathering
+                abilities!</p>
+            <p>Speed tips: press 1-4 to pick answers, watch the spinner while icons load, and keep an eye on your
+                current streak.</p>
+        </div>
+    </div>
+    <div id="achievements-modal" class="modal">
+        <div class="modal-content achievements-content">
+            <span class="close-button" id="close-achievements">&times;</span>
+            <h2>Achievements</h2>
+            <p>Stay on streak or rack up score to unlock badges.</p>
+            <div id="achievement-badges" class="badge-row"></div>
         </div>
     </div>
     <script src="script.js"></script>
 </body>
+
 </html>

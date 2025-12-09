@@ -1,3 +1,5 @@
 # Ignore specific JavaScript files
 capitalizeAbilities.js
 generateabilities.js
+fetch-abilities.js
+
