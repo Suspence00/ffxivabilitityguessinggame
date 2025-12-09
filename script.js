@@ -1,6 +1,7 @@
 let abilities = {};
 let enabledJobs = []; // Default to an empty array
 let lives = 3;
+const maxLives = 5;
 let currentAbilityIndex = 0;
 let shuffledAbilities = [];
 let score = 0;
@@ -190,7 +191,7 @@ function checkAnswer(selected, correct, button) {
             localStorage.setItem('highScore', highScore);
             document.getElementById('high-score').textContent = highScore;
         }
-        if (score % 5 === 0 && lives < 5) {
+        if (score % 5 === 0 && lives < maxLives) {
             lives++;
             updateLives();
         }
@@ -214,10 +215,7 @@ function checkAnswer(selected, correct, button) {
 }
 
 function updateLives() {
-    const total = 3;
-    const hearts = '💜'.repeat(lives);
-    const empty = '♡'.repeat(Math.max(total - lives, 0));
-    document.getElementById('lives').textContent = hearts + empty;
+    document.getElementById('lives').textContent = `${lives}/${maxLives}`;
 }
 
 function updateStreak() {
@@ -319,7 +317,7 @@ function resetGame() {
     streak = 0;
     currentAbility = null;
     gameOver = false;
-    document.getElementById('job-selection').style.display = 'block';
+    document.getElementById('job-selection').style.display = ''; // Restore flex layout from CSS
     document.getElementById('instructions-button').style.display = 'block';
     document.getElementById('play-again').style.display = 'none';
     document.getElementById('replay-button').style.display = 'none';
